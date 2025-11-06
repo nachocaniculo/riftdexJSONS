@@ -81,7 +81,8 @@
     "rarity": "Common",
     "rune_type": "Fury",
     "set": "Origin",
-    "image": "OGN-007.webp"
+    "image": "OGN-007.webp",
+    "alternative":["OGN-007a.webp"]
   },
   {
     "id": "OGN-008",
@@ -321,7 +322,8 @@
     "rarity": "Rare",
     "rune_type": "Fury",
     "set": "Origin",
-    "image": "OGN-027.webp"
+    "image": "OGN-027.webp",
+    "alternative":["OGN-027a.webp"]
   },
   {
     "id": "OGN-028",
