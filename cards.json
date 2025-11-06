@@ -1,24 +1,24 @@
 [
   {
     "id": "OGN-001",
-    "name": "Card Name Example",
+    "name": "Blazing Scorcher",
     "type": "Unit",
-    "energy": 3,
-    "power": 2,
-    "might": 1,
+    "energy": 5,
+    "power": 0,
+    "might": 5,
     "rarity": "Common",
     "rune_type": "Fury",
     "image": "OGN-001.webp"
   },
   {
     "id": "OGN-002",
-    "name": "Another Example",
+    "name": "Brazen Buccaneer",
     "type": "Champion",
-    "energy": 5,
-    "power": 4,
-    "might": 3,
-    "rarity": "Legendary",
-    "rune_type": "Calm",
+    "energy": 6,
+    "power": 0,
+    "might": 5,
+    "rarity": "Common",
+    "rune_type": "Fury",
     "image": "OGN-002.webp"
   },
   {
