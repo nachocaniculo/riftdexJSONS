@@ -2357,7 +2357,7 @@
     "id": "OGN-168",
     "name": "Fight or Flight",
     "type": "Spell",
-    "energy": 2"",
+    "energy": "2",
     "power": "0",
     "might": "0",
     "rarity": "Common",
