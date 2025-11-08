@@ -7,7 +7,7 @@
     "power": 0,
     "might": 5,
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-001.webp"
   },
@@ -19,7 +19,7 @@
     "power": 0,
     "might": 5,
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-002.webp"
   },
@@ -31,7 +31,7 @@
     "power": 0,
     "might": 2,
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-003.webp"
   },
@@ -43,7 +43,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-004.webp"
   },
@@ -55,7 +55,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-005.webp"
   },
@@ -67,7 +67,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-006.webp"
   },
@@ -79,7 +79,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-007.webp",
     "alternative":["OGN-007a"]
@@ -92,7 +92,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-007a.webp",
     "alternative":["OGN-007"]
@@ -105,7 +105,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-008.webp"
   },
@@ -117,7 +117,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-009.webp"
   },
@@ -129,7 +129,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-010.webp"
   },
@@ -141,7 +141,7 @@
     "power": "1",
     "might": "8",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-011.webp"
   },
@@ -153,7 +153,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-012.webp"
   },
@@ -165,7 +165,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-013.webp"
   },
@@ -177,7 +177,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-014.webp"
   },
@@ -189,7 +189,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-015.webp"
   },
@@ -201,7 +201,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-016.webp"
   },
@@ -213,7 +213,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-017.webp"
   },
@@ -225,7 +225,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-018.webp"
   },
@@ -237,7 +237,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-019.webp"
   },
@@ -249,7 +249,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-020.webp"
   },
@@ -261,7 +261,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-021.webp"
   },
@@ -273,7 +273,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-022.webp"
   },
@@ -285,7 +285,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-023.webp"
   },
@@ -297,7 +297,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-024.webp"
   },
@@ -309,7 +309,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-025.webp"
   },
@@ -321,7 +321,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-026.webp"
   },
@@ -333,7 +333,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-027.webp",
     "alternative":["OGN-027a"]
@@ -346,7 +346,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-027a.webp",
     "alternative":["OGN-027"]
@@ -359,7 +359,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-028.webp"
   },
@@ -371,7 +371,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-029.webp"
   },
@@ -383,7 +383,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-030.webp",
     "alternative":["OGN-030a"]
@@ -396,7 +396,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-030a.webp",
     "alternative":["OGN-030"]
@@ -409,7 +409,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-031.webp"
   },
@@ -421,7 +421,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-032.webp"
   },
@@ -433,7 +433,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-033.webp"
   },
@@ -445,7 +445,7 @@
     "power": "2",
     "might": "8",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-034.webp"
   },
@@ -457,7 +457,7 @@
     "power": "1",
     "might": "2",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-035.webp"
   },
@@ -469,7 +469,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-036.webp",
     "alternative":["ARC-001"]
@@ -482,7 +482,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "ARC-001.webp",
     "alternative":["OGN-036"]
@@ -495,7 +495,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-037.webp"
   },
@@ -507,7 +507,7 @@
     "power": "2",
     "might": "9",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-038.webp"
   },
@@ -519,7 +519,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-039.webp",
     "alternative":["OGN-039"]
@@ -532,7 +532,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-039a.webp",
     "alternative":["OGN-039"]
@@ -545,7 +545,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-040.webp"
   },
@@ -557,7 +557,7 @@
     "power": "2",
     "might": "9",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-041.webp",
     "alternative":["OGN-041"]
@@ -570,7 +570,7 @@
     "power": "2",
     "might": "9",
     "rarity": "Showcase",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-041a.webp",
     "alternative":["OGN-041"]
@@ -583,7 +583,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-042.webp",
     "alternative":["OGN-042a"]
@@ -596,7 +596,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-042a.webp",
     "alternative":["OGN-042"]
@@ -609,7 +609,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-043.webp"
   },
@@ -621,7 +621,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-044.webp"
   },
@@ -633,7 +633,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-045.webp"
   },
@@ -645,7 +645,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-046.webp"
   },
@@ -657,7 +657,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-047.webp"
   },
@@ -669,7 +669,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-048.webp"
   },
@@ -681,7 +681,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-049.webp"
   },
@@ -693,7 +693,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-050.webp"
   },
@@ -705,7 +705,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-051.webp"
   },
@@ -717,7 +717,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-052.webp"
   },
@@ -729,7 +729,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-053.webp"
   },
@@ -741,7 +741,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-054.webp"
   },
@@ -753,7 +753,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-055.webp"
   },
@@ -765,7 +765,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-056.webp"
   },
@@ -777,7 +777,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-057.webp"
   },
@@ -789,7 +789,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-058.webp"
   },
@@ -801,7 +801,7 @@
     "power": "1",
     "might": "7",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-059.webp"
   },
@@ -813,7 +813,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-060.webp"
   },
@@ -825,7 +825,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-061.webp"
   },
@@ -837,7 +837,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-062.webp"
   },
@@ -849,7 +849,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-063.webp"
   },
@@ -861,7 +861,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-064.webp"
   },
@@ -873,7 +873,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-065.webp"
   },
@@ -885,7 +885,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-066.webp",
     "alternative":["OGN-066a"]
@@ -898,7 +898,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-066a.webp",
     "alternative":["OGN-066"]
@@ -911,7 +911,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-067.webp"
   },
@@ -923,7 +923,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-068.webp",
     "alternative":["ARC-002"]
@@ -936,7 +936,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "ARC-002.webp",
     "alternative":["OGN-068.webp"]
@@ -949,7 +949,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-069.webp"
   },
@@ -961,7 +961,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-070.webp"
   },
@@ -973,7 +973,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-071.webp"
   },
@@ -985,7 +985,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-072.webp"
   },
@@ -997,7 +997,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-073.webp"
   },
@@ -1009,7 +1009,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-074.webp"
   },
@@ -1021,7 +1021,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-075.webp"
   },
@@ -1033,7 +1033,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-076.webp",
     "alternative":["OGN-076a"]
@@ -1046,7 +1046,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-076a.webp",
     "alternative":["OGN-076"]
@@ -1059,7 +1059,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-077.webp"
   },
@@ -1071,7 +1071,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Epic",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-078.webp",
     "alternative":["OGN-078a"]
@@ -1084,7 +1084,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-078a.webp",
     "alternative":["OGN-078"]
@@ -1097,7 +1097,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Epic",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-079.webp",
     "alternative":["OGN-079a"]
@@ -1110,7 +1110,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Showcase",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-079a.webp",
     "alternative":["OGN-079"]
@@ -1123,7 +1123,7 @@
     "power": "3",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-080.webp"
   },
@@ -1135,7 +1135,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-081.webp"
   },
@@ -1147,7 +1147,7 @@
     "power": "2",
     "might": "8",
     "rarity": "Epic",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-082.webp"
   },
@@ -1159,7 +1159,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-083.webp"
   },
@@ -1171,7 +1171,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-084.webp"
   },
@@ -1183,7 +1183,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-085.webp"
   },
@@ -1195,7 +1195,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-086.webp"
   },
@@ -1207,7 +1207,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-087.webp"
   },
@@ -1219,7 +1219,7 @@
     "power": "0",
     "might": "8",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-088.webp"
   },
@@ -1231,7 +1231,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-089.webp",
     "alternative":["OGN-089a"]
@@ -1244,7 +1244,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-089a.webp",
     "alternative":["OGN-089"]
@@ -1257,7 +1257,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-090.webp"
   },
@@ -1269,7 +1269,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-091.webp"
   },
@@ -1281,7 +1281,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-092.webp"
   },
@@ -1293,7 +1293,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-093.webp"
   },
@@ -1305,7 +1305,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-094.webp"
   },
@@ -1317,7 +1317,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-095.webp"
   },
@@ -1329,7 +1329,7 @@
     "power": "0",
     "might": "1",
     "rarity": "Common",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-096.webp"
   },
@@ -1341,7 +1341,7 @@
     "power": "1",
     "might": "2",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-097.webp"
   },
@@ -1353,7 +1353,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-098.webp"
   },
@@ -1365,7 +1365,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-099.webp"
   },
@@ -1377,7 +1377,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-100.webp"
   },
@@ -1389,7 +1389,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-101.webp"
   },
@@ -1401,7 +1401,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-102.webp"
   },
@@ -1413,7 +1413,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-103.webp"
   },
@@ -1425,7 +1425,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-104.webp"
   },
@@ -1437,7 +1437,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-105.webp"
   },
@@ -1449,7 +1449,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-106.webp"
   },
@@ -1461,7 +1461,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-107.webp"
   },
@@ -1473,7 +1473,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-108.webp"
   },
@@ -1485,7 +1485,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-109.webp"
   },
@@ -1497,7 +1497,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-110.webp"
   },
@@ -1509,7 +1509,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-111.webp",
     "alternative":["ARC-003"]
@@ -1522,7 +1522,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "ARC-003.webp",
     "alternative":["OGN-111.webp"]
@@ -1535,7 +1535,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-112.webp",
     "alternative":["OGN-112a"]
@@ -1548,7 +1548,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-112a.webp",
     "alternative":["OGN-112"]
@@ -1561,7 +1561,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-113.webp"
   },
@@ -1573,7 +1573,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-114.webp"
   },
@@ -1585,7 +1585,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-115.webp"
   },
@@ -1597,7 +1597,7 @@
     "power": "1",
     "might": "7",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-116.webp"
   },
@@ -1609,7 +1609,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-117.webp",
     "alternative":["OGN-117a"]
@@ -1622,7 +1622,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-117a.webp",
     "alternative":["OGN-117"]
@@ -1635,7 +1635,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-118.webp"
   },
@@ -1647,7 +1647,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Epic",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-119.webp",
     "alternative":["OGN-119a"]
@@ -1660,7 +1660,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-119a.webp",
     "alternative":["OGN-119"]
@@ -1673,7 +1673,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-120.webp"
   },
@@ -1685,7 +1685,7 @@
     "power": "1",
     "might": "2",
     "rarity": "Epic",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-121.webp",
     "alternative":["OGN-121a"]
@@ -1698,7 +1698,7 @@
     "power": "1",
     "might": "2",
     "rarity": "Showcase",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-121a.webp",
     "alternative":["OGN-121"]
@@ -1711,7 +1711,7 @@
     "power": "4",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-122.webp"
   },
@@ -1723,7 +1723,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-123.webp"
   },
@@ -1735,7 +1735,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-124.webp"
   },
@@ -1747,7 +1747,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-125.webp"
   },
@@ -1759,7 +1759,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-126.webp",
     "alternative":["OGN-126"]
@@ -1772,7 +1772,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-126a.webp",
     "alternative":["OGN-126"]
@@ -1785,7 +1785,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-127.webp"
   },
@@ -1797,7 +1797,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-128.webp"
   },
@@ -1809,7 +1809,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-129.webp"
   },
@@ -1821,7 +1821,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-130.webp"
   },
@@ -1833,7 +1833,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-131.webp"
   },
@@ -1845,7 +1845,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-132.webp"
   },
@@ -1857,7 +1857,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-133.webp"
   },
@@ -1869,7 +1869,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-134.webp"
   },
@@ -1881,7 +1881,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-135.webp"
   },
@@ -1893,7 +1893,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-136.webp"
   },
@@ -1905,7 +1905,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-137.webp"
   },
@@ -1917,7 +1917,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-138.webp"
   },
@@ -1929,7 +1929,7 @@
     "power": "0",
     "might": "1",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-139.webp"
   },
@@ -1941,7 +1941,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-140.webp"
   },
@@ -1953,7 +1953,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-141.webp"
   },
@@ -1965,7 +1965,7 @@
     "power": "0",
     "might": "10",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-142.webp"
   },
@@ -1977,7 +1977,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-143.webp"
   },
@@ -1989,7 +1989,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-144.webp"
   },
@@ -2001,7 +2001,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-145.webp"
   },
@@ -2013,7 +2013,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-146.webp"
   },
@@ -2025,7 +2025,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-147.webp"
   },
@@ -2037,7 +2037,7 @@
     "power": "2",
     "might": "8",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-148.webp"
   },
@@ -2049,7 +2049,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-149.webp"
   },
@@ -2061,7 +2061,7 @@
     "power": "2",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-150.webp"
   },
@@ -2073,7 +2073,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-151.webp",
     "alternative":["OGN-151a"]
@@ -2086,7 +2086,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-151a.webp",
     "alternative":["OGN-151"]
@@ -2099,7 +2099,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-152.webp"
   },
@@ -2111,7 +2111,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-153.webp"
   },
@@ -2123,7 +2123,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-154.webp"
   },
@@ -2135,7 +2135,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-155.webp"
   },
@@ -2147,7 +2147,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-156.webp"
   },
@@ -2159,7 +2159,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-157.webp"
   },
@@ -2171,7 +2171,7 @@
     "power": "2",
     "might": "10",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-158.webp",
     "alternative":["OGN-158a"]
@@ -2184,7 +2184,7 @@
     "power": "2",
     "might": "10",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-158a.webp",
     "alternative":["OGN-158"]
@@ -2197,7 +2197,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-159.webp",
     "alternative":["ARC-004"]
@@ -2210,7 +2210,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "ARC-004.webp",
     "alternative":["OGN-159.webp"]
@@ -2223,7 +2223,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-160.webp"
   },
@@ -2235,7 +2235,7 @@
     "power": "2",
     "might": "8",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-161.webp"
   },
@@ -2247,7 +2247,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-162.webp",
     "alternative":["OGN-162a"]
@@ -2260,7 +2260,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-162a.webp",
     "alternative":["OGN-162"]
@@ -2273,7 +2273,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-163.webp"
   },
@@ -2285,7 +2285,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-164.webp",
     "alternative":["OGN-164a"]
@@ -2298,7 +2298,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-164a.webp",
     "alternative":["OGN-164"]
@@ -2311,7 +2311,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-165.webp"
   },
@@ -2323,7 +2323,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-166.webp",
     "alternative":["OGN-166a"]
@@ -2336,7 +2336,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-166a.webp",
     "alternative":["OGN-166"]
@@ -2349,7 +2349,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-167.webp"
   },
@@ -2361,7 +2361,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-168.webp"
   },
@@ -2373,7 +2373,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-169.webp"
   },
@@ -2385,7 +2385,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-170.webp"
   },
@@ -2397,7 +2397,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-171.webp"
   },
@@ -2409,7 +2409,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-172.webp"
   },
@@ -2421,7 +2421,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-173.webp"
   },
@@ -2433,7 +2433,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-174.webp"
   },
@@ -2445,7 +2445,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-175.webp"
   },
@@ -2457,7 +2457,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-176.webp"
   },
@@ -2469,7 +2469,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-177.webp"
   },
@@ -2481,7 +2481,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-178.webp"
   },
@@ -2493,7 +2493,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-179.webp"
   },
@@ -2505,7 +2505,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-180.webp"
   },
@@ -2517,7 +2517,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-181.webp"
   },
@@ -2529,7 +2529,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-182.webp"
   },
@@ -2541,7 +2541,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-183.webp"
   },
@@ -2553,7 +2553,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-184.webp"
   },
@@ -2565,7 +2565,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-185.webp"
   },
@@ -2577,7 +2577,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-186.webp"
   },
@@ -2589,7 +2589,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-187.webp"
   },
@@ -2601,7 +2601,7 @@
     "power": "2",
     "might": "2",
     "rarity": "Uncommon",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-188.webp"
   },
@@ -2613,7 +2613,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-189.webp"
   },
@@ -2625,7 +2625,7 @@
     "power": "1",
     "might": "1",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-190.webp"
   },
@@ -2637,7 +2637,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-191.webp"
   },
@@ -2649,7 +2649,7 @@
     "power": "2",
     "might": "7",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-192.webp"
   },
@@ -2661,7 +2661,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-193.webp",
     "alternative":["OGN-193a"]
@@ -2674,7 +2674,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-193a.webp",
     "alternative":["OGN-193"]
@@ -2687,7 +2687,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-194.webp"
   },
@@ -2699,7 +2699,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-195.webp"
   },
@@ -2711,7 +2711,7 @@
     "power": "2",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-196.webp"
   },
@@ -2723,7 +2723,7 @@
     "power": "0",
     "might": "1",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-197.webp",
     "alternative":["OGN-197a"]
@@ -2736,7 +2736,7 @@
     "power": "0",
     "might": "1",
     "rarity": "Showcase",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-197a.webp",
     "alternative":["OGN-197"]
@@ -2749,7 +2749,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-198.webp"
   },
@@ -2761,7 +2761,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-199.webp"
   },
@@ -2773,7 +2773,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-200.webp"
   },
@@ -2785,7 +2785,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-201.webp"
   },
@@ -2797,7 +2797,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Epic",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-202.webp",
     "alternative":["OGN-202a"]
@@ -2810,7 +2810,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-202a.webp",
     "alternative":["OGN-202"]
@@ -2823,7 +2823,7 @@
     "power": "3",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-203.webp"
   },
@@ -2835,7 +2835,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-204.webp"
   },
@@ -2847,7 +2847,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Epic",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-205.webp",
     "alternative":["OGN-205a"]
@@ -2860,7 +2860,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-205a.webp",
     "alternative":["OGN-205"]
@@ -2873,7 +2873,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-206.webp"
   },
@@ -2885,7 +2885,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-207.webp"
   },
@@ -2897,7 +2897,7 @@
     "power": "0",
     "might": "6",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-208.webp"
   },
@@ -2909,7 +2909,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-209.webp"
   },
@@ -2921,7 +2921,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-210.webp"
   },
@@ -2933,7 +2933,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-211.webp"
   },
@@ -2945,7 +2945,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-212.webp"
   },
@@ -2957,7 +2957,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-213.webp"
   },
@@ -2969,7 +2969,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-214.webp",
     "alternative":["OGN-214a"]
@@ -2982,7 +2982,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Showcase",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-214a.webp",
     "alternative":["OGN-214"]
@@ -2995,7 +2995,7 @@
     "power": "0",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-215.webp"
   },
@@ -3007,7 +3007,7 @@
     "power": "0",
     "might": "1",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-216.webp"
   },
@@ -3019,7 +3019,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-217.webp"
   },
@@ -3031,7 +3031,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-218.webp"
   },
@@ -3043,7 +3043,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-219.webp"
   },
@@ -3055,7 +3055,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-220.webp"
   },
@@ -3067,7 +3067,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-221.webp"
   },
@@ -3079,7 +3079,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-222.webp"
   },
@@ -3091,7 +3091,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-223.webp"
   },
@@ -3103,7 +3103,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-224.webp"
   },
@@ -3115,7 +3115,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-225.webp"
   },
@@ -3127,7 +3127,7 @@
     "power": "2",
     "might": "4",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-226.webp"
   },
@@ -3139,7 +3139,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-227.webp"
   },
@@ -3151,7 +3151,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-228.webp"
   },
@@ -3163,7 +3163,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-229.webp"
   },
@@ -3175,7 +3175,7 @@
     "power": "0",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-230.webp"
   },
@@ -3187,7 +3187,7 @@
     "power": "4",
     "might": "8",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-231.webp"
   },
@@ -3199,7 +3199,7 @@
     "power": "0",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-232.webp"
   },
@@ -3211,7 +3211,7 @@
     "power": "3",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-233.webp"
   },
@@ -3223,7 +3223,7 @@
     "power": "2",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-234.webp"
   },
@@ -3235,7 +3235,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-235.webp"
   },
@@ -3247,7 +3247,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-236.webp"
   },
@@ -3259,7 +3259,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-237.webp"
   },
@@ -3271,7 +3271,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-238.webp",
     "alternative":["OGN-238a"]
@@ -3284,7 +3284,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-238a.webp",
     "alternative":["OGN-238"]
@@ -3297,7 +3297,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-239.webp"
   },
@@ -3309,7 +3309,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-240.webp",
     "alternative":["OGN-240a"]
@@ -3322,7 +3322,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Showcase",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-240a.webp",
     "alternative":["OGN-240"]
@@ -3335,7 +3335,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-241.webp"
   },
@@ -3347,7 +3347,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-242.webp"
   },
@@ -3359,7 +3359,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-243.webp",
     "alternative":["OGN-243a"]
@@ -3372,7 +3372,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Showcase",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-243a.webp",
     "alternative":["OGN-243"]
@@ -3385,7 +3385,7 @@
     "power": "2",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-244.webp"
   },
@@ -3397,7 +3397,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-245.webp"
   },
@@ -3409,7 +3409,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-246.webp",
     "alternative":["OGN-246a"]
@@ -3422,296 +3422,296 @@
     "power": "1",
     "might": "4",
     "rarity": "Showcase",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-246a.webp",
     "alternative":["OGN-246"]
   },
   {
     "id": "OGN-247",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Kai'Sa, Daughter of the Void",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-247.webp"
   },
   {
     "id": "OGN-248",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Icathian Rain",
+    "type": "Signature Spell",
+    "energy": "7",
+    "power": "3",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-248.webp"
   },
   {
     "id": "OGN-249",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Volibear, Relentless Storm",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-249.webp"
   },
   {
     "id": "OGN-250",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Stormbringer",
+    "type": "Signature Spell",
+    "energy": "6",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-250.webp"
   },
   {
     "id": "OGN-251",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Jinx, Loose Cannon",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-251.webp"
   },
   {
     "id": "OGN-252",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Super Mega Death Rocket!",
+    "type": "Signature Spell",
+    "energy": "4",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-252.webp"
   },
   {
     "id": "OGN-253",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Darius, Hand of Noxus",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-253.webp"
   },
   {
     "id": "OGN-254",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Noxian Guillotine",
+    "type": "Signature Spell",
+    "energy": "4",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-254.webp"
   },
   {
     "id": "OGN-255",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Ahri, Nine-Tailed Fox",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-255.webp"
   },
   {
     "id": "OGN-256",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Fox-Fire",
+    "type": "Signature Spell",
+    "energy": "3",
+    "power": "0",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-256.webp"
   },
   {
     "id": "OGN-257",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Lee Sin, Blind Monk",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-257.webp"
   },
   {
     "id": "OGN-258",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Dragon's Rage",
+    "type": "Signature Spell",
+    "energy": "4",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-258.webp"
   },
   {
     "id": "OGN-259",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Yasuo, Unforgiven",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-259.webp"
   },
   {
     "id": "OGN-260",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Last Breath",
+    "type": "Signature Spell",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-260.webp"
   },
   {
     "id": "OGN-261",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Leona, Radiant Dawn",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-261.webp"
   },
   {
     "id": "OGN-262",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Zenith Blade",
+    "type": "Signature Spell",
+    "energy": "3",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-262.webp"
   },
   {
     "id": "OGN-263",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Teemo, Swift Scout",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-263.webp"
   },
   {
     "id": "OGN-264",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Guerilla Warfare",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-264.webp"
   },
   {
     "id": "OGN-265",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Viktor, Herald of the Arcane",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-265.webp"
   },
   {
     "id": "OGN-266",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Siphon Power",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-266.webp"
   },
   {
     "id": "OGN-267",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Miss Fortune, Bounty Hunter",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-267.webp"
   },
   {
     "id": "OGN-268",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Bullet Time",
+    "type": "Signature Spell",
+    "energy": "1",
+    "power": "0",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-268.webp"
   },
   {
     "id": "OGN-269",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Sett, The Boss",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-269.webp"
   },
   {
     "id": "OGN-270",
-    "name": "",
-    "type": "",
-    "energy": "",
-    "power": "",
-    "might": "",
-    "rarity": "",
-    "rune_type": "",
+    "name": "Showstopper",
+    "type": "Signature Spell",
+    "energy": "1",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-270.webp"
   },
@@ -4042,7 +4042,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-299.webp",
     "alternative": ["OGN-299s"]
@@ -4055,7 +4055,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-299s.webp",
     "alternative": ["OGN-299"]
@@ -4068,7 +4068,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-300.webp",
     "alternative": ["OGN-300s"]
@@ -4081,7 +4081,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-300s.webp",
     "alternative": ["OGN-300"]
@@ -4094,7 +4094,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-301.webp",
     "alternative": ["OGN-301s"]
@@ -4107,7 +4107,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-301s.webp",
     "alternative": ["OGN-301"]
@@ -4120,7 +4120,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-302.webp",
     "alternative": ["OGN-302s"]
@@ -4133,7 +4133,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-302s.webp",
     "alternative": ["OGN-302"]
@@ -4146,7 +4146,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-303.webp",
     "alternative": ["OGN-303s"]
@@ -4159,7 +4159,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-303s.webp",
     "alternative": ["OGN-303"]
@@ -4172,7 +4172,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-304.webp",
     "alternative": ["OGN-304s"]
@@ -4185,7 +4185,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-304s.webp",
     "alternative": ["OGN-304"]
@@ -4198,7 +4198,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-305.webp",
     "alternative": ["OGN-305s"]
@@ -4211,7 +4211,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-305s.webp",
     "alternative": ["OGN-305"]
@@ -4224,7 +4224,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-306.webp",
     "alternative": ["OGN-306s"]
@@ -4237,7 +4237,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-306s.webp",
     "alternative": ["OGN-306"]
@@ -4250,7 +4250,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-307.webp",
     "alternative": ["OGN-307s"]
@@ -4263,7 +4263,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-307s.webp",
     "alternative": ["OGN-307"]
@@ -4276,7 +4276,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-308.webp",
     "alternative": ["OGN-308s"]
@@ -4289,7 +4289,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-308s.webp",
     "alternative": ["OGN-308"]
@@ -4302,7 +4302,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-309.webp",
     "alternative": ["OGN-309s"]
@@ -4315,7 +4315,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-309s.webp",
     "alternative": ["OGN-309"]
@@ -4328,7 +4328,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-310.webp",
     "alternative": ["OGN-310s"]
@@ -4341,7 +4341,7 @@
     "power": "",
     "might": "",
     "rarity": "Showcase",
-    "rune_type": "",
+    "rune_type": [""],
     "set": "Origin",
     "image": "OGN-310s.webp",
     "alternative": ["OGN-310"]
@@ -4354,7 +4354,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-001.webp"
   },
@@ -4366,7 +4366,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-002.webp"
   },
@@ -4378,7 +4378,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-003.webp"
   },
@@ -4390,7 +4390,7 @@
     "power": "1",
     "might": "4",
     "rarity": "Rare",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Proving Grounds",
     "image": "OGS-004.webp"
   },
@@ -4402,7 +4402,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Uncommon",
-    "rune_type": "Calm",
+    "rune_type": ["Calm"],
     "set": "Proving Grounds",
     "image": "OGS-005.webp"
   },
@@ -4414,7 +4414,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Mind",
+    "rune_type": ["Mind"],
     "set": "Proving Grounds",
     "image": "OGS-006.webp"
   },
@@ -4426,7 +4426,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-007.webp"
   },
@@ -4438,7 +4438,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-008.webp"
   },
@@ -4450,7 +4450,7 @@
     "power": "1",
     "might": "6",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-009.webp"
   },
@@ -4462,7 +4462,7 @@
     "power": "1",
     "might": "3",
     "rarity": "Rare",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-010.webp"
   },
@@ -4474,7 +4474,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Chaos",
+    "rune_type": ["Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-011.webp"
   },
@@ -4486,7 +4486,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-012.webp"
   },
@@ -4498,7 +4498,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-013.webp"
   },
@@ -4510,7 +4510,7 @@
     "power": "0",
     "might": "2",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-014.webp"
   },
@@ -4522,7 +4522,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Uncommon",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-015.webp"
   },
@@ -4534,7 +4534,7 @@
     "power": "1",
     "might": "5",
     "rarity": "Common",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-016.webp"
   },
@@ -4546,7 +4546,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-017.webp"
   },
@@ -4558,7 +4558,7 @@
     "power": "2",
     "might": "7",
     "rarity": "Epic",
-    "rune_type": "Fury",
+    "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-018.webp"
   },
@@ -4570,7 +4570,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-019.webp"
   },
@@ -4582,7 +4582,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-020.webp"
   },
@@ -4594,7 +4594,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-021.webp"
   },
@@ -4606,7 +4606,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Order",
+    "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-022.webp"
   },
@@ -4618,7 +4618,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-023.webp"
   },
@@ -4630,7 +4630,7 @@
     "power": "1",
     "might": "0",
     "rarity": "Epic",
-    "rune_type": "Body",
+    "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-024.webp"
   }
