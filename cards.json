@@ -3435,7 +3435,7 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": ["Fury"],
+    "rune_type": ["Fury", "Mind"],
     "set": "Origin",
     "image": "OGN-247.webp"
   },
