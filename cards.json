@@ -4646,7 +4646,7 @@
     "rarity": "Rare",
     "rune_type": ["Fury"],
     "set": "Spiritforged",
-    "image": "OGS-020.webp"
+    "image": "SFD-020.webp"
   },
   {
     "id": "SFD-020a",
@@ -4658,7 +4658,7 @@
     "rarity": "Rare",
     "rune_type": ["Fury"],
     "set": "Spiritforged",
-    "image": "OGS-020a.webp"
+    "image": "SFD-020a.webp"
   },
   {
     "id": "SFD-022",
@@ -4670,7 +4670,7 @@
     "rarity": "Rare",
     "rune_type": ["Fury"],
     "set": "Spiritforged",
-    "image": "OGS-022.webp"
+    "image": "SFD-022.webp"
   },
   {
     "id": "SFD-033",
@@ -4682,7 +4682,7 @@
     "rarity": "Common",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
-    "image": "OGS-033.webp"
+    "image": "SFD-033.webp"
   },
   {
     "id": "SFD-051",
@@ -4694,7 +4694,7 @@
     "rarity": "Rare",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
-    "image": "OGS-051.webp"
+    "image": "SFD-051.webp"
   },
   {
     "id": "SFD-056",
@@ -4706,7 +4706,7 @@
     "rarity": "Rare",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
-    "image": "OGS-056.webp"
+    "image": "SFD-056.webp"
   },
   {
     "id": "SFD-059",
@@ -4718,7 +4718,7 @@
     "rarity": "Showcase",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
-    "image": "OGS-059.webp"
+    "image": "SFD-059.webp"
   },
   {
     "id": "SFD-113",
@@ -4730,7 +4730,7 @@
     "rarity": "Showcase",
     "rune_type": ["Body"],
     "set": "Spiritforged",
-    "image": "OGS-113.webp"
+    "image": "SFD-113.webp"
   },
   {
     "id": "SFD-113a",
@@ -4742,7 +4742,7 @@
     "rarity": "Showcase",
     "rune_type": ["Body"],
     "set": "Spiritforged",
-    "image": "OGS-113a.webp"
+    "image": "SFD-113a.webp"
   },
   {
     "id": "SFD-115",
@@ -4754,7 +4754,7 @@
     "rarity": "Rare",
     "rune_type": ["Body"],
     "set": "Spiritforged",
-    "image": "OGS-115.webp"
+    "image": "SFD-115.webp"
   },
   {
     "id": "SFD-128",
@@ -4766,7 +4766,7 @@
     "rarity": "Common",
     "rune_type": ["Chaos"],
     "set": "Spiritforged",
-    "image": "OGS-128.webp"
+    "image": "SFD-128.webp"
   },
   {
     "id": "SFD-178",
@@ -4778,7 +4778,7 @@
     "rarity": "Showcase",
     "rune_type": ["Order"],
     "set": "Spiritforged",
-    "image": "OGS-178.webp"
+    "image": "SFD-178.webp"
   },
   {
     "id": "SFD-185",
@@ -4790,7 +4790,7 @@
     "rarity": "Rare",
     "rune_type": ["Fury", "Chaos"],
     "set": "Spiritforged",
-    "image": "OGS-185.webp"
+    "image": "SFD-185.webp"
   },
   {
     "id": "SFD-186",
@@ -4802,7 +4802,7 @@
     "rarity": "Showcase",
     "rune_type": ["Fury", "Chaos"],
     "set": "Spiritforged",
-    "image": "OGS-186.webp"
+    "image": "SFD-186.webp"
   },
   {
     "id": "SFD-195",
@@ -4814,7 +4814,7 @@
     "rarity": "Rare",
     "rune_type": ["Calm", "Chaos"],
     "set": "Spiritforged",
-    "image": "OGS-195.webp"
+    "image": "SFD-195.webp"
   },
   {
     "id": "SFD-197",
@@ -4826,7 +4826,7 @@
     "rarity": "Rare",
     "rune_type": ["Calm", "Order"],
     "set": "Spiritforged",
-    "image": "OGS-197.webp"
+    "image": "SFD-197.webp"
   },
   {
     "id": "SFD-201",
@@ -4838,7 +4838,7 @@
     "rarity": "Rare",
     "rune_type": ["Mind", "Order"],
     "set": "Spiritforged",
-    "image": "OGS-201.webp"
+    "image": "SFD-201.webp"
   },
   {
     "id": "SFD-203",
@@ -4850,6 +4850,6 @@
     "rarity": "Rare",
     "rune_type": ["Body", "Chaos"],
     "set": "Spiritforged",
-    "image": "OGS-203.webp"
+    "image": "SFD-203.webp"
   }
 ]
