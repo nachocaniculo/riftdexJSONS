@@ -4635,8 +4635,18 @@
     "image": "OGS-024.webp"
   },
 
-  
 
+  {
+    "id": "SFD-T03",
+    "name": "GOLD",
+    "type": "Token Gear",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Common",
+    "set": "Spiritforged",
+    "image": "SFD-T03.webp"
+  },
   {
     "id": "SFD-020",
     "name": "Draven, Vanquisher",
@@ -4710,6 +4720,30 @@
     "image": "SFD-056.webp"
   },
   {
+    "id": "SFD-057",
+    "name": "Irelia, Fervent",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "0",
+    "might": "4",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-057.webp"
+  },
+  {
+    "id": "SFD-057a",
+    "name": "Irelia, Fervent",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "0",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-057a.webp"
+  },
+  {
     "id": "SFD-059",
     "name": "Svellsongur",
     "type": "Gear",
@@ -4720,6 +4754,30 @@
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-059.webp"
+  },
+  {
+    "id": "SFD-095",
+    "name": "Doran's Blade",
+    "type": "Gear",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-095.webp"
+  },
+  {
+    "id": "SFD-111",
+    "name": "Here to Help",
+    "type": "Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-111.webp"
   },
   {
     "id": "SFD-113",
@@ -4758,6 +4816,18 @@
     "image": "SFD-115.webp"
   },
   {
+    "id": "SFD-124",
+    "name": "Doran's Ring",
+    "type": "Gear",
+    "energy": "1",
+    "power": "0",
+    "might": "1",
+    "rarity": "Common",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-124.webp"
+  },
+  {
     "id": "SFD-128",
     "name": "Overzealous Fan",
     "type": "Unit",
@@ -4770,6 +4840,30 @@
     "image": "SFD-128.webp"
   },
   {
+    "id": "SFD-141",
+    "name": "Irelia, Graceful",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-141.webp"
+  },
+  {
+    "id": "SFD-141a",
+    "name": "Irelia, Graceful",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-141a.webp"
+  },
+  {
     "id": "SFD-178",
     "name": "Blade of the Ruined King",
     "type": "Gear",
@@ -4780,6 +4874,54 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-178.webp"
+  },
+  {
+    "id": "SFD-181",
+    "name": "Mechanized Menace",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury", "Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-181.webp"
+  },
+  {
+    "id": "SFD-182",
+    "name": "Danger Zone",
+    "type": "Signature Spell",
+    "energy": "1",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury", "Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-182.webp"
+  },
+  {
+    "id": "SFD-183",
+    "name": "Purifier",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury", "Body"],
+    "set": "Spiritforged",
+    "image": "SFD-183.webp"
+  },
+  {
+    "id": "SFD-184",
+    "name": "Relentless Pursuit",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury", "Body"],
+    "set": "Spiritforged",
+    "image": "SFD-.webp"
   },
   {
     "id": "SFD-185",
@@ -4806,8 +4948,56 @@
     "image": "SFD-186.webp"
   },
   {
+    "id": "SFD-187",
+    "name": "Void Burrower",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-187.webp"
+  },
+  {
+    "id": "SFD-188",
+    "name": "Void Rush",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Fury", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-188.webp"
+  },
+  {
+    "id": "SFD-189",
+    "name": "Fire Below the Mountain",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Calm", "Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-189.webp"
+  },
+  {
+    "id": "SFD-193",
+    "name": "Grandmaster at Arms",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Calm", "Body"],
+    "set": "Spiritforged",
+    "image": "SFD-193.webp"
+  },
+  {
     "id": "SFD-195",
-    "name": "Irelia, Blade Dancer",
+    "name": "Blade Dancer",
     "type": "Legend",
     "energy": "0",
     "power": "0",
@@ -4818,8 +5008,20 @@
     "image": "SFD-195.webp"
   },
   {
+    "id": "SFD-196",
+    "name": "Defiant Dance",
+    "type": "Signature Spell",
+    "energy": "1",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-196.webp"
+  },
+  {
     "id": "SFD-197",
-    "name": "Azir, Emperor of the Sands",
+    "name": "Emperor of the Sands",
     "type": "Legend",
     "energy": "0",
     "power": "0",
@@ -4830,8 +5032,20 @@
     "image": "SFD-197.webp"
   },
   {
+    "id": "SFD-199",
+    "name": "Prodigial Explorer",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Mind", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-199.webp"
+  },
+  {
     "id": "SFD-201",
-    "name": "Renata Glasc, Chem-Baroness",
+    "name": "Chem-Baroness",
     "type": "Legend",
     "energy": "0",
     "power": "0",
@@ -4843,7 +5057,7 @@
   },
   {
     "id": "SFD-203",
-    "name": "Sivir, Battle Mistress",
+    "name": "Battle Mistress",
     "type": "Legend",
     "energy": "0",
     "power": "0",
@@ -4852,5 +5066,113 @@
     "rune_type": ["Body", "Chaos"],
     "set": "Spiritforged",
     "image": "SFD-203.webp"
+  },
+  {
+    "id": "SFD-205",
+    "name": "Grand Duelist",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body", "Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-205.webp"
+  },
+  {
+    "id": "SFD-225",
+    "name": "Irelia, Fervent",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "0",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-225.webp"
+  },
+  {
+    "id": "SFD-225s",
+    "name": "Irelia, Fervent",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "0",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-225s.webp"
+  },
+  {
+    "id": "SFD-227",
+    "name": "Ahri, Inquisitive",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-227.webp"
+  },
+  {
+    "id": "SFD-227s",
+    "name": "Ahri, Inquisitive",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-227s.webp"
+  },
+  {
+    "id": "SFD-234",
+    "name": "Seal of Discord",
+    "type": "Gear",
+    "energy": "0",
+    "power": "1",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-234.webp"
+  },
+  {
+    "id": "SFD-240",
+    "name": "Mechanized Menace",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Fury", "Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-240.webp"
+  },
+  {
+    "id": "SFD-244",
+    "name": "Fire Below the Mountain",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Calm", "Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-244.webp"
+  },
+  {
+    "id": "SFD-246",
+    "name": "Blade Dancer",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Calm", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-246.webp"
   }
 ]
