@@ -4828,6 +4828,18 @@
     "image": "SFD-095.webp"
   },
   {
+    "id": "SFD-099",
+    "name": "Veteran Poro",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-099.webp"
+  },
+  {
     "id": "SFD-103",
     "name": "Jaull-Fish",
     "type": "Unit",
@@ -4924,6 +4936,18 @@
     "image": "SFD-119.webp"
   },
   {
+    "id": "SFD-119a",
+    "name": "Jax, Unrelenting",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-119a.webp"
+  },
+  {
     "id": "SFD-122",
     "name": "Called Shot",
     "type": "Spell",
@@ -5018,6 +5042,18 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-161.webp"
+  },
+  {
+    "id": "SFD-167",
+    "name": "Unsung Hero",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Uncommon",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-167.webp"
   },
   {
     "id": "SFD-169",
