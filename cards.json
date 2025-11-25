@@ -4696,6 +4696,18 @@
     "image": "SFD-033.webp"
   },
   {
+    "id": "SFD-034",
+    "name": "Feral Strength",
+    "type": "Spell",
+    "energy": "2",
+    "power": "0",
+    "might": "0",
+    "rarity": "Common",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-034.webp"
+  },
+  {
     "id": "SFD-051",
     "name": "Guardian Angel",
     "type": "Gear",
@@ -4756,6 +4768,54 @@
     "image": "SFD-059.webp"
   },
   {
+    "id": "SFD-069",
+    "name": "Plundering Poro",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-069.webp"
+  },
+  {
+    "id": "SFD-086",
+    "name": "World Atlas",
+    "type": "Gear",
+    "energy": "3",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-.webp"
+  },
+  {
+    "id": "SFD-087",
+    "name": "Premonition",
+    "type": "Spell",
+    "energy": "2",
+    "power": "3",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-087.webp"
+  },
+  {
+    "id": "SFD-091",
+    "name": "Buhru Captain",
+    "type": "Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Common",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-091.webp"
+  },
+  {
     "id": "SFD-095",
     "name": "Doran's Blade",
     "type": "Gear",
@@ -4766,6 +4826,30 @@
     "rune_type": ["Body"],
     "set": "Spiritforged",
     "image": "SFD-095.webp"
+  },
+  {
+    "id": "SFD-103",
+    "name": "Jaull-Fish",
+    "type": "Unit",
+    "energy": "7",
+    "power": "2",
+    "might": "6",
+    "rarity": "Uncommon",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-103.webp"
+  },
+  {
+    "id": "SFD-108",
+    "name": "Warmog's Armor",
+    "type": "Gear",
+    "energy": "1",
+    "power": "0",
+    "might": "0",
+    "rarity": "Uncommon",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-108.webp"
   },
   {
     "id": "SFD-111",
@@ -4816,6 +4900,42 @@
     "image": "SFD-115.webp"
   },
   {
+    "id": "SFD-116",
+    "name": "Yone, Blademaster",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-116.webp"
+  },
+  {
+    "id": "SFD-119",
+    "name": "Jax, Unrelenting",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-119.webp"
+  },
+  {
+    "id": "SFD-122",
+    "name": "Called Shot",
+    "type": "Spell",
+    "energy": "0",
+    "power": "1",
+    "might": "0",
+    "rarity": "Common",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-122.webp"
+  },
+  {
     "id": "SFD-124",
     "name": "Doran's Ring",
     "type": "Gear",
@@ -4840,6 +4960,18 @@
     "image": "SFD-128.webp"
   },
   {
+    "id": "SFD-130",
+    "name": "Treasure Hunter",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "1",
+    "rarity": "Common",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-130.webp"
+  },
+  {
     "id": "SFD-141",
     "name": "Irelia, Graceful",
     "type": "Champion Unit",
@@ -4862,6 +4994,42 @@
     "rune_type": ["Chaos"],
     "set": "Spiritforged",
     "image": "SFD-141a.webp"
+  },
+  {
+    "id": "SFD-155",
+    "name": "Honest Broker",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-155.webp"
+  },
+  {
+    "id": "SFD-161",
+    "name": "B.F. Sword",
+    "type": "Gear",
+    "energy": "4",
+    "power": "0",
+    "might": "3",
+    "rarity": "Uncommon",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-161.webp"
+  },
+  {
+    "id": "SFD-169",
+    "name": "Altar of Memories",
+    "type": "Gear",
+    "energy": "2",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-169.webp"
   },
   {
     "id": "SFD-178",
@@ -4925,7 +5093,7 @@
   },
   {
     "id": "SFD-185",
-    "name": "Draven, Glorious Executioner",
+    "name": "Glorious Executioner",
     "type": "Legend",
     "energy": "0",
     "power": "0",
@@ -5078,6 +5246,17 @@
     "rune_type": ["Body", "Calm"],
     "set": "Spiritforged",
     "image": "SFD-205.webp"
+  },
+  {
+    "id": "SFD-220",
+    "name": "Treasure Hoard",
+    "type": "Battlefield",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Uncommon",
+    "set": "Spiritforged",
+    "image": "SFD-220.webp"
   },
   {
     "id": "SFD-225",
