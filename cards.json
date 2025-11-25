@@ -4816,6 +4816,18 @@
     "image": "SFD-091.webp"
   },
   {
+    "id": "SFD-093",
+    "name": "Dauntless Vanguard",
+    "type": "Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Common",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-093.webp"
+  },
+  {
     "id": "SFD-095",
     "name": "Doran's Blade",
     "type": "Gear",
@@ -5236,6 +5248,18 @@
     "image": "SFD-197.webp"
   },
   {
+    "id": "SFD-198",
+    "name": "Sand Soldiers Manifest",
+    "type": "Signature Spell",
+    "energy": "6",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-198.webp"
+  },
+  {
     "id": "SFD-199",
     "name": "Prodigial Explorer",
     "type": "Legend",
@@ -5246,6 +5270,18 @@
     "rune_type": ["Mind", "Chaos"],
     "set": "Spiritforged",
     "image": "SFD-199.webp"
+  },
+  {
+    "id": "SFD-200",
+    "name": "Arcane Shift",
+    "type": "Signature Spell",
+    "energy": "3",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Mind", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-200.webp"
   },
   {
     "id": "SFD-201",
@@ -5260,6 +5296,18 @@
     "image": "SFD-201.webp"
   },
   {
+    "id": "SFD-202",
+    "name": "Hostile Takeover",
+    "type": "Signature Spell",
+    "energy": "5",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Mind", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-202.webp"
+  },
+  {
     "id": "SFD-203",
     "name": "Battle Mistress",
     "type": "Legend",
@@ -5272,6 +5320,18 @@
     "image": "SFD-203.webp"
   },
   {
+    "id": "SFD-204",
+    "name": "Hunt",
+    "type": "Signature Spell",
+    "energy": "1",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-204.webp"
+  },
+  {
     "id": "SFD-205",
     "name": "Grand Duelist",
     "type": "Legend",
@@ -5279,9 +5339,21 @@
     "power": "0",
     "might": "0",
     "rarity": "Rare",
-    "rune_type": ["Body", "Calm"],
+    "rune_type": ["Body", "Order"],
     "set": "Spiritforged",
     "image": "SFD-205.webp"
+  },
+  {
+    "id": "SFD-206",
+    "name": "Bladework of the Laurent",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-206.webp"
   },
   {
     "id": "SFD-220",
