@@ -4648,6 +4648,18 @@
     "image": "SFD-T03.webp"
   },
   {
+    "id": "SFD-010",
+    "name": "Void Drone",
+    "type": "Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Common",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-010.webp"
+  },
+  {
     "id": "SFD-020",
     "name": "Draven, Vanquisher",
     "type": "Unit",
@@ -4718,6 +4730,18 @@
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-051.webp"
+  },
+  {
+    "id": "SFD-050",
+    "name": "Azir, ?",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-050.webp"
   },
   {
     "id": "SFD-056",
@@ -4960,6 +4984,18 @@
     "image": "SFD-119a.webp"
   },
   {
+    "id": "SFD-120",
+    "name": "Sivir, ?",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "3",
+    "might": "7",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-120.webp"
+  },
+  {
     "id": "SFD-122",
     "name": "Called Shot",
     "type": "Spell",
@@ -5078,6 +5114,18 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-169.webp"
+  },
+  {
+    "id": "SFD-173",
+    "name": "Soraka, ?",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-173.webp"
   },
   {
     "id": "SFD-178",
@@ -5439,6 +5487,18 @@
     "image": "SFD-240.webp"
   },
   {
+    "id": "SFD-242",
+    "name": "Glorious Executioner",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Fury", "Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-240.webp"
+  },
+  {
     "id": "SFD-244",
     "name": "Fire Below the Mountain",
     "type": "Legend",
@@ -5461,5 +5521,17 @@
     "rune_type": ["Calm", "Chaos"],
     "set": "Spiritforged",
     "image": "SFD-246.webp"
+  },
+  {
+    "id": "SFD-251",
+    "name": "Grand Duelist",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Body", "Order"],
+    "set": "Spiritforged",
+    "image": "SFD-251.webp"
   }
 ]
