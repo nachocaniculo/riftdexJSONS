@@ -5172,7 +5172,7 @@
   {
     "id": "SFD-020",
     "name": "Draven, Vanquisher",
-    "type": "Unit",
+    "type": "Champion Unit",
     "energy": "4",
     "power": "0",
     "might": "4",
@@ -5185,7 +5185,7 @@
   {
     "id": "SFD-020a",
     "name": "Draven, Vanquisher",
-    "type": "Unit",
+    "type": "Champion Unit",
     "energy": "4",
     "power": "0",
     "might": "4",
@@ -5206,6 +5206,32 @@
     "rune_type": ["Fury"],
     "set": "Spiritforged",
     "image": "SFD-022.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-024",
+    "name": "Rell, ?",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "0",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-024.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-027",
+    "name": "?",
+    "type": "Unit",
+    "energy": "7",
+    "power": "1",
+    "might": "7",
+    "rarity": "Epic",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-027.webp",
     "blueprint_id": ""
   },
   {
@@ -5232,6 +5258,19 @@
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-034.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-048",
+    "name": "Stellacorn Herder",
+    "type": "Unit",
+    "energy": "4",
+    "power": "0",
+    "might": "3",
+    "rarity": "Uncommon",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-048.webp",
     "blueprint_id": ""
   },
   {
@@ -5323,6 +5362,32 @@
     "rune_type": ["Mind"],
     "set": "Spiritforged",
     "image": "SFD-069.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-071",
+    "name": "?",
+    "type": "Unit",
+    "energy": "8",
+    "power": "2",
+    "might": "7",
+    "rarity": "Uncommon",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-071.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-075",
+    "name": "?",
+    "type": "Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Uncommon",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-075.webp",
     "blueprint_id": ""
   },
   {
@@ -5443,6 +5508,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-112",
+    "name": "Kato the Arm",
+    "type": "Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-112.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-113",
     "name": "Lucian, Merciless",
     "type": "Champion Unit",
@@ -5469,6 +5547,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-114",
+    "name": "?",
+    "type": "Spell",
+    "energy": "3",
+    "power": "0",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-114.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-115",
     "name": "Trinity Force",
     "type": "Gear",
@@ -5492,6 +5583,19 @@
     "rune_type": ["Body"],
     "set": "Spiritforged",
     "image": "SFD-116.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-118",
+    "name": "Boneshiver",
+    "type": "Gear",
+    "energy": "3",
+    "power": "0",
+    "might": "2",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-118.webp",
     "blueprint_id": ""
   },
   {
@@ -5531,6 +5635,19 @@
     "rune_type": ["Body"],
     "set": "Spiritforged",
     "image": "SFD-120.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-120a",
+    "name": "Sivir, ?",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "3",
+    "might": "7",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-120a.webp",
     "blueprint_id": ""
   },
   {
@@ -5612,6 +5729,45 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-148",
+    "name": "Draven, Audacious",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Epic",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-148.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-148a",
+    "name": "Draven, Audacious",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-148a.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-151",
+    "name": "?",
+    "type": "Spell",
+    "energy": "2",
+    "power": "0",
+    "might": "0",
+    "rarity": "Common",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-151.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-155",
     "name": "Honest Broker",
     "type": "Unit",
@@ -5622,6 +5778,19 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-155.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-157",
+    "name": "?",
+    "type": "Unit",
+    "energy": "4",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-157.webp",
     "blueprint_id": ""
   },
   {
@@ -5651,6 +5820,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-168",
+    "name": "?",
+    "type": "Gear",
+    "energy": "7",
+    "power": "1",
+    "might": "0",
+    "rarity": "Uncommon",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-168.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-169",
     "name": "Altar of Memories",
     "type": "Gear",
@@ -5661,6 +5843,71 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-169.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-170",
+    "name": "Rek'Sai, Swarm Queen",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-170.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-170a",
+    "name": "Rek'Sai, Swarm Queen",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-170a.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-171",
+    "name": "Renata Glasc, Industrialist",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-171.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-171a",
+    "name": "Renata Glasc, Industrialist",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-171a.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-172",
+    "name": "?",
+    "type": "Gear",
+    "energy": "2",
+    "power": "1",
+    "might": "1",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-172.webp",
     "blueprint_id": ""
   },
   {
@@ -5687,6 +5934,45 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-178.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-179",
+    "name": "?",
+    "type": "Unit",
+    "energy": "7",
+    "power": "1",
+    "might": "6",
+    "rarity": "Epic",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-179.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-180",
+    "name": "Fiora, Worthy",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Epic",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-180.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-180a",
+    "name": "Fiora, Worthy",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-180a.webp",
     "blueprint_id": ""
   },
   {
@@ -5817,6 +6103,19 @@
     "rune_type": ["Calm", "Body"],
     "set": "Spiritforged",
     "image": "SFD-193.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-194",
+    "name": "?",
+    "type": "Signature Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Calm", "Body"],
+    "set": "Spiritforged",
+    "image": "SFD-194.webp",
     "blueprint_id": ""
   },
   {
@@ -5988,6 +6287,32 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-223",
+    "name": "Vayne, Hunter",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "2",
+    "rarity": "Showcase",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-223.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-223s",
+    "name": "Vayne, Hunter",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "2",
+    "rarity": "Showcase",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-223s.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-225",
     "name": "Irelia, Fervent",
     "type": "Champion Unit",
@@ -6014,6 +6339,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-226",
+    "name": "Seal of Focus",
+    "type": "Gear",
+    "energy": "0",
+    "power": "1",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-226.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-227",
     "name": "Ahri, Inquisitive",
     "type": "Champion Unit",
@@ -6037,6 +6375,45 @@
     "rune_type": ["Mind"],
     "set": "Spiritforged",
     "image": "SFD-227s.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-231",
+    "name": "Seal of Strength",
+    "type": "Gear",
+    "energy": "0",
+    "power": "1",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-231.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-232",
+    "name": "Sett, Brawler",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-232.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-232s",
+    "name": "Sett, Brawler",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-232s.webp",
     "blueprint_id": ""
   },
   {
