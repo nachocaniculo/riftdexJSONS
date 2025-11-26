@@ -84,7 +84,7 @@
     "blueprint_id": "346744"
   },
 
-  
+
   {
     "id": "OGN-001",
     "name": "Blazing Scorcher",
@@ -5141,6 +5141,19 @@
     "rarity": "Common",
     "set": "Spiritforged",
     "image": "SFD-T03.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-001",
+    "name": "Against the Odds",
+    "type": "Spell",
+    "energy": "2",
+    "power": "0",
+    "might": "0",
+    "rarity": "Common",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-001.webp",
     "blueprint_id": ""
   },
   {
