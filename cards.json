@@ -1,5 +1,89 @@
 [
   {
+    "id": "ARC-001",
+    "name": "Vi, Destructive",
+    "type": "Champion Unit",
+    "energy": "2",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Fury"],
+    "set": "Arcane Box Set",
+    "image": "ARC-001.webp",
+    "alternative":["OGN-036"],
+    "blueprint_id": "346738"
+  },
+  {
+    "id": "ARC-002",
+    "name": "Caitlyn, Patrolling",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Arcane Box Set",
+    "image": "ARC-002.webp",
+    "alternative":["OGN-068.webp"],
+    "blueprint_id": "346739"
+  },
+  {
+    "id": "ARC-003",
+    "name": "Heimerdinger, Inventor",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Mind"],
+    "set": "Arcane Box Set",
+    "image": "ARC-003.webp",
+    "alternative":["OGN-111.webp"],
+    "blueprint_id": "346740"
+  },
+  {
+    "id": "ARC-004",
+    "name": "Warwick, Hunter",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "5",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Arcane Box Set",
+    "image": "ARC-004.webp",
+    "alternative":["OGN-159.webp"],
+    "blueprint_id": "346742"
+  },
+  {
+    "id": "ARC-005",
+    "name": "Jinx, Rebel",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Arcane Box Set",
+    "image": "ARC-005.webp",
+    "alternative":["OGN-202"],
+    "blueprint_id": "346737"
+  },  
+  {
+    "id": "ARC-006",
+    "name": "Viktor, Leader",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Arcane Box Set",
+    "image": "ARC-006.webp",
+    "alternative":["OGN-246"],
+    "blueprint_id": "346744"
+  },
+  {
     "id": "OGN-001",
     "name": "Blazing Scorcher",
     "type": "Unit",
@@ -528,20 +612,6 @@
     "blueprint_id": "345211"
   },
   {
-    "id": "ARC-001",
-    "name": "Vi, Destructive",
-    "type": "Champion Unit",
-    "energy": "2",
-    "power": "1",
-    "might": "3",
-    "rarity": "Showcase",
-    "rune_type": ["Fury"],
-    "set": "Origin",
-    "image": "ARC-001.webp",
-    "alternative":["OGN-036"],
-    "blueprint_id": "346738"
-  },
-  {
     "id": "OGN-037",
     "name": "Immortal Phoenix",
     "type": "Unit",
@@ -1031,20 +1101,6 @@
     "image": "OGN-068.webp",
     "alternative":["ARC-002"],
     "blueprint_id": "345247"
-  },
-  {
-    "id": "ARC-002",
-    "name": "Caitlyn, Patrolling",
-    "type": "Champion Unit",
-    "energy": "3",
-    "power": "1",
-    "might": "3",
-    "rarity": "Showcase",
-    "rune_type": ["Calm"],
-    "set": "Origin",
-    "image": "ARC-002.webp",
-    "alternative":["OGN-068.webp"],
-    "blueprint_id": "346739"
   },
   {
     "id": "OGN-069",
@@ -1679,20 +1735,6 @@
     "image": "OGN-111.webp",
     "alternative":["ARC-003"],
     "blueprint_id": "345294"
-  },
-  {
-    "id": "ARC-003",
-    "name": "Heimerdinger, Inventor",
-    "type": "Champion Unit",
-    "energy": "3",
-    "power": "1",
-    "might": "3",
-    "rarity": "Showcase",
-    "rune_type": ["Mind"],
-    "set": "Origin",
-    "image": "ARC-003.webp",
-    "alternative":["OGN-111.webp"],
-    "blueprint_id": "346740"
   },
   {
     "id": "OGN-112",
@@ -2439,20 +2481,6 @@
     "blueprint_id": "345349"
   },
   {
-    "id": "ARC-004",
-    "name": "Warwick, Hunter",
-    "type": "Champion Unit",
-    "energy": "6",
-    "power": "1",
-    "might": "5",
-    "rarity": "Showcase",
-    "rune_type": ["Body"],
-    "set": "Origin",
-    "image": "ARC-004.webp",
-    "alternative":["OGN-159.webp"],
-    "blueprint_id": "346742"
-  },
-  {
     "id": "OGN-160",
     "name": "Dazzling Aurora",
     "type": "Gear",
@@ -3114,20 +3142,6 @@
     "image": "OGN-202a.webp",
     "alternative":["OGN-202"],
     "blueprint_id": "345397"
-  },
-  {
-    "id": "ARC-005",
-    "name": "Jinx, Rebel",
-    "type": "Champion Unit",
-    "energy": "5",
-    "power": "1",
-    "might": "5",
-    "rarity": "Showcase",
-    "rune_type": ["Chaos"],
-    "set": "Origin",
-    "image": "ARC-005.webp",
-    "alternative":["OGN-202"],
-    "blueprint_id": "346737"
   },
   {
     "id": "OGN-203",
@@ -3804,20 +3818,6 @@
     "image": "OGN-246a.webp",
     "alternative":["OGN-246"],
     "blueprint_id": "345447"
-  },
-  {
-    "id": "ARC-006",
-    "name": "Viktor, Leader",
-    "type": "Champion Unit",
-    "energy": "4",
-    "power": "1",
-    "might": "4",
-    "rarity": "Showcase",
-    "rune_type": ["Order"],
-    "set": "Origin",
-    "image": "ARC-006.webp",
-    "alternative":["OGN-246"],
-    "blueprint_id": "346744"
   },
   {
     "id": "OGN-247",
