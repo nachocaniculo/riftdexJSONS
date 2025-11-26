@@ -10,7 +10,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-001.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345173"
   },
   {
     "id": "OGN-002",
@@ -23,7 +23,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-002.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345174"
   },
   {
     "id": "OGN-003",
@@ -36,7 +36,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-003.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345175"
   },
   {
     "id": "OGN-004",
@@ -49,7 +49,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-004.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345176"
   },
   {
     "id": "OGN-005",
@@ -62,7 +62,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-005.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345177"
   },
   {
     "id": "OGN-006",
@@ -75,7 +75,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-006.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345178"
   },
   {
     "id": "OGN-007",
@@ -89,7 +89,7 @@
     "set": "Origin",
     "image": "OGN-007.webp",
     "alternative":["OGN-007a"],
-    "blueprint_id": ""
+    "blueprint_id": "345179"
   },
   {
     "id": "OGN-007a",
@@ -103,7 +103,21 @@
     "set": "Origin",
     "image": "OGN-007a.webp",
     "alternative":["OGN-007"],
-    "blueprint_id": ""
+    "blueprint_id": "345180"
+  },
+  {
+    "id": "OGN-007b",
+    "name": "Fury Rune, Nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Fury"],
+    "set": "Origin",
+    "image": "OGN-007b.webp",
+    "alternative":["OGN-007"],
+    "blueprint_id": "353778"
   },
   {
     "id": "OGN-008",
@@ -116,7 +130,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-008.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345181"
   },
   {
     "id": "OGN-009",
@@ -129,7 +143,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-009.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345182"
   },
   {
     "id": "OGN-010",
@@ -142,7 +156,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-010.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345183"
   },
   {
     "id": "OGN-011",
@@ -155,7 +169,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-011.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345184"
   },
   {
     "id": "OGN-012",
@@ -168,7 +182,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-012.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345185"
   },
   {
     "id": "OGN-013",
@@ -181,7 +195,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-013.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345186"
   },
   {
     "id": "OGN-014",
@@ -194,7 +208,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-014.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345187"
   },
   {
     "id": "OGN-015",
@@ -207,7 +221,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-015.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345188"
   },
   {
     "id": "OGN-016",
@@ -220,7 +234,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-016.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345189"
   },
   {
     "id": "OGN-017",
@@ -233,7 +247,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-017.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345190"
   },
   {
     "id": "OGN-018",
@@ -246,7 +260,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-018.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345191"
   },
   {
     "id": "OGN-019",
@@ -259,7 +273,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-019.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345192"
   },
   {
     "id": "OGN-020",
@@ -272,7 +286,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-020.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345193"
   },
   {
     "id": "OGN-021",
@@ -285,7 +299,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-021.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345194"
   },
   {
     "id": "OGN-022",
@@ -298,7 +312,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-022.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345195"
   },
   {
     "id": "OGN-023",
@@ -311,7 +325,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-023.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345196"
   },
   {
     "id": "OGN-024",
@@ -324,7 +338,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-024.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345197"
   },
   {
     "id": "OGN-025",
@@ -337,7 +351,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-025.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345198"
   },
   {
     "id": "OGN-026",
@@ -350,7 +364,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-026.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345199"
   },
   {
     "id": "OGN-027",
@@ -364,7 +378,7 @@
     "set": "Origin",
     "image": "OGN-027.webp",
     "alternative":["OGN-027a"],
-    "blueprint_id": ""
+    "blueprint_id": "345200"
   },
   {
     "id": "OGN-027a",
@@ -378,7 +392,7 @@
     "set": "Origin",
     "image": "OGN-027a.webp",
     "alternative":["OGN-027"],
-    "blueprint_id": ""
+    "blueprint_id": "345201"
   },
   {
     "id": "OGN-028",
@@ -391,7 +405,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-028.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345202"
   },
   {
     "id": "OGN-029",
@@ -404,7 +418,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-029.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345203"
   },
   {
     "id": "OGN-030",
@@ -418,7 +432,7 @@
     "set": "Origin",
     "image": "OGN-030.webp",
     "alternative":["OGN-030a"],
-    "blueprint_id": ""
+    "blueprint_id": "345204"
   },
   {
     "id": "OGN-030a",
@@ -432,7 +446,7 @@
     "set": "Origin",
     "image": "OGN-030a.webp",
     "alternative":["OGN-030"],
-    "blueprint_id": ""
+    "blueprint_id": "345205"
   },
   {
     "id": "OGN-031",
@@ -445,7 +459,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-031.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345206"
   },
   {
     "id": "OGN-032",
@@ -458,7 +472,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-032.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345207"
   },
   {
     "id": "OGN-033",
@@ -471,7 +485,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-033.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345208"
   },
   {
     "id": "OGN-034",
@@ -484,7 +498,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-034.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345209"
   },
   {
     "id": "OGN-035",
@@ -497,7 +511,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-035.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345210"
   },
   {
     "id": "OGN-036",
@@ -511,7 +525,7 @@
     "set": "Origin",
     "image": "OGN-036.webp",
     "alternative":["ARC-001"],
-    "blueprint_id": ""
+    "blueprint_id": "345211"
   },
   {
     "id": "ARC-001",
@@ -525,7 +539,7 @@
     "set": "Origin",
     "image": "ARC-001.webp",
     "alternative":["OGN-036"],
-    "blueprint_id": ""
+    "blueprint_id": "346738"
   },
   {
     "id": "OGN-037",
@@ -538,7 +552,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-037.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345212"
   },
   {
     "id": "OGN-038",
@@ -551,7 +565,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-038.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345213"
   },
   {
     "id": "OGN-039",
@@ -565,7 +579,7 @@
     "set": "Origin",
     "image": "OGN-039.webp",
     "alternative":["OGN-039"],
-    "blueprint_id": ""
+    "blueprint_id": "345214"
   },
   {
     "id": "OGN-039a",
@@ -579,7 +593,7 @@
     "set": "Origin",
     "image": "OGN-039a.webp",
     "alternative":["OGN-039"],
-    "blueprint_id": ""
+    "blueprint_id": "345215"
   },
   {
     "id": "OGN-040",
@@ -592,7 +606,7 @@
     "rune_type": ["Fury"],
     "set": "Origin",
     "image": "OGN-040.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345216"
   },
   {
     "id": "OGN-041",
@@ -606,7 +620,7 @@
     "set": "Origin",
     "image": "OGN-041.webp",
     "alternative":["OGN-041"],
-    "blueprint_id": ""
+    "blueprint_id": "345217"
   },
   {
     "id": "OGN-041a",
@@ -620,7 +634,7 @@
     "set": "Origin",
     "image": "OGN-041a.webp",
     "alternative":["OGN-041"],
-    "blueprint_id": ""
+    "blueprint_id": "345218"
   },
   {
     "id": "OGN-042",
@@ -634,7 +648,7 @@
     "set": "Origin",
     "image": "OGN-042.webp",
     "alternative":["OGN-042a"],
-    "blueprint_id": ""
+    "blueprint_id": "345219"
   },
   {
     "id": "OGN-042a",
@@ -648,7 +662,21 @@
     "set": "Origin",
     "image": "OGN-042a.webp",
     "alternative":["OGN-042"],
-    "blueprint_id": ""
+    "blueprint_id": "345220"
+  },
+  {
+    "id": "OGN-042b",
+    "name": "Calm Rune, Nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Origin",
+    "image": "OGN-042b.webp",
+    "alternative":["OGN-042"],
+    "blueprint_id": "353782"
   },
   {
     "id": "OGN-043",
@@ -661,7 +689,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-043.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345221"
   },
   {
     "id": "OGN-044",
@@ -674,7 +702,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-044.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345222"
   },
   {
     "id": "OGN-045",
@@ -687,7 +715,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-045.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345223"
   },
   {
     "id": "OGN-046",
@@ -700,7 +728,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-046.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345224"
   },
   {
     "id": "OGN-047",
@@ -713,7 +741,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-047.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345225"
   },
   {
     "id": "OGN-048",
@@ -726,7 +754,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-048.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345226"
   },
   {
     "id": "OGN-049",
@@ -739,7 +767,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-049.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345227"
   },
   {
     "id": "OGN-050",
@@ -752,7 +780,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-050.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345228"
   },
   {
     "id": "OGN-051",
@@ -765,7 +793,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-051.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345229"
   },
   {
     "id": "OGN-052",
@@ -778,7 +806,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-052.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345230"
   },
   {
     "id": "OGN-053",
@@ -791,7 +819,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-053.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345231"
   },
   {
     "id": "OGN-054",
@@ -804,7 +832,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-054.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345232"
   },
   {
     "id": "OGN-055",
@@ -817,7 +845,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-055.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345233"
   },
   {
     "id": "OGN-056",
@@ -830,7 +858,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-056.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345234"
   },
   {
     "id": "OGN-057",
@@ -843,7 +871,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-057.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345235"
   },
   {
     "id": "OGN-058",
@@ -856,7 +884,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-058.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345236"
   },
   {
     "id": "OGN-059",
@@ -869,7 +897,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-059.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345237"
   },
   {
     "id": "OGN-060",
@@ -882,7 +910,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-060.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345238"
   },
   {
     "id": "OGN-061",
@@ -895,7 +923,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-061.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345239"
   },
   {
     "id": "OGN-062",
@@ -908,7 +936,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-062.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345240"
   },
   {
     "id": "OGN-063",
@@ -921,7 +949,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-063.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345241"
   },
   {
     "id": "OGN-064",
@@ -934,7 +962,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-064.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345242"
   },
   {
     "id": "OGN-065",
@@ -947,7 +975,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-065.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345243"
   },
   {
     "id": "OGN-066",
@@ -961,7 +989,7 @@
     "set": "Origin",
     "image": "OGN-066.webp",
     "alternative":["OGN-066a"],
-    "blueprint_id": ""
+    "blueprint_id": "345244"
   },
   {
     "id": "OGN-066a",
@@ -975,7 +1003,7 @@
     "set": "Origin",
     "image": "OGN-066a.webp",
     "alternative":["OGN-066"],
-    "blueprint_id": ""
+    "blueprint_id": "345245"
   },
   {
     "id": "OGN-067",
@@ -988,7 +1016,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-067.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345246"
   },
   {
     "id": "OGN-068",
@@ -1002,7 +1030,7 @@
     "set": "Origin",
     "image": "OGN-068.webp",
     "alternative":["ARC-002"],
-    "blueprint_id": ""
+    "blueprint_id": "345247"
   },
   {
     "id": "ARC-002",
@@ -1016,7 +1044,7 @@
     "set": "Origin",
     "image": "ARC-002.webp",
     "alternative":["OGN-068.webp"],
-    "blueprint_id": ""
+    "blueprint_id": "346739"
   },
   {
     "id": "OGN-069",
@@ -1029,7 +1057,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-069.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345248"
   },
   {
     "id": "OGN-070",
@@ -1042,7 +1070,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-070.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345249"
   },
   {
     "id": "OGN-071",
@@ -1055,7 +1083,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-071.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345250"
   },
   {
     "id": "OGN-072",
@@ -1068,7 +1096,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-072.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345251"
   },
   {
     "id": "OGN-073",
@@ -1081,7 +1109,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-073.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345252"
   },
   {
     "id": "OGN-074",
@@ -1094,7 +1122,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-074.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345253"
   },
   {
     "id": "OGN-075",
@@ -1107,7 +1135,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-075.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345254"
   },
   {
     "id": "OGN-076",
@@ -1121,7 +1149,7 @@
     "set": "Origin",
     "image": "OGN-076.webp",
     "alternative":["OGN-076a"],
-    "blueprint_id": ""
+    "blueprint_id": "345255"
   },
   {
     "id": "OGN-076a",
@@ -1135,7 +1163,7 @@
     "set": "Origin",
     "image": "OGN-076a.webp",
     "alternative":["OGN-076"],
-    "blueprint_id": ""
+    "blueprint_id": "345256"
   },
   {
     "id": "OGN-077",
@@ -1148,7 +1176,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-077.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345257"
   },
   {
     "id": "OGN-078",
@@ -1162,7 +1190,7 @@
     "set": "Origin",
     "image": "OGN-078.webp",
     "alternative":["OGN-078a"],
-    "blueprint_id": ""
+    "blueprint_id": "345258"
   },
   {
     "id": "OGN-078a",
@@ -1176,7 +1204,7 @@
     "set": "Origin",
     "image": "OGN-078a.webp",
     "alternative":["OGN-078"],
-    "blueprint_id": ""
+    "blueprint_id": "345259"
   },
   {
     "id": "OGN-079",
@@ -1190,7 +1218,7 @@
     "set": "Origin",
     "image": "OGN-079.webp",
     "alternative":["OGN-079a"],
-    "blueprint_id": ""
+    "blueprint_id": "345260"
   },
   {
     "id": "OGN-079a",
@@ -1204,7 +1232,7 @@
     "set": "Origin",
     "image": "OGN-079a.webp",
     "alternative":["OGN-079"],
-    "blueprint_id": ""
+    "blueprint_id": "345261"
   },
   {
     "id": "OGN-080",
@@ -1217,7 +1245,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-080.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345262"
   },
   {
     "id": "OGN-081",
@@ -1230,7 +1258,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-081.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345263"
   },
   {
     "id": "OGN-082",
@@ -1243,7 +1271,7 @@
     "rune_type": ["Calm"],
     "set": "Origin",
     "image": "OGN-082.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345264"
   },
   {
     "id": "OGN-083",
@@ -1256,7 +1284,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-083.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345265"
   },
   {
     "id": "OGN-084",
@@ -1269,7 +1297,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-084.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345266"
   },
   {
     "id": "OGN-085",
@@ -1282,7 +1310,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-085.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345267"
   },
   {
     "id": "OGN-086",
@@ -1295,7 +1323,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-086.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345268"
   },
   {
     "id": "OGN-087",
@@ -1308,7 +1336,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-087.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345269"
   },
   {
     "id": "OGN-088",
@@ -1321,7 +1349,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-088.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345270"
   },
   {
     "id": "OGN-089",
@@ -1335,7 +1363,7 @@
     "set": "Origin",
     "image": "OGN-089.webp",
     "alternative":["OGN-089a"],
-    "blueprint_id": ""
+    "blueprint_id": "345271"
   },
   {
     "id": "OGN-089a",
@@ -1349,7 +1377,21 @@
     "set": "Origin",
     "image": "OGN-089a.webp",
     "alternative":["OGN-089"],
-    "blueprint_id": ""
+    "blueprint_id": "345272"
+  },
+  {
+    "id": "OGN-089b",
+    "name": "Mind Rune, nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Mind"],
+    "set": "Origin",
+    "image": "OGN-089b.webp",
+    "alternative":["OGN-089"],
+    "blueprint_id": "353775"
   },
   {
     "id": "OGN-090",
@@ -1362,7 +1404,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-090.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345273"
   },
   {
     "id": "OGN-091",
@@ -1375,7 +1417,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-091.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345274"
   },
   {
     "id": "OGN-092",
@@ -1388,7 +1430,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-092.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345275"
   },
   {
     "id": "OGN-093",
@@ -1401,7 +1443,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-093.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345276"
   },
   {
     "id": "OGN-094",
@@ -1414,7 +1456,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-094.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345277"
   },
   {
     "id": "OGN-095",
@@ -1427,7 +1469,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-095.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345278"
   },
   {
     "id": "OGN-096",
@@ -1440,7 +1482,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-096.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345279"
   },
   {
     "id": "OGN-097",
@@ -1453,7 +1495,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-097.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345280"
   },
   {
     "id": "OGN-098",
@@ -1466,7 +1508,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-098.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345281"
   },
   {
     "id": "OGN-099",
@@ -1479,7 +1521,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-099.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345282"
   },
   {
     "id": "OGN-100",
@@ -1492,7 +1534,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-100.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345283"
   },
   {
     "id": "OGN-101",
@@ -1505,7 +1547,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-101.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345284"
   },
   {
     "id": "OGN-102",
@@ -1518,7 +1560,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-102.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345285"
   },
   {
     "id": "OGN-103",
@@ -1531,7 +1573,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-103.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345286"
   },
   {
     "id": "OGN-104",
@@ -1544,7 +1586,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-104.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345287"
   },
   {
     "id": "OGN-105",
@@ -1557,7 +1599,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-105.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345288"
   },
   {
     "id": "OGN-106",
@@ -1570,7 +1612,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-106.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345289"
   },
   {
     "id": "OGN-107",
@@ -1583,7 +1625,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-107.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345290"
   },
   {
     "id": "OGN-108",
@@ -1596,7 +1638,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-108.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345291"
   },
   {
     "id": "OGN-109",
@@ -1609,7 +1651,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-109.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345292"
   },
   {
     "id": "OGN-110",
@@ -1622,7 +1664,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-110.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345293"
   },
   {
     "id": "OGN-111",
@@ -1636,7 +1678,7 @@
     "set": "Origin",
     "image": "OGN-111.webp",
     "alternative":["ARC-003"],
-    "blueprint_id": ""
+    "blueprint_id": "345294"
   },
   {
     "id": "ARC-003",
@@ -1650,7 +1692,7 @@
     "set": "Origin",
     "image": "ARC-003.webp",
     "alternative":["OGN-111.webp"],
-    "blueprint_id": ""
+    "blueprint_id": "346740"
   },
   {
     "id": "OGN-112",
@@ -1664,7 +1706,7 @@
     "set": "Origin",
     "image": "OGN-112.webp",
     "alternative":["OGN-112a"],
-    "blueprint_id": ""
+    "blueprint_id": "345295"
   },
   {
     "id": "OGN-112a",
@@ -1678,7 +1720,7 @@
     "set": "Origin",
     "image": "OGN-112a.webp",
     "alternative":["OGN-112"],
-    "blueprint_id": ""
+    "blueprint_id": "345296"
   },
   {
     "id": "OGN-113",
@@ -1691,7 +1733,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-113.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345297"
   },
   {
     "id": "OGN-114",
@@ -1704,7 +1746,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-114.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345298"
   },
   {
     "id": "OGN-115",
@@ -1717,7 +1759,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-115.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345299"
   },
   {
     "id": "OGN-116",
@@ -1730,7 +1772,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-116.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345300"
   },
   {
     "id": "OGN-117",
@@ -1744,7 +1786,7 @@
     "set": "Origin",
     "image": "OGN-117.webp",
     "alternative":["OGN-117a"],
-    "blueprint_id": ""
+    "blueprint_id": "345301"
   },
   {
     "id": "OGN-117a",
@@ -1758,7 +1800,7 @@
     "set": "Origin",
     "image": "OGN-117a.webp",
     "alternative":["OGN-117"],
-    "blueprint_id": ""
+    "blueprint_id": "345302"
   },
   {
     "id": "OGN-118",
@@ -1771,7 +1813,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-118.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345303"
   },
   {
     "id": "OGN-119",
@@ -1785,7 +1827,7 @@
     "set": "Origin",
     "image": "OGN-119.webp",
     "alternative":["OGN-119a"],
-    "blueprint_id": ""
+    "blueprint_id": "345304"
   },
   {
     "id": "OGN-119a",
@@ -1799,7 +1841,7 @@
     "set": "Origin",
     "image": "OGN-119a.webp",
     "alternative":["OGN-119"],
-    "blueprint_id": ""
+    "blueprint_id": "345305"
   },
   {
     "id": "OGN-120",
@@ -1812,7 +1854,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-120.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345306"
   },
   {
     "id": "OGN-121",
@@ -1826,7 +1868,7 @@
     "set": "Origin",
     "image": "OGN-121.webp",
     "alternative":["OGN-121a"],
-    "blueprint_id": ""
+    "blueprint_id": "345307"
   },
   {
     "id": "OGN-121a",
@@ -1840,7 +1882,7 @@
     "set": "Origin",
     "image": "OGN-121a.webp",
     "alternative":["OGN-121"],
-    "blueprint_id": ""
+    "blueprint_id": "345308"
   },
   {
     "id": "OGN-122",
@@ -1853,7 +1895,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-122.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345309"
   },
   {
     "id": "OGN-123",
@@ -1866,7 +1908,7 @@
     "rune_type": ["Mind"],
     "set": "Origin",
     "image": "OGN-123.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345310"
   },
   {
     "id": "OGN-124",
@@ -1879,7 +1921,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-124.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345311"
   },
   {
     "id": "OGN-125",
@@ -1892,7 +1934,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-125.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345312"
   },
   {
     "id": "OGN-126",
@@ -1906,7 +1948,7 @@
     "set": "Origin",
     "image": "OGN-126.webp",
     "alternative":["OGN-126"],
-    "blueprint_id": ""
+    "blueprint_id": "345313"
   },
   {
     "id": "OGN-126a",
@@ -1920,7 +1962,21 @@
     "set": "Origin",
     "image": "OGN-126a.webp",
     "alternative":["OGN-126"],
-    "blueprint_id": ""
+    "blueprint_id": "345314"
+  },
+  {
+    "id": "OGN-126b",
+    "name": "Body Rune, Nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Body"],
+    "set": "Origin",
+    "image": "OGN-126b.webp",
+    "alternative":["OGN-126"],
+    "blueprint_id": "353783"
   },
   {
     "id": "OGN-127",
@@ -1933,7 +1989,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-127.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345315"
   },
   {
     "id": "OGN-128",
@@ -1946,7 +2002,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-128.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345316"
   },
   {
     "id": "OGN-129",
@@ -1959,7 +2015,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-129.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345317"
   },
   {
     "id": "OGN-130",
@@ -1972,7 +2028,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-130.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345318"
   },
   {
     "id": "OGN-131",
@@ -1985,7 +2041,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-131.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345319"
   },
   {
     "id": "OGN-132",
@@ -1998,7 +2054,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-132.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345320"
   },
   {
     "id": "OGN-133",
@@ -2011,7 +2067,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-133.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345321"
   },
   {
     "id": "OGN-134",
@@ -2024,7 +2080,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-134.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345322"
   },
   {
     "id": "OGN-135",
@@ -2037,7 +2093,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-135.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345323"
   },
   {
     "id": "OGN-136",
@@ -2050,7 +2106,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-136.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345324"
   },
   {
     "id": "OGN-137",
@@ -2063,7 +2119,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-137.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345325"
   },
   {
     "id": "OGN-138",
@@ -2076,7 +2132,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-138.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345326"
   },
   {
     "id": "OGN-139",
@@ -2089,7 +2145,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-139.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345327"
   },
   {
     "id": "OGN-140",
@@ -2102,7 +2158,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-140.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345328"
   },
   {
     "id": "OGN-141",
@@ -2115,7 +2171,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-141.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345329"
   },
   {
     "id": "OGN-142",
@@ -2128,7 +2184,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-142.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345330"
   },
   {
     "id": "OGN-143",
@@ -2141,7 +2197,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-143.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345331"
   },
   {
     "id": "OGN-144",
@@ -2154,7 +2210,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-144.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345332"
   },
   {
     "id": "OGN-145",
@@ -2167,7 +2223,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-145.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345333"
   },
   {
     "id": "OGN-146",
@@ -2180,7 +2236,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-146.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345334"
   },
   {
     "id": "OGN-147",
@@ -2193,7 +2249,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-147.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345335"
   },
   {
     "id": "OGN-148",
@@ -2206,7 +2262,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-148.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345336"
   },
   {
     "id": "OGN-149",
@@ -2219,7 +2275,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-149.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345337"
   },
   {
     "id": "OGN-150",
@@ -2232,7 +2288,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-150.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345338"
   },
   {
     "id": "OGN-151",
@@ -2246,7 +2302,7 @@
     "set": "Origin",
     "image": "OGN-151.webp",
     "alternative":["OGN-151a"],
-    "blueprint_id": ""
+    "blueprint_id": "345339"
   },
   {
     "id": "OGN-151a",
@@ -2260,7 +2316,7 @@
     "set": "Origin",
     "image": "OGN-151a.webp",
     "alternative":["OGN-151"],
-    "blueprint_id": ""
+    "blueprint_id": "345340"
   },
   {
     "id": "OGN-152",
@@ -2273,7 +2329,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-152.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345341"
   },
   {
     "id": "OGN-153",
@@ -2286,7 +2342,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-153.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345342"
   },
   {
     "id": "OGN-154",
@@ -2299,7 +2355,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-154.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345343"
   },
   {
     "id": "OGN-155",
@@ -2312,7 +2368,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-155.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345344"
   },
   {
     "id": "OGN-156",
@@ -2325,7 +2381,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-156.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345345"
   },
   {
     "id": "OGN-157",
@@ -2338,7 +2394,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-157.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345346"
   },
   {
     "id": "OGN-158",
@@ -2352,7 +2408,7 @@
     "set": "Origin",
     "image": "OGN-158.webp",
     "alternative":["OGN-158a"],
-    "blueprint_id": ""
+    "blueprint_id": "345347"
   },
   {
     "id": "OGN-158a",
@@ -2366,7 +2422,7 @@
     "set": "Origin",
     "image": "OGN-158a.webp",
     "alternative":["OGN-158"],
-    "blueprint_id": ""
+    "blueprint_id": "345348"
   },
   {
     "id": "OGN-159",
@@ -2380,7 +2436,7 @@
     "set": "Origin",
     "image": "OGN-159.webp",
     "alternative":["ARC-004"],
-    "blueprint_id": ""
+    "blueprint_id": "345349"
   },
   {
     "id": "ARC-004",
@@ -2394,7 +2450,7 @@
     "set": "Origin",
     "image": "ARC-004.webp",
     "alternative":["OGN-159.webp"],
-    "blueprint_id": ""
+    "blueprint_id": "346742"
   },
   {
     "id": "OGN-160",
@@ -2407,7 +2463,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-160.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345350"
   },
   {
     "id": "OGN-161",
@@ -2420,7 +2476,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-161.webp",
-    "blueprint_id": ""
+    "blueprint_id": "330885"
   },
   {
     "id": "OGN-162",
@@ -2434,7 +2490,7 @@
     "set": "Origin",
     "image": "OGN-162.webp",
     "alternative":["OGN-162a"],
-    "blueprint_id": ""
+    "blueprint_id": "345351"
   },
   {
     "id": "OGN-162a",
@@ -2448,7 +2504,7 @@
     "set": "Origin",
     "image": "OGN-162a.webp",
     "alternative":["OGN-162"],
-    "blueprint_id": ""
+    "blueprint_id": "345352"
   },
   {
     "id": "OGN-163",
@@ -2461,7 +2517,7 @@
     "rune_type": ["Body"],
     "set": "Origin",
     "image": "OGN-163.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345353"
   },
   {
     "id": "OGN-164",
@@ -2475,7 +2531,7 @@
     "set": "Origin",
     "image": "OGN-164.webp",
     "alternative":["OGN-164a"],
-    "blueprint_id": ""
+    "blueprint_id": "345354"
   },
   {
     "id": "OGN-164a",
@@ -2489,7 +2545,7 @@
     "set": "Origin",
     "image": "OGN-164a.webp",
     "alternative":["OGN-164"],
-    "blueprint_id": ""
+    "blueprint_id": "345355"
   },
   {
     "id": "OGN-165",
@@ -2502,7 +2558,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-165.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345356"
   },
   {
     "id": "OGN-166",
@@ -2516,7 +2572,7 @@
     "set": "Origin",
     "image": "OGN-166.webp",
     "alternative":["OGN-166a"],
-    "blueprint_id": ""
+    "blueprint_id": "345357"
   },
   {
     "id": "OGN-166a",
@@ -2530,7 +2586,21 @@
     "set": "Origin",
     "image": "OGN-166a.webp",
     "alternative":["OGN-166"],
-    "blueprint_id": ""
+    "blueprint_id": "345358"
+  },
+  {
+    "id": "OGN-166b",
+    "name": "Chaos Rune, Nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Origin",
+    "image": "OGN-166b.webp",
+    "alternative":["OGN-166"],
+    "blueprint_id": "353784"
   },
   {
     "id": "OGN-167",
@@ -2543,7 +2613,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-167.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345359"
   },
   {
     "id": "OGN-168",
@@ -2556,7 +2626,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-168.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345360"
   },
   {
     "id": "OGN-169",
@@ -2569,7 +2639,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-169.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345361"
   },
   {
     "id": "OGN-170",
@@ -2582,7 +2652,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-170.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345362"
   },
   {
     "id": "OGN-171",
@@ -2595,7 +2665,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-171.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345363"
   },
   {
     "id": "OGN-172",
@@ -2608,7 +2678,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-172.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345364"
   },
   {
     "id": "OGN-173",
@@ -2621,7 +2691,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-173.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345365"
   },
   {
     "id": "OGN-174",
@@ -2634,7 +2704,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-174.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345366"
   },
   {
     "id": "OGN-175",
@@ -2647,7 +2717,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-175.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345367"
   },
   {
     "id": "OGN-176",
@@ -2660,7 +2730,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-176.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345368"
   },
   {
     "id": "OGN-177",
@@ -2673,11 +2743,11 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-177.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345369"
   },
   {
     "id": "OGN-178",
-    "name": "Undercover Ageng",
+    "name": "Undercover Agent",
     "type": "Unit",
     "energy": "5",
     "power": "1",
@@ -2686,7 +2756,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-178.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345370"
   },
   {
     "id": "OGN-179",
@@ -2699,7 +2769,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-179.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345371"
   },
   {
     "id": "OGN-180",
@@ -2712,7 +2782,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-180.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345372"
   },
   {
     "id": "OGN-181",
@@ -2725,7 +2795,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-181.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345373"
   },
   {
     "id": "OGN-182",
@@ -2738,7 +2808,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-182.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345374"
   },
   {
     "id": "OGN-183",
@@ -2751,7 +2821,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-183.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345375"
   },
   {
     "id": "OGN-184",
@@ -2764,7 +2834,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-184.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345376"
   },
   {
     "id": "OGN-185",
@@ -2777,7 +2847,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-185.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345377"
   },
   {
     "id": "OGN-186",
@@ -2790,7 +2860,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-186.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345378"
   },
   {
     "id": "OGN-187",
@@ -2803,7 +2873,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-187.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345379"
   },
   {
     "id": "OGN-188",
@@ -2816,7 +2886,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-188.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345380"
   },
   {
     "id": "OGN-189",
@@ -2829,7 +2899,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-189.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345381"
   },
   {
     "id": "OGN-190",
@@ -2842,7 +2912,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-190.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345382"
   },
   {
     "id": "OGN-191",
@@ -2855,7 +2925,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-191.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345383"
   },
   {
     "id": "OGN-192",
@@ -2868,7 +2938,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-192.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345384"
   },
   {
     "id": "OGN-193",
@@ -2882,7 +2952,7 @@
     "set": "Origin",
     "image": "OGN-193.webp",
     "alternative":["OGN-193a"],
-    "blueprint_id": ""
+    "blueprint_id": "345385"
   },
   {
     "id": "OGN-193a",
@@ -2896,7 +2966,7 @@
     "set": "Origin",
     "image": "OGN-193a.webp",
     "alternative":["OGN-193"],
-    "blueprint_id": ""
+    "blueprint_id": "345386"
   },
   {
     "id": "OGN-194",
@@ -2909,7 +2979,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-194.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345387"
   },
   {
     "id": "OGN-195",
@@ -2922,7 +2992,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-195.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345388"
   },
   {
     "id": "OGN-196",
@@ -2935,7 +3005,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-196.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345389"
   },
   {
     "id": "OGN-197",
@@ -2949,7 +3019,7 @@
     "set": "Origin",
     "image": "OGN-197.webp",
     "alternative":["OGN-197a"],
-    "blueprint_id": ""
+    "blueprint_id": "345390"
   },
   {
     "id": "OGN-197a",
@@ -2963,7 +3033,7 @@
     "set": "Origin",
     "image": "OGN-197a.webp",
     "alternative":["OGN-197"],
-    "blueprint_id": ""
+    "blueprint_id": "345391"
   },
   {
     "id": "OGN-198",
@@ -2976,7 +3046,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-198.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345392"
   },
   {
     "id": "OGN-199",
@@ -2989,7 +3059,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-199.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345393"
   },
   {
     "id": "OGN-200",
@@ -3002,7 +3072,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-200.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345394"
   },
   {
     "id": "OGN-201",
@@ -3015,7 +3085,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-201.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345395"
   },
   {
     "id": "OGN-202",
@@ -3029,7 +3099,7 @@
     "set": "Origin",
     "image": "OGN-202.webp",
     "alternative":["OGN-202a"],
-    "blueprint_id": ""
+    "blueprint_id": "345396"
   },
   {
     "id": "OGN-202a",
@@ -3043,7 +3113,21 @@
     "set": "Origin",
     "image": "OGN-202a.webp",
     "alternative":["OGN-202"],
-    "blueprint_id": ""
+    "blueprint_id": "345397"
+  },
+  {
+    "id": "ARC-005",
+    "name": "Jinx, Rebel",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Showcase",
+    "rune_type": ["Chaos"],
+    "set": "Origin",
+    "image": "ARC-005.webp",
+    "alternative":["OGN-202"],
+    "blueprint_id": "346737"
   },
   {
     "id": "OGN-203",
@@ -3056,7 +3140,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-203.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345398"
   },
   {
     "id": "OGN-204",
@@ -3069,7 +3153,7 @@
     "rune_type": ["Chaos"],
     "set": "Origin",
     "image": "OGN-204.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345399"
   },
   {
     "id": "OGN-205",
@@ -3083,7 +3167,7 @@
     "set": "Origin",
     "image": "OGN-205.webp",
     "alternative":["OGN-205a"],
-    "blueprint_id": ""
+    "blueprint_id": "345400"
   },
   {
     "id": "OGN-205a",
@@ -3097,7 +3181,7 @@
     "set": "Origin",
     "image": "OGN-205a.webp",
     "alternative":["OGN-205"],
-    "blueprint_id": ""
+    "blueprint_id": "345401"
   },
   {
     "id": "OGN-206",
@@ -3110,7 +3194,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-206.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345402"
   },
   {
     "id": "OGN-207",
@@ -3123,7 +3207,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-207.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345403"
   },
   {
     "id": "OGN-208",
@@ -3136,7 +3220,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-208.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345404"
   },
   {
     "id": "OGN-209",
@@ -3149,7 +3233,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-209.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345405"
   },
   {
     "id": "OGN-210",
@@ -3162,7 +3246,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-210.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345406"
   },
   {
     "id": "OGN-211",
@@ -3175,7 +3259,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-211.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345407"
   },
   {
     "id": "OGN-212",
@@ -3188,7 +3272,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-212.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345408"
   },
   {
     "id": "OGN-213",
@@ -3201,7 +3285,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-213.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345409"
   },
   {
     "id": "OGN-214",
@@ -3215,7 +3299,7 @@
     "set": "Origin",
     "image": "OGN-214.webp",
     "alternative":["OGN-214a"],
-    "blueprint_id": ""
+    "blueprint_id": "345410"
   },
   {
     "id": "OGN-214a",
@@ -3229,7 +3313,21 @@
     "set": "Origin",
     "image": "OGN-214a.webp",
     "alternative":["OGN-214"],
-    "blueprint_id": ""
+    "blueprint_id": "345411"
+  },
+  {
+    "id": "OGN-214b",
+    "name": "Order Rune, Nexus Night Promos",
+    "type": "Basic Rune",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Origin",
+    "image": "OGN-214b.webp",
+    "alternative":["OGN-214"],
+    "blueprint_id": "353780"
   },
   {
     "id": "OGN-215",
@@ -3242,7 +3340,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-215.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345412"
   },
   {
     "id": "OGN-216",
@@ -3255,7 +3353,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-216.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345413"
   },
   {
     "id": "OGN-217",
@@ -3268,7 +3366,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-217.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345414"
   },
   {
     "id": "OGN-218",
@@ -3281,7 +3379,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-218.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345415"
   },
   {
     "id": "OGN-219",
@@ -3294,7 +3392,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-219.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345416"
   },
   {
     "id": "OGN-220",
@@ -3307,7 +3405,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-220.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345417"
   },
   {
     "id": "OGN-221",
@@ -3320,7 +3418,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-221.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345418"
   },
   {
     "id": "OGN-222",
@@ -3333,7 +3431,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-222.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345419"
   },
   {
     "id": "OGN-223",
@@ -3346,7 +3444,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-223.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345420"
   },
   {
     "id": "OGN-224",
@@ -3359,7 +3457,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-224.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345421"
   },
   {
     "id": "OGN-225",
@@ -3372,7 +3470,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-225.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345422"
   },
   {
     "id": "OGN-226",
@@ -3385,7 +3483,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-226.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345423"
   },
   {
     "id": "OGN-227",
@@ -3398,7 +3496,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-227.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345424"
   },
   {
     "id": "OGN-228",
@@ -3411,7 +3509,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-228.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345425"
   },
   {
     "id": "OGN-229",
@@ -3424,7 +3522,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-229.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345426"
   },
   {
     "id": "OGN-230",
@@ -3437,7 +3535,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-230.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345427"
   },
   {
     "id": "OGN-231",
@@ -3450,7 +3548,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-231.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345428"
   },
   {
     "id": "OGN-232",
@@ -3463,7 +3561,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-232.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345429"
   },
   {
     "id": "OGN-233",
@@ -3476,7 +3574,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-233.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345430"
   },
   {
     "id": "OGN-234",
@@ -3489,7 +3587,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-234.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345431"
   },
   {
     "id": "OGN-235",
@@ -3502,7 +3600,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-235.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345432"
   },
   {
     "id": "OGN-236",
@@ -3515,7 +3613,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-236.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345433"
   },
   {
     "id": "OGN-237",
@@ -3528,7 +3626,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-237.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345434"
   },
   {
     "id": "OGN-238",
@@ -3542,7 +3640,7 @@
     "set": "Origin",
     "image": "OGN-238.webp",
     "alternative":["OGN-238a"],
-    "blueprint_id": ""
+    "blueprint_id": "345435"
   },
   {
     "id": "OGN-238a",
@@ -3556,7 +3654,7 @@
     "set": "Origin",
     "image": "OGN-238a.webp",
     "alternative":["OGN-238"],
-    "blueprint_id": ""
+    "blueprint_id": "345436"
   },
   {
     "id": "OGN-239",
@@ -3569,7 +3667,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-239.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345437"
   },
   {
     "id": "OGN-240",
@@ -3583,7 +3681,7 @@
     "set": "Origin",
     "image": "OGN-240.webp",
     "alternative":["OGN-240a"],
-    "blueprint_id": ""
+    "blueprint_id": "345438"
   },
   {
     "id": "OGN-240a",
@@ -3597,7 +3695,7 @@
     "set": "Origin",
     "image": "OGN-240a.webp",
     "alternative":["OGN-240"],
-    "blueprint_id": ""
+    "blueprint_id": "345439"
   },
   {
     "id": "OGN-241",
@@ -3610,7 +3708,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-241.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345440"
   },
   {
     "id": "OGN-242",
@@ -3623,7 +3721,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-242.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345441"
   },
   {
     "id": "OGN-243",
@@ -3637,7 +3735,7 @@
     "set": "Origin",
     "image": "OGN-243.webp",
     "alternative":["OGN-243a"],
-    "blueprint_id": ""
+    "blueprint_id": "345442"
   },
   {
     "id": "OGN-243a",
@@ -3651,7 +3749,7 @@
     "set": "Origin",
     "image": "OGN-243a.webp",
     "alternative":["OGN-243"],
-    "blueprint_id": ""
+    "blueprint_id": "345443"
   },
   {
     "id": "OGN-244",
@@ -3664,7 +3762,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-244.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345444"
   },
   {
     "id": "OGN-245",
@@ -3677,7 +3775,7 @@
     "rune_type": ["Order"],
     "set": "Origin",
     "image": "OGN-245.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345445"
   },
   {
     "id": "OGN-246",
@@ -3691,7 +3789,7 @@
     "set": "Origin",
     "image": "OGN-246.webp",
     "alternative":["OGN-246a"],
-    "blueprint_id": ""
+    "blueprint_id": "345446"
   },
   {
     "id": "OGN-246a",
@@ -3705,7 +3803,21 @@
     "set": "Origin",
     "image": "OGN-246a.webp",
     "alternative":["OGN-246"],
-    "blueprint_id": ""
+    "blueprint_id": "345447"
+  },
+  {
+    "id": "ARC-006",
+    "name": "Viktor, Leader",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Origin",
+    "image": "ARC-006.webp",
+    "alternative":["OGN-246"],
+    "blueprint_id": "346744"
   },
   {
     "id": "OGN-247",
@@ -3718,7 +3830,7 @@
     "rune_type": ["Fury", "Mind"],
     "set": "Origin",
     "image": "OGN-247.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345448"
   },
   {
     "id": "OGN-248",
@@ -3731,7 +3843,7 @@
     "rune_type": ["Fury", "Mind"],
     "set": "Origin",
     "image": "OGN-248.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345449"
   },
   {
     "id": "OGN-249",
@@ -3744,7 +3856,7 @@
     "rune_type": ["Body", "Fury"],
     "set": "Origin",
     "image": "OGN-249.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345450"
   },
   {
     "id": "OGN-250",
@@ -3757,7 +3869,7 @@
     "rune_type": ["Body", "Fury"],
     "set": "Origin",
     "image": "OGN-250.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345451"
   },
   {
     "id": "OGN-251",
@@ -3770,7 +3882,7 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Origin",
     "image": "OGN-251.webp",
-    "blueprint_id": ""
+    "blueprint_id": "330881"
   },
   {
     "id": "OGN-252",
@@ -3783,7 +3895,7 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Origin",
     "image": "OGN-252.webp",
-    "blueprint_id": ""
+    "blueprint_id": "330882"
   },
   {
     "id": "OGN-253",
@@ -3796,7 +3908,7 @@
     "rune_type": ["Fury", "Order"],
     "set": "Origin",
     "image": "OGN-253.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345452"
   },
   {
     "id": "OGN-254",
@@ -3809,7 +3921,7 @@
     "rune_type": ["Fury", "Order"],
     "set": "Origin",
     "image": "OGN-254.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345453"
   },
   {
     "id": "OGN-255",
@@ -3822,7 +3934,7 @@
     "rune_type": ["Calm", "Mind"],
     "set": "Origin",
     "image": "OGN-255.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345454"
   },
   {
     "id": "OGN-256",
@@ -3835,7 +3947,7 @@
     "rune_type": ["Calm", "Mind"],
     "set": "Origin",
     "image": "OGN-256.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345455"
   },
   {
     "id": "OGN-257",
@@ -3848,7 +3960,7 @@
     "rune_type": ["Body", "Calm"],
     "set": "Origin",
     "image": "OGN-257.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345456"
   },
   {
     "id": "OGN-258",
@@ -3861,7 +3973,7 @@
     "rune_type": ["Body", "Calm"],
     "set": "Origin",
     "image": "OGN-258.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345457"
   },
   {
     "id": "OGN-259",
@@ -3874,7 +3986,7 @@
     "rune_type": ["Calm", "Chaos"],
     "set": "Origin",
     "image": "OGN-259.webp",
-    "blueprint_id": ""
+    "blueprint_id": "330883"
   },
   {
     "id": "OGN-260",
@@ -3887,7 +3999,7 @@
     "rune_type": ["Calm", "Chaos"],
     "set": "Origin",
     "image": "OGN-260.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345458"
   },
   {
     "id": "OGN-261",
@@ -3900,7 +4012,7 @@
     "rune_type": ["Calm", "Order"],
     "set": "Origin",
     "image": "OGN-261.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345459"
   },
   {
     "id": "OGN-262",
@@ -3913,7 +4025,7 @@
     "rune_type": ["Calm", "Order"],
     "set": "Origin",
     "image": "OGN-262.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345460"
   },
   {
     "id": "OGN-263",
@@ -3926,7 +4038,7 @@
     "rune_type": ["Mind", "Chaos"],
     "set": "Origin",
     "image": "OGN-263.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345461"
   },
   {
     "id": "OGN-264",
@@ -3939,7 +4051,7 @@
     "rune_type": ["Mind", "Chaos"],
     "set": "Origin",
     "image": "OGN-264.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345462"
   },
   {
     "id": "OGN-265",
@@ -3952,7 +4064,7 @@
     "rune_type": ["Order", "Mind"],
     "set": "Origin",
     "image": "OGN-265.webp",
-    "blueprint_id": ""
+    "blueprint_id": "330884"
   },
   {
     "id": "OGN-266",
@@ -3965,7 +4077,7 @@
     "rune_type": ["Order", "Mind"],
     "set": "Origin",
     "image": "OGN-266.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345463"
   },
   {
     "id": "OGN-267",
@@ -3978,7 +4090,7 @@
     "rune_type": ["Body", "Chaos"],
     "set": "Origin",
     "image": "OGN-267.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345464"
   },
   {
     "id": "OGN-268",
@@ -3991,7 +4103,7 @@
     "rune_type": ["Body", "Chaos"],
     "set": "Origin",
     "image": "OGN-268.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345465"
   },
   {
     "id": "OGN-269",
@@ -4004,7 +4116,7 @@
     "rune_type": ["Body", "Order"],
     "set": "Origin",
     "image": "OGN-269.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345466"
   },
   {
     "id": "OGN-270",
@@ -4017,7 +4129,7 @@
     "rune_type": ["Body", "Order"],
     "set": "Origin",
     "image": "OGN-270.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345467"
   },
   {
     "id": "OGN-271",
@@ -4029,7 +4141,7 @@
     "rarity": "Common",
     "set": "Origin",
     "image": "OGN-271.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345468"
   },
   {
     "id": "OGN-272",
@@ -4041,7 +4153,7 @@
     "rarity": "Common",
     "set": "Origin",
     "image": "OGN-272.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345469"
   },
   {
     "id": "OGN-273",
@@ -4053,7 +4165,7 @@
     "rarity": "Common",
     "set": "Origin",
     "image": "OGN-273.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345470"
   },
   {
     "id": "OGN-274",
@@ -4065,7 +4177,7 @@
     "rarity": "Common",
     "set": "Origin",
     "image": "OGN-274.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345471"
   },
   {
     "id": "OGN-275",
@@ -4077,7 +4189,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-275.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345472"
   },
   {
     "id": "OGN-276",
@@ -4089,7 +4201,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-276.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345473"
   },
   {
     "id": "OGN-277",
@@ -4101,7 +4213,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-277.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345474"
   },
   {
     "id": "OGN-278",
@@ -4113,7 +4225,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-278.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345475"
   },
   {
     "id": "OGN-279",
@@ -4125,7 +4237,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-279.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345476"
   },
   {
     "id": "OGN-280",
@@ -4137,7 +4249,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-280.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345477"
   },
   {
     "id": "OGN-281",
@@ -4149,7 +4261,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-281.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345478"
   },
   {
     "id": "OGN-282",
@@ -4161,7 +4273,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-282.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345479"
   },
   {
     "id": "OGN-283",
@@ -4173,7 +4285,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-283.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345480"
   },
   {
     "id": "OGN-284",
@@ -4185,7 +4297,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-284.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345481"
   },
   {
     "id": "OGN-285",
@@ -4197,7 +4309,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-285.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345482"
   },
   {
     "id": "OGN-286",
@@ -4209,7 +4321,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-286.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345483"
   },
   {
     "id": "OGN-287",
@@ -4221,7 +4333,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-287.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345484"
   },
   {
     "id": "OGN-288",
@@ -4233,7 +4345,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-288.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345485"
   },
   {
     "id": "OGN-289",
@@ -4245,7 +4357,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-289.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345486"
   },
   {
     "id": "OGN-290",
@@ -4257,7 +4369,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-290.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345487"
   },
   {
     "id": "OGN-291",
@@ -4269,7 +4381,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-291.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345488"
   },
   {
     "id": "OGN-292",
@@ -4281,7 +4393,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-292.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345489"
   },
   {
     "id": "OGN-293",
@@ -4293,7 +4405,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-293.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345490"
   },
   {
     "id": "OGN-294",
@@ -4305,7 +4417,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-294.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345491"
   },
   {
     "id": "OGN-295",
@@ -4317,7 +4429,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-295.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345492"
   },
   {
     "id": "OGN-296",
@@ -4329,7 +4441,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-296.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345493"
   },
   {
     "id": "OGN-297",
@@ -4341,7 +4453,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-297.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345494"
   },
   {
     "id": "OGN-298",
@@ -4353,7 +4465,7 @@
     "rarity": "Uncommon",
     "set": "Origin",
     "image": "OGN-298.webp",
-    "blueprint_id": ""
+    "blueprint_id": "345495"
   },
   {
     "id": "OGN-XXX",
@@ -4378,7 +4490,8 @@
     "rune_type": ["Fury", "Mind"],
     "set": "Origin",
     "image": "OGN-299.webp",
-    "alternative": ["OGN-299s"]
+    "alternative": ["OGN-299s"],
+    "blueprint_id": "345496"
 },
 {
     "id": "OGN-299s",
@@ -4391,7 +4504,8 @@
     "rune_type": ["Fury", "Mind"],
     "set": "Origin",
     "image": "OGN-299s.webp",
-    "alternative": ["OGN-299"]
+    "alternative": ["OGN-299"],
+    "blueprint_id": "345497"
 },
 {
     "id": "OGN-300",
@@ -4404,7 +4518,8 @@
     "rune_type": ["Body", "Fury"],
     "set": "Origin",
     "image": "OGN-300.webp",
-    "alternative": ["OGN-300s"]
+    "alternative": ["OGN-300s"],
+    "blueprint_id": "345498"
 },
 {
     "id": "OGN-300s",
@@ -4417,7 +4532,8 @@
     "rune_type": ["Body", "Fury"],
     "set": "Origin",
     "image": "OGN-300s.webp",
-    "alternative": ["OGN-300"]
+    "alternative": ["OGN-300"],
+    "blueprint_id": "345499"
 },
 {
     "id": "OGN-301",
@@ -4430,7 +4546,8 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Origin",
     "image": "OGN-301.webp",
-    "alternative": ["OGN-301s"]
+    "alternative": ["OGN-301s"],
+    "blueprint_id": "345500"
 },
 {
     "id": "OGN-301s",
@@ -4443,7 +4560,8 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Origin",
     "image": "OGN-301s.webp",
-    "alternative": ["OGN-301"]
+    "alternative": ["OGN-301"],
+    "blueprint_id": "345501"
 },
 {
     "id": "OGN-302",
@@ -4456,7 +4574,8 @@
     "rune_type": ["Fury", "Order"],
     "set": "Origin",
     "image": "OGN-302.webp",
-    "alternative": ["OGN-302s"]
+    "alternative": ["OGN-302s"],
+    "blueprint_id": "345502"
 },
 {
     "id": "OGN-302s",
@@ -4469,7 +4588,8 @@
     "rune_type": ["Fury", "Order"],
     "set": "Origin",
     "image": "OGN-302s.webp",
-    "alternative": ["OGN-302"]
+    "alternative": ["OGN-302"],
+    "blueprint_id": "345503"
 },
 {
     "id": "OGN-303",
@@ -4482,7 +4602,8 @@
     "rune_type": ["Calm", "Mind"],
     "set": "Origin",
     "image": "OGN-303.webp",
-    "alternative": ["OGN-303s"]
+    "alternative": ["OGN-303s"],
+    "blueprint_id": "345504"
 },
 {
     "id": "OGN-303s",
@@ -4495,7 +4616,8 @@
     "rune_type": ["Calm", "Mind"],
     "set": "Origin",
     "image": "OGN-303s.webp",
-    "alternative": ["OGN-303"]
+    "alternative": ["OGN-303"],
+    "blueprint_id": "345505"
 },
 {
     "id": "OGN-304",
@@ -4508,7 +4630,8 @@
     "rune_type": ["Body", "Calm"],
     "set": "Origin",
     "image": "OGN-304.webp",
-    "alternative": ["OGN-304s"]
+    "alternative": ["OGN-304s"],
+    "blueprint_id": "345506"
 },
 {
     "id": "OGN-304s",
@@ -4521,7 +4644,8 @@
     "rune_type": ["Body", "Calm"],
     "set": "Origin",
     "image": "OGN-304s.webp",
-    "alternative": ["OGN-304"]
+    "alternative": ["OGN-304"],
+    "blueprint_id": "345507"
 },
 {
     "id": "OGN-305",
@@ -4534,7 +4658,8 @@
     "rune_type": ["Calm", "Chaos"],
     "set": "Origin",
     "image": "OGN-305.webp",
-    "alternative": ["OGN-305s"]
+    "alternative": ["OGN-305s"],
+    "blueprint_id": "345508"
 },
 {
     "id": "OGN-305s",
@@ -4547,7 +4672,8 @@
     "rune_type": ["Calm", "Chaos"],
     "set": "Origin",
     "image": "OGN-305s.webp",
-    "alternative": ["OGN-305"]
+    "alternative": ["OGN-305"],
+    "blueprint_id": "345509"
 },
 {
     "id": "OGN-306",
@@ -4560,7 +4686,8 @@
     "rune_type": ["Calm", "Order"],
     "set": "Origin",
     "image": "OGN-306.webp",
-    "alternative": ["OGN-306s"]
+    "alternative": ["OGN-306s"],
+    "blueprint_id": "345510"
 },
 {
     "id": "OGN-306s",
@@ -4573,7 +4700,8 @@
     "rune_type": ["Calm", "Order"],
     "set": "Origin",
     "image": "OGN-306s.webp",
-    "alternative": ["OGN-306"]
+    "alternative": ["OGN-306"],
+    "blueprint_id": "345511"
 },
 {
     "id": "OGN-307",
@@ -4586,7 +4714,8 @@
     "rune_type": ["Mind", "Chaos"],
     "set": "Origin",
     "image": "OGN-307.webp",
-    "alternative": ["OGN-307s"]
+    "alternative": ["OGN-307s"],
+    "blueprint_id": "345512"
 },
 {
     "id": "OGN-307s",
@@ -4599,7 +4728,8 @@
     "rune_type": ["Mind", "Chaos"],
     "set": "Origin",
     "image": "OGN-307s.webp",
-    "alternative": ["OGN-307"]
+    "alternative": ["OGN-307"],
+    "blueprint_id": "345513"
 },
 {
     "id": "OGN-308",
@@ -4612,7 +4742,8 @@
     "rune_type": ["Order", "Mind"],
     "set": "Origin",
     "image": "OGN-308.webp",
-    "alternative": ["OGN-308s"]
+    "alternative": ["OGN-308s"],
+    "blueprint_id": "345514"
 },
 {
     "id": "OGN-308s",
@@ -4625,7 +4756,8 @@
     "rune_type": ["Order", "Mind"],
     "set": "Origin",
     "image": "OGN-308s.webp",
-    "alternative": ["OGN-308"]
+    "alternative": ["OGN-308"],
+    "blueprint_id": "345515"
 },
 {
     "id": "OGN-309",
@@ -4638,7 +4770,8 @@
     "rune_type": ["Body", "Chaos"],
     "set": "Origin",
     "image": "OGN-309.webp",
-    "alternative": ["OGN-309s"]
+    "alternative": ["OGN-309s"],
+    "blueprint_id": "345516"
 },
 {
     "id": "OGN-309s",
@@ -4651,7 +4784,8 @@
     "rune_type": ["Body", "Chaos"],
     "set": "Origin",
     "image": "OGN-309s.webp",
-    "alternative": ["OGN-309"]
+    "alternative": ["OGN-309"],
+    "blueprint_id": "345517"
 },
 {
     "id": "OGN-310",
@@ -4664,7 +4798,8 @@
     "rune_type": ["Body", "Order"],
     "set": "Origin",
     "image": "OGN-310.webp",
-    "alternative": ["OGN-310s"]
+    "alternative": ["OGN-310s"],
+    "blueprint_id": "345518"
 },
 {
     "id": "OGN-310s",
@@ -4678,7 +4813,7 @@
     "set": "Origin",
     "image": "OGN-310s.webp",
     "alternative": ["OGN-310"],
-    "blueprint_id": ""
+    "blueprint_id": "345518"
   },
   {
     "id": "OGS-001",
@@ -4691,7 +4826,7 @@
     "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-001.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344328"
   },
   {
     "id": "OGS-002",
@@ -4704,7 +4839,7 @@
     "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-002.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344329"
   },
   {
     "id": "OGS-003",
@@ -4717,7 +4852,7 @@
     "rune_type": ["Fury"],
     "set": "Proving Grounds",
     "image": "OGS-003.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344330"
   },
   {
     "id": "OGS-004",
@@ -4730,7 +4865,7 @@
     "rune_type": ["Calm"],
     "set": "Proving Grounds",
     "image": "OGS-004.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344331"
   },
   {
     "id": "OGS-005",
@@ -4743,7 +4878,7 @@
     "rune_type": ["Calm"],
     "set": "Proving Grounds",
     "image": "OGS-005.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344332"
   },
   {
     "id": "OGS-006",
@@ -4756,7 +4891,7 @@
     "rune_type": ["Mind"],
     "set": "Proving Grounds",
     "image": "OGS-006.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344333"
   },
   {
     "id": "OGS-007",
@@ -4769,7 +4904,7 @@
     "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-007.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344334"
   },
   {
     "id": "OGS-008",
@@ -4782,7 +4917,7 @@
     "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-008.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344335"
   },
   {
     "id": "OGS-009",
@@ -4795,7 +4930,7 @@
     "rune_type": ["Body"],
     "set": "Proving Grounds",
     "image": "OGS-009.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344336"
   },
   {
     "id": "OGS-010",
@@ -4808,7 +4943,7 @@
     "rune_type": ["Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-010.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344337"
   },
   {
     "id": "OGS-011",
@@ -4821,7 +4956,7 @@
     "rune_type": ["Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-011.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344338"
   },
   {
     "id": "OGS-012",
@@ -4834,7 +4969,7 @@
     "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-012.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344340"
   },
   {
     "id": "OGS-013",
@@ -4847,7 +4982,7 @@
     "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-013.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344341"
   },
   {
     "id": "OGS-014",
@@ -4860,7 +4995,7 @@
     "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-014.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344342"
   },
   {
     "id": "OGS-015",
@@ -4873,7 +5008,7 @@
     "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-015.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344343"
   },
   {
     "id": "OGS-016",
@@ -4886,7 +5021,7 @@
     "rune_type": ["Order"],
     "set": "Proving Grounds",
     "image": "OGS-016.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344344"
   },
   {
     "id": "OGS-017",
@@ -4899,7 +5034,7 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-017.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344430"
   },
   {
     "id": "OGS-018",
@@ -4912,7 +5047,7 @@
     "rune_type": ["Fury", "Chaos"],
     "set": "Proving Grounds",
     "image": "OGS-018.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344431"
   },
   {
     "id": "OGS-019",
@@ -4925,7 +5060,7 @@
     "rune_type": ["Body", "Calm"],
     "set": "Proving Grounds",
     "image": "OGS-019.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344432"
   },
   {
     "id": "OGS-020",
@@ -4938,7 +5073,7 @@
     "rune_type": ["Body", "Calm"],
     "set": "Proving Grounds",
     "image": "OGS-020.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344433"
   },
   {
     "id": "OGS-021",
@@ -4951,7 +5086,7 @@
     "rune_type": ["Order", "Mind"],
     "set": "Proving Grounds",
     "image": "OGS-021.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344434"
   },
   {
     "id": "OGS-022",
@@ -4964,7 +5099,7 @@
     "rune_type": ["Order", "Mind"],
     "set": "Proving Grounds",
     "image": "OGS-022.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344435"
   },
   {
     "id": "OGS-023",
@@ -4977,7 +5112,7 @@
     "rune_type": ["Body", "Order"],
     "set": "Proving Grounds",
     "image": "OGS-023.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344436"
   },
   {
     "id": "OGS-024",
@@ -4990,7 +5125,7 @@
     "rune_type": ["Body", "Order"],
     "set": "Proving Grounds",
     "image": "OGS-024.webp",
-    "blueprint_id": ""
+    "blueprint_id": "344437"
   },
 
 
