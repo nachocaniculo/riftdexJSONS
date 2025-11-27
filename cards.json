@@ -5352,6 +5352,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-050",
+    "name": "Azir, ?",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-050.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-051",
     "name": "Guardian Angel",
     "type": "Gear",
@@ -5365,16 +5378,16 @@
     "blueprint_id": ""
   },
   {
-    "id": "SFD-050",
-    "name": "Azir, ?",
-    "type": "Champion Unit",
-    "energy": "6",
-    "power": "1",
-    "might": "6",
+    "id": "SFD-055",
+    "name": "Needlessly Large Yordle",
+    "type": "Unit",
+    "energy": "10",
+    "power": "3",
+    "might": "5",
     "rarity": "Rare",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
-    "image": "SFD-050.webp",
+    "image": "SFD-055.webp",
     "blueprint_id": ""
   },
   {
