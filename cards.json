@@ -5157,6 +5157,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-007",
+    "name": "Gem Jammer",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Common",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-007.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-010",
     "name": "Void Drone",
     "type": "Unit",
@@ -5222,6 +5235,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-025",
+    "name": "Rengar, Pouncing",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-025.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-027",
     "name": "?",
     "type": "Unit",
@@ -5232,6 +5258,32 @@
     "rune_type": ["Fury"],
     "set": "Spiritforged",
     "image": "SFD-027.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-029",
+    "name": "Rek'Sai, Breacher",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Epic",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-029.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-029a",
+    "name": "Rek'Sai, Breacher",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-029a.webp",
     "blueprint_id": ""
   },
   {
@@ -5261,6 +5313,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-045",
+    "name": "Not So Fast",
+    "type": "Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Uncommon",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-045.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-048",
     "name": "Stellacorn Herder",
     "type": "Unit",
@@ -5271,6 +5336,19 @@
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-048.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-049",
+    "name": "Aphelios, Exalted",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-049.webp",
     "blueprint_id": ""
   },
   {
@@ -5388,6 +5466,32 @@
     "rune_type": ["Mind"],
     "set": "Spiritforged",
     "image": "SFD-075.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-082",
+    "name": "Ezreal, Dashing",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Rare",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-082.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-082a",
+    "name": "Ezreal, Dashing",
+    "type": "Champion Unit",
+    "energy": "4",
+    "power": "1",
+    "might": "3",
+    "rarity": "Showcase",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-082a.webp",
     "blueprint_id": ""
   },
   {
@@ -5726,6 +5830,19 @@
     "rune_type": ["Chaos"],
     "set": "Spiritforged",
     "image": "SFD-141a.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-146",
+    "name": "Vex, Cheerless",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Rare",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-146.webp",
     "blueprint_id": ""
   },
   {
@@ -6275,6 +6392,30 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-214",
+    "name": "Power Nexus",
+    "type": "Battlefield",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Uncommon",
+    "set": "Spiritforged",
+    "image": "SFD-214.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-215",
+    "name": "Ravenbloom Conservatory",
+    "type": "Battlefield",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Uncommon",
+    "set": "Spiritforged",
+    "image": "SFD-215.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-220",
     "name": "Treasure Hoard",
     "type": "Battlefield",
@@ -6427,6 +6568,19 @@
     "rune_type": ["Chaos"],
     "set": "Spiritforged",
     "image": "SFD-234.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-236s",
+    "name": "Darius, Executioner",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Showcase",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-236s.webp",
     "blueprint_id": ""
   },
   {
