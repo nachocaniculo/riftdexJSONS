@@ -5183,6 +5183,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-018",
+    "name": "Void Hatchling",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "2",
+    "rarity": "Uncommon",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-018.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-020",
     "name": "Draven, Vanquisher",
     "type": "Champion Unit",
@@ -5222,8 +5235,21 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-023",
+    "name": "Piercing Light",
+    "type": "Spell",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Fury"],
+    "set": "Spiritforged",
+    "image": "SFD-023.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-024",
-    "name": "Rell, ?",
+    "name": "Rell, Magnetic",
     "type": "Champion Unit",
     "energy": "4",
     "power": "0",
@@ -5249,7 +5275,7 @@
   },
   {
     "id": "SFD-027",
-    "name": "?",
+    "name": "Dunebreaker",
     "type": "Unit",
     "energy": "7",
     "power": "1",
@@ -5313,6 +5339,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-039",
+    "name": "Royal Entourage",
+    "type": "Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "4",
+    "rarity": "Common",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-039.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-045",
     "name": "Not So Fast",
     "type": "Spell",
@@ -5353,7 +5392,7 @@
   },
   {
     "id": "SFD-050",
-    "name": "Azir, ?",
+    "name": "Azir, Ascendant",
     "type": "Champion Unit",
     "energy": "6",
     "power": "1",
@@ -5362,6 +5401,19 @@
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-050.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-050a",
+    "name": "Azir, Ascendant",
+    "type": "Champion Unit",
+    "energy": "6",
+    "power": "1",
+    "might": "6",
+    "rarity": "Showcase",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-050a.webp",
     "blueprint_id": ""
   },
   {
@@ -5457,7 +5509,7 @@
   },
   {
     "id": "SFD-071",
-    "name": "?",
+    "name": "Breakneck Mech",
     "type": "Unit",
     "energy": "8",
     "power": "2",
@@ -5470,7 +5522,7 @@
   },
   {
     "id": "SFD-075",
-    "name": "?",
+    "name": "Prize of Progress",
     "type": "Unit",
     "energy": "4",
     "power": "1",
@@ -5479,6 +5531,19 @@
     "rune_type": ["Mind"],
     "set": "Spiritforged",
     "image": "SFD-075.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-080",
+    "name": "Bellows Breath",
+    "type": "Spell",
+    "energy": "1",
+    "power": "1",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Mind"],
+    "set": "Spiritforged",
+    "image": "SFD-080.webp",
     "blueprint_id": ""
   },
   {
@@ -5599,6 +5664,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-107",
+    "name": "Strike Down",
+    "type": "Spell",
+    "energy": "3",
+    "power": "1",
+    "might": "0",
+    "rarity": "Uncommon",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-107.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-108",
     "name": "Warmog's Armor",
     "type": "Gear",
@@ -5665,7 +5743,7 @@
   },
   {
     "id": "SFD-114",
-    "name": "?",
+    "name": "Marching Orders",
     "type": "Spell",
     "energy": "3",
     "power": "0",
@@ -5743,7 +5821,7 @@
   },
   {
     "id": "SFD-120",
-    "name": "Sivir, ?",
+    "name": "Sivir, Ambitious",
     "type": "Champion Unit",
     "energy": "6",
     "power": "3",
@@ -5756,7 +5834,7 @@
   },
   {
     "id": "SFD-120a",
-    "name": "Sivir, ?",
+    "name": "Sivir, Ambitious",
     "type": "Champion Unit",
     "energy": "6",
     "power": "3",
@@ -5794,6 +5872,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-126",
+    "name": "Loyal Pup",
+    "type": "Unit",
+    "energy": "3",
+    "power": "0",
+    "might": "3",
+    "rarity": "Common",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-126.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-128",
     "name": "Overzealous Fan",
     "type": "Unit",
@@ -5820,6 +5911,45 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-133",
+    "name": "Boots of Swiftness",
+    "type": "Gear",
+    "energy": "3",
+    "power": "0",
+    "might": "2",
+    "rarity": "Uncommon",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-133.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-138",
+    "name": "Windsinger",
+    "type": "Unit",
+    "energy": "2",
+    "power": "0",
+    "might": "1",
+    "rarity": "Uncommon",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-138.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-140",
+    "name": "Fizz, Trickster",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "3",
+    "rarity": "Rare",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-140.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-141",
     "name": "Irelia, Graceful",
     "type": "Champion Unit",
@@ -5843,6 +5973,19 @@
     "rune_type": ["Chaos"],
     "set": "Spiritforged",
     "image": "SFD-141a.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-145",
+    "name": "Switcheroo",
+    "type": "Spell",
+    "energy": "2",
+    "power": "2",
+    "might": "0",
+    "rarity": "Rare",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-145.webp",
     "blueprint_id": ""
   },
   {
@@ -5886,7 +6029,7 @@
   },
   {
     "id": "SFD-151",
-    "name": "?",
+    "name": "BOnds of Strength",
     "type": "Spell",
     "energy": "2",
     "power": "0",
@@ -5912,7 +6055,7 @@
   },
   {
     "id": "SFD-157",
-    "name": "?",
+    "name": "Royal Guard",
     "type": "Unit",
     "energy": "4",
     "power": "0",
@@ -5951,7 +6094,7 @@
   },
   {
     "id": "SFD-168",
-    "name": "?",
+    "name": "Vanguard Armory",
     "type": "Gear",
     "energy": "7",
     "power": "1",
@@ -6029,7 +6172,7 @@
   },
   {
     "id": "SFD-172",
-    "name": "?",
+    "name": "Sacred Shears",
     "type": "Gear",
     "energy": "2",
     "power": "1",
@@ -6042,7 +6185,7 @@
   },
   {
     "id": "SFD-173",
-    "name": "Soraka, ?",
+    "name": "Soraka, Wanderer",
     "type": "Champion Unit",
     "energy": "4",
     "power": "1",
@@ -6068,7 +6211,7 @@
   },
   {
     "id": "SFD-179",
-    "name": "?",
+    "name": "Corina Veraza",
     "type": "Unit",
     "energy": "7",
     "power": "1",
@@ -6619,7 +6762,7 @@
     "rarity": "Showcase",
     "rune_type": ["Fury", "Chaos"],
     "set": "Spiritforged",
-    "image": "SFD-240.webp",
+    "image": "SFD-242.webp",
     "blueprint_id": ""
   },
   {
