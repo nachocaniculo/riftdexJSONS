@@ -5430,6 +5430,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-054",
+    "name": "Jax, ?",
+    "type": "Champion Unit",
+    "energy": "5",
+    "power": "1",
+    "might": "5",
+    "rarity": "Rare",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-054.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-055",
     "name": "Needlessly Large Yordle",
     "type": "Unit",
@@ -5488,10 +5501,23 @@
     "energy": "3",
     "power": "1",
     "might": "0",
-    "rarity": "Showcase",
+    "rarity": "Epic",
     "rune_type": ["Calm"],
     "set": "Spiritforged",
     "image": "SFD-059.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-060",
+    "name": "Tianna Crownguard",
+    "type": "Unit",
+    "energy": "7",
+    "power": "2",
+    "might": "4",
+    "rarity": "Epic",
+    "rune_type": ["Calm"],
+    "set": "Spiritforged",
+    "image": "SFD-060.webp",
     "blueprint_id": ""
   },
   {
@@ -5781,6 +5807,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-117",
+    "name": "Ancient Monument",
+    "type": "Gear",
+    "energy": "2",
+    "power": "1",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Body"],
+    "set": "Spiritforged",
+    "image": "SFD-117.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-118",
     "name": "Boneshiver",
     "type": "Gear",
@@ -6002,6 +6041,19 @@
     "blueprint_id": ""
   },
   {
+    "id": "SFD-147",
+    "name": "Sunk Cost",
+    "type": "Spell",
+    "energy": "8",
+    "power": "2",
+    "might": "0",
+    "rarity": "Epic",
+    "rune_type": ["Chaos"],
+    "set": "Spiritforged",
+    "image": "SFD-147.webp",
+    "blueprint_id": ""
+  },
+  {
     "id": "SFD-148",
     "name": "Draven, Audacious",
     "type": "Champion Unit",
@@ -6194,6 +6246,19 @@
     "rune_type": ["Order"],
     "set": "Spiritforged",
     "image": "SFD-173.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-176",
+    "name": "Xin Zhao, ?",
+    "type": "Champion Unit",
+    "energy": "3",
+    "power": "1",
+    "might": "4",
+    "rarity": "Rare",
+    "rune_type": ["Order"],
+    "set": "Spiritforged",
+    "image": "SFD-176.webp",
     "blueprint_id": ""
   },
   {
@@ -6750,6 +6815,19 @@
     "rune_type": ["Fury", "Mind"],
     "set": "Spiritforged",
     "image": "SFD-240.webp",
+    "blueprint_id": ""
+  },
+  {
+    "id": "SFD-241",
+    "name": "Purifier",
+    "type": "Legend",
+    "energy": "0",
+    "power": "0",
+    "might": "0",
+    "rarity": "Showcase",
+    "rune_type": ["Fury", "Body"],
+    "set": "Spiritforged",
+    "image": "SFD-241.webp",
     "blueprint_id": ""
   },
   {
