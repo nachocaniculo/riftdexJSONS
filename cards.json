@@ -6938,6 +6938,22 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-058",
+        "name": "Ornn, Blacksmith",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Epic",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-058.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-059",
         "name": "Svellsongur",
         "type": "Gear",
@@ -7014,6 +7030,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-075.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-079",
+        "name": "Bard, Mercurial",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-079.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -7514,6 +7546,22 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-136",
+        "name": "Hard Bargain",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-136.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-138",
         "name": "Windsinger",
         "type": "Unit",
@@ -7878,6 +7926,38 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-176.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-177",
+        "name": "Azie, Sovereign",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-177.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-177a",
+        "name": "Azie, Sovereign",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-177a.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -8333,6 +8413,19 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-206.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-213",
+        "name": "Ornn's Forge",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-213.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
