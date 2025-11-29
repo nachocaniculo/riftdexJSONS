@@ -7898,8 +7898,24 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-150",
+        "name": "Last Rites",
+        "type": "Gear",
+        "energy": "3",
+        "power": "0",
+        "might": "2",
+        "rarity": "Epic",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-150.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-151",
-        "name": "BOnds of Strength",
+        "name": "Bonds of Strength",
         "type": "Spell",
         "energy": "2",
         "power": "0",
