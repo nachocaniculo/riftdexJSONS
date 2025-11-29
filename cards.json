@@ -6602,6 +6602,22 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-021",
+        "name": "Ferrous Forerunner",
+        "type": "Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "6",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-021.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-022",
         "name": "Long Sword",
         "type": "Gear",
@@ -6758,6 +6774,38 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-039.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-040",
+        "name": "Thwonk!",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-040.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-042",
+        "name": "Brutalizer",
+        "type": "Gear",
+        "energy": "2",
+        "power": "0",
+        "might": "1",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-042.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -6986,6 +7034,70 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-061",
+        "name": "Aspiring Engineer",
+        "type": "Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-061.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-062",
+        "name": "Bubble Bot",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-062.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-067",
+        "name": "Frostcoat Cub",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-067.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-063",
+        "name": "Chemtech Cask",
+        "type": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-063.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-069",
         "name": "Plundering Poro",
         "type": "Unit",
@@ -7014,6 +7126,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-071.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-073",
+        "name": "Experimental Hexplate",
+        "type": "Unit",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-073.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -7094,6 +7222,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-082a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-084",
+        "name": "Jayce, Man Of Progress",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-084.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -7190,6 +7334,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-099.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-100",
+        "name": "Yordle Explorer",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-100.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -7626,6 +7786,22 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-142",
+        "name": "Jae Medarda",
+        "type": "Unit",
+        "energy": "5",
+        "power": "2",
+        "might": "5",
+        "rarity": "Rare",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-142.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-145",
         "name": "Switcheroo",
         "type": "Spell",
@@ -7770,6 +7946,38 @@
         "tcgp_id": null
     },
     {
+        "id": "SFD-164",
+        "name": "Drag Under",
+        "type": "Spell",
+        "energy": "5",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-164.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-165",
+        "name": "Glasc Mixologist",
+        "type": "Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-165.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
         "id": "SFD-167",
         "name": "Unsung Hero",
         "type": "Unit",
@@ -7910,6 +8118,38 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-173.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-174",
+        "name": "Trove Golem",
+        "type": "Unit",
+        "energy": "8",
+        "power": "2",
+        "might": "9",
+        "rarity": "Rare",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-174.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-175",
+        "name": "Undertitan",
+        "type": "Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "5",
+        "rarity": "Rare",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-175.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
@@ -8629,6 +8869,38 @@
         "tcgp_id": 652951
     },
     {
+        "id": "SFD-233",
+        "name": "Yone, Blademaster",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-233.webp",
+        "blueprint_id": "",
+        "tcgp_id": 652951
+    },
+    {
+        "id": "SFD-233s",
+        "name": "Yone, Blademaster",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-233s.webp",
+        "blueprint_id": "",
+        "tcgp_id": 652951
+    },
+    {
         "id": "SFD-234",
         "name": "Seal of Discord",
         "type": "Gear",
@@ -8708,6 +8980,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-242.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-243",
+        "name": "Void Burrower",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Fury",
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-243.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
