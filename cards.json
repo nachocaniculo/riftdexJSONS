@@ -7082,22 +7082,6 @@
         "tcgp_id": null
     },
     {
-        "id": "SFD-067",
-        "name": "Frostcoat Cub",
-        "type": "Unit",
-        "energy": "3",
-        "power": "0",
-        "might": "3",
-        "rarity": "Common",
-        "rune_type": [
-            "Mind"
-        ],
-        "set": "Spiritforged",
-        "image": "SFD-067.webp",
-        "blueprint_id": "",
-        "tcgp_id": null
-    },
-    {
         "id": "SFD-063",
         "name": "Chemtech Cask",
         "type": "Gear",
@@ -7110,6 +7094,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-063.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-067",
+        "name": "Frostcoat Cub",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-067.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
