@@ -6907,7 +6907,7 @@
     },
     {
         "id": "SFD-054",
-        "name": "Jax, ?",
+        "name": "Jax, Unmatched",
         "type": "Champion Unit",
         "energy": "5",
         "power": "1",
@@ -6918,6 +6918,22 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-054.webp",
+        "blueprint_id": "",
+        "tcgp_id": null
+    },
+    {
+        "id": "SFD-054a",
+        "name": "Jax, Unmatched",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-054a.webp",
         "blueprint_id": "",
         "tcgp_id": null
     },
