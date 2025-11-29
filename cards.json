@@ -7851,7 +7851,7 @@
     },
     {
         "id": "SFD-147",
-        "name": "Sunk Cost",
+        "name": "Downwell",
         "type": "Spell",
         "energy": "8",
         "power": "2",
@@ -8187,7 +8187,7 @@
     },
     {
         "id": "SFD-176",
-        "name": "Xin Zhao, ?",
+        "name": "Xin Zhao, VIgilant",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
