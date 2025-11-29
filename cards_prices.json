@@ -72,7 +72,7 @@
   {
     "id": "OGN-007b",
     "price_cardtrader": 10.08,
-    "price_tcgp": null
+    "price_tcgp": 18.74
   },
   {
     "id": "OGN-008",
@@ -277,7 +277,7 @@
   {
     "id": "OGN-042b",
     "price_cardtrader": 9.05,
-    "price_tcgp": null
+    "price_tcgp": 16.46
   },
   {
     "id": "OGN-043",
@@ -542,7 +542,7 @@
   {
     "id": "OGN-089b",
     "price_cardtrader": 10.15,
-    "price_tcgp": null
+    "price_tcgp": 17.75
   },
   {
     "id": "OGN-090",
@@ -757,7 +757,7 @@
   {
     "id": "OGN-126b",
     "price_cardtrader": 12.1,
-    "price_tcgp": null
+    "price_tcgp": 13.38
   },
   {
     "id": "OGN-127",
@@ -987,7 +987,7 @@
   {
     "id": "OGN-166b",
     "price_cardtrader": 9.4,
-    "price_tcgp": null
+    "price_tcgp": 21.04
   },
   {
     "id": "OGN-167",
@@ -1257,7 +1257,7 @@
   {
     "id": "OGN-214b",
     "price_cardtrader": 8.94,
-    "price_tcgp": null
+    "price_tcgp": 12.55
   },
   {
     "id": "OGN-215",
@@ -2080,6 +2080,11 @@
     "price_tcgp": null
   },
   {
+    "id": "SFD-054a",
+    "price_cardtrader": null,
+    "price_tcgp": null
+  },
+  {
     "id": "SFD-055",
     "price_cardtrader": null,
     "price_tcgp": null
@@ -2125,12 +2130,12 @@
     "price_tcgp": null
   },
   {
-    "id": "SFD-067",
+    "id": "SFD-063",
     "price_cardtrader": null,
     "price_tcgp": null
   },
   {
-    "id": "SFD-063",
+    "id": "SFD-067",
     "price_cardtrader": null,
     "price_tcgp": null
   },
@@ -2376,6 +2381,11 @@
   },
   {
     "id": "SFD-148a",
+    "price_cardtrader": null,
+    "price_tcgp": null
+  },
+  {
+    "id": "SFD-150",
     "price_cardtrader": null,
     "price_tcgp": null
   },
