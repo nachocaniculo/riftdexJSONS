@@ -4992,7 +4992,7 @@
         "tcgp_id": 653037,
         "effect": "REACTION (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\nSHIELD 2 (+2 [might] while I'm a defender.)\nTANK (I must be assigned combat damage first.)"
     },
-    
+
     {
         "id": "OGN-242",
         "name": "Baited Hook",
@@ -5082,7 +5082,7 @@
         "image": "OGN-245.webp",
         "blueprint_id": "345445",
         "tcgp_id": 653042,
-        "effect": "[tap] : Add [0] [order] . Activate this any time."
+        "effect": "[tap] : REACTION - ADD [order]. Activate this any time."
     },
     {
         "id": "OGN-246",
