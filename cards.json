@@ -4992,6 +4992,7 @@
         "tcgp_id": 653037,
         "effect": "REACTION (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\nSHIELD 2 (+2 [might] while I'm a defender.)\nTANK (I must be assigned combat damage first.)"
     },
+    
     {
         "id": "OGN-242",
         "name": "Baited Hook",
