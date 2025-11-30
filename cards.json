@@ -5007,7 +5007,7 @@
         "image": "OGN-242.webp",
         "blueprint_id": "345441",
         "tcgp_id": 653038,
-        "effect": "[1] [Order] [Tap]: Kill a friendly unit. Look at the top 5 cards of your Main Deck. You may banish a unit from among them that has Might up to 1 more than the killed unit and play it, ignoring its cost. Then recycle the rest."
+        "effect": "[1] [order] [tap]: Kill a friendly unit. Look at the top 5 cards of your Main Deck. You may banish a unit from among them that has Might up to 1 more than the killed unit and play it, ignoring its cost. Then recycle the rest."
     },
     {
         "id": "OGN-243",
