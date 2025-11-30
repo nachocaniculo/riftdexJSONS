@@ -32,7 +32,7 @@
   {
     "id": "OGN-001",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.08
+    "price_tcgp": 0.06
   },
   {
     "id": "OGN-002",
@@ -47,47 +47,47 @@
   {
     "id": "OGN-004",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-005",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.11
+    "price_tcgp": 0.09
   },
   {
     "id": "OGN-006",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.08
+    "price_tcgp": 0.07
   },
   {
     "id": "OGN-007",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.35
+    "price_tcgp": 0.33
   },
   {
     "id": "OGN-007a",
     "price_cardtrader": 15.21,
-    "price_tcgp": 34.32
+    "price_tcgp": 33.66
   },
   {
     "id": "OGN-007b",
     "price_cardtrader": 10.08,
-    "price_tcgp": 18.74
+    "price_tcgp": 19.07
   },
   {
     "id": "OGN-008",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-009",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.27
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-010",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.04
+    "price_tcgp": 0.05
   },
   {
     "id": "OGN-011",
@@ -102,17 +102,17 @@
   {
     "id": "OGN-013",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-014",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.11
+    "price_tcgp": 0.1
   },
   {
     "id": "OGN-015",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.16
+    "price_tcgp": 0.17
   },
   {
     "id": "OGN-016",
@@ -122,17 +122,17 @@
   {
     "id": "OGN-017",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.29
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-018",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.14
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-019",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.09
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-020",
@@ -142,142 +142,142 @@
   {
     "id": "OGN-021",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.39
+    "price_tcgp": 0.35
   },
   {
     "id": "OGN-022",
     "price_cardtrader": 0.17,
-    "price_tcgp": 0.33
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-023",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.12
   },
   {
     "id": "OGN-024",
     "price_cardtrader": 0.54,
-    "price_tcgp": 0.4
+    "price_tcgp": 0.39
   },
   {
     "id": "OGN-025",
     "price_cardtrader": 0.34,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-026",
     "price_cardtrader": 0.78,
-    "price_tcgp": 0.71
+    "price_tcgp": 0.49
   },
   {
     "id": "OGN-027",
     "price_cardtrader": 10.14,
-    "price_tcgp": 11.92
+    "price_tcgp": 9.93
   },
   {
     "id": "OGN-027a",
     "price_cardtrader": 23.5,
-    "price_tcgp": 26.03
+    "price_tcgp": 26.05
   },
   {
     "id": "OGN-028",
     "price_cardtrader": 3.51,
-    "price_tcgp": 2.93
+    "price_tcgp": 3.18
   },
   {
     "id": "OGN-029",
     "price_cardtrader": 12.25,
-    "price_tcgp": 12.5
+    "price_tcgp": 9.64
   },
   {
     "id": "OGN-030",
     "price_cardtrader": 0.4,
-    "price_tcgp": 0.32
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-030a",
     "price_cardtrader": 7.65,
-    "price_tcgp": 9.16
+    "price_tcgp": 9.23
   },
   {
     "id": "OGN-031",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-032",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.16
+    "price_tcgp": 0.18
   },
   {
     "id": "OGN-033",
     "price_cardtrader": 0.34,
-    "price_tcgp": 0.46
+    "price_tcgp": 0.56
   },
   {
     "id": "OGN-034",
     "price_cardtrader": 0.48,
-    "price_tcgp": 0.38
+    "price_tcgp": 0.37
   },
   {
     "id": "OGN-035",
     "price_cardtrader": 2.1,
-    "price_tcgp": 2.41
+    "price_tcgp": 2.22
   },
   {
     "id": "OGN-036",
     "price_cardtrader": 3.61,
-    "price_tcgp": 4.28
+    "price_tcgp": 3.94
   },
   {
     "id": "OGN-037",
     "price_cardtrader": 12.21,
-    "price_tcgp": 15.57
+    "price_tcgp": 14.85
   },
   {
     "id": "OGN-038",
     "price_cardtrader": 10.69,
-    "price_tcgp": 17.36
+    "price_tcgp": 17.06
   },
   {
     "id": "OGN-039",
     "price_cardtrader": 55.64,
-    "price_tcgp": 85.64
+    "price_tcgp": 90.68
   },
   {
     "id": "OGN-039a",
     "price_cardtrader": 69.14,
-    "price_tcgp": 91.62
+    "price_tcgp": 95.59
   },
   {
     "id": "OGN-040",
     "price_cardtrader": 28.4,
-    "price_tcgp": 37.39
+    "price_tcgp": 35.94
   },
   {
     "id": "OGN-041",
     "price_cardtrader": 7.38,
-    "price_tcgp": 7.77
+    "price_tcgp": 7.45
   },
   {
     "id": "OGN-041a",
     "price_cardtrader": 9.65,
-    "price_tcgp": 15.82
+    "price_tcgp": 15.59
   },
   {
     "id": "OGN-042",
     "price_cardtrader": 0.24,
-    "price_tcgp": 0.52
+    "price_tcgp": 0.55
   },
   {
     "id": "OGN-042a",
     "price_cardtrader": 15.21,
-    "price_tcgp": 24.77
+    "price_tcgp": 26.57
   },
   {
     "id": "OGN-042b",
     "price_cardtrader": 9.05,
-    "price_tcgp": 16.46
+    "price_tcgp": 15.76
   },
   {
     "id": "OGN-043",
@@ -287,12 +287,12 @@
   {
     "id": "OGN-044",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.09
+    "price_tcgp": 0.12
   },
   {
     "id": "OGN-045",
     "price_cardtrader": 0.24,
-    "price_tcgp": 0.81
+    "price_tcgp": 0.8
   },
   {
     "id": "OGN-046",
@@ -317,7 +317,7 @@
   {
     "id": "OGN-050",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.21
   },
   {
     "id": "OGN-051",
@@ -327,42 +327,42 @@
   {
     "id": "OGN-052",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-053",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.08
+    "price_tcgp": 0.06
   },
   {
     "id": "OGN-054",
     "price_cardtrader": 0.16,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-055",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.09
   },
   {
     "id": "OGN-056",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.27
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-057",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.35
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-058",
     "price_cardtrader": 0.19,
-    "price_tcgp": 0.28
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-059",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.23
   },
   {
     "id": "OGN-060",
@@ -372,7 +372,7 @@
   {
     "id": "OGN-061",
     "price_cardtrader": 0.19,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.17
   },
   {
     "id": "OGN-062",
@@ -382,42 +382,42 @@
   {
     "id": "OGN-063",
     "price_cardtrader": 0.19,
-    "price_tcgp": 0.27
+    "price_tcgp": 0.26
   },
   {
     "id": "OGN-064",
     "price_cardtrader": 1.46,
-    "price_tcgp": 1.19
+    "price_tcgp": 1.44
   },
   {
     "id": "OGN-065",
     "price_cardtrader": 0.15,
-    "price_tcgp": 0.16
+    "price_tcgp": 0.14
   },
   {
     "id": "OGN-066",
     "price_cardtrader": 1.32,
-    "price_tcgp": 1.26
+    "price_tcgp": 1.29
   },
   {
     "id": "OGN-066a",
     "price_cardtrader": 9.45,
-    "price_tcgp": 9.55
+    "price_tcgp": 9.89
   },
   {
     "id": "OGN-067",
     "price_cardtrader": 1.46,
-    "price_tcgp": 1.42
+    "price_tcgp": 1.32
   },
   {
     "id": "OGN-068",
     "price_cardtrader": 0.57,
-    "price_tcgp": 0.72
+    "price_tcgp": 0.63
   },
   {
     "id": "OGN-069",
     "price_cardtrader": 0.44,
-    "price_tcgp": 0.32
+    "price_tcgp": 0.34
   },
   {
     "id": "OGN-070",
@@ -427,67 +427,67 @@
   {
     "id": "OGN-071",
     "price_cardtrader": 0.32,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-072",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-073",
     "price_cardtrader": 2.3,
-    "price_tcgp": 6.19
+    "price_tcgp": 5.99
   },
   {
     "id": "OGN-074",
     "price_cardtrader": 0.6,
-    "price_tcgp": 0.43
+    "price_tcgp": 0.46
   },
   {
     "id": "OGN-075",
     "price_cardtrader": 10.21,
-    "price_tcgp": 10.5
+    "price_tcgp": 8.43
   },
   {
     "id": "OGN-076",
     "price_cardtrader": 0.78,
-    "price_tcgp": 0.92
+    "price_tcgp": 0.9
   },
   {
     "id": "OGN-076a",
     "price_cardtrader": 6.93,
-    "price_tcgp": 8.42
+    "price_tcgp": 8.52
   },
   {
     "id": "OGN-077",
     "price_cardtrader": 11.21,
-    "price_tcgp": 13.94
+    "price_tcgp": 13.31
   },
   {
     "id": "OGN-078",
     "price_cardtrader": 5.1,
-    "price_tcgp": 4.63
+    "price_tcgp": 4.67
   },
   {
     "id": "OGN-078a",
     "price_cardtrader": 8.29,
-    "price_tcgp": 8.6
+    "price_tcgp": 8.02
   },
   {
     "id": "OGN-079",
     "price_cardtrader": 8.15,
-    "price_tcgp": 7.9
+    "price_tcgp": 7.5
   },
   {
     "id": "OGN-079a",
     "price_cardtrader": 12.27,
-    "price_tcgp": 15.7
+    "price_tcgp": 16.01
   },
   {
     "id": "OGN-080",
     "price_cardtrader": 15.21,
-    "price_tcgp": 19.8
+    "price_tcgp": 21.12
   },
   {
     "id": "OGN-081",
@@ -497,12 +497,12 @@
   {
     "id": "OGN-082",
     "price_cardtrader": 43.64,
-    "price_tcgp": 77.06
+    "price_tcgp": 78.71
   },
   {
     "id": "OGN-083",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-084",
@@ -512,7 +512,7 @@
   {
     "id": "OGN-085",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-086",
@@ -537,17 +537,17 @@
   {
     "id": "OGN-089a",
     "price_cardtrader": 15.47,
-    "price_tcgp": 31.36
+    "price_tcgp": 31.2
   },
   {
     "id": "OGN-089b",
     "price_cardtrader": 10.15,
-    "price_tcgp": 17.75
+    "price_tcgp": 18.01
   },
   {
     "id": "OGN-090",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.09
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-091",
@@ -557,7 +557,7 @@
   {
     "id": "OGN-092",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.11
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-093",
@@ -567,122 +567,122 @@
   {
     "id": "OGN-094",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.07
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-095",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.2
+    "price_tcgp": 0.19
   },
   {
     "id": "OGN-096",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.2
+    "price_tcgp": 0.18
   },
   {
     "id": "OGN-097",
     "price_cardtrader": 0.34,
-    "price_tcgp": 0.58
+    "price_tcgp": 0.56
   },
   {
     "id": "OGN-098",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.19
   },
   {
     "id": "OGN-099",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-100",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.16
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-101",
     "price_cardtrader": 0.17,
-    "price_tcgp": 0.11
+    "price_tcgp": 0.12
   },
   {
     "id": "OGN-102",
     "price_cardtrader": 0.19,
-    "price_tcgp": 0.19
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-103",
     "price_cardtrader": 0.2,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.26
   },
   {
     "id": "OGN-104",
     "price_cardtrader": 4.47,
-    "price_tcgp": 5.17
+    "price_tcgp": 4.43
   },
   {
     "id": "OGN-105",
     "price_cardtrader": 1.1,
-    "price_tcgp": 1.34
+    "price_tcgp": 1.35
   },
   {
     "id": "OGN-106",
     "price_cardtrader": 3.51,
-    "price_tcgp": 3.68
+    "price_tcgp": 3.71
   },
   {
     "id": "OGN-107",
     "price_cardtrader": 0.25,
-    "price_tcgp": 0.24
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-108",
     "price_cardtrader": 0.4,
-    "price_tcgp": 0.29
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-109",
     "price_cardtrader": 7.34,
-    "price_tcgp": 8.0
+    "price_tcgp": 4.98
   },
   {
     "id": "OGN-110",
     "price_cardtrader": 0.55,
-    "price_tcgp": 0.93
+    "price_tcgp": 0.83
   },
   {
     "id": "OGN-111",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.31
+    "price_tcgp": 0.3
   },
   {
     "id": "OGN-112",
     "price_cardtrader": 0.79,
-    "price_tcgp": 0.57
+    "price_tcgp": 0.63
   },
   {
     "id": "OGN-112a",
     "price_cardtrader": 6.63,
-    "price_tcgp": 6.51
+    "price_tcgp": 6.74
   },
   {
     "id": "OGN-113",
     "price_cardtrader": 0.29,
-    "price_tcgp": 0.49
+    "price_tcgp": 0.37
   },
   {
     "id": "OGN-114",
     "price_cardtrader": 0.61,
-    "price_tcgp": 0.52
+    "price_tcgp": 0.43
   },
   {
     "id": "OGN-115",
     "price_cardtrader": 0.43,
-    "price_tcgp": 0.26
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-116",
     "price_cardtrader": 41.15,
-    "price_tcgp": 48.19
+    "price_tcgp": 46.59
   },
   {
     "id": "OGN-117",
@@ -692,7 +692,7 @@
   {
     "id": "OGN-117a",
     "price_cardtrader": 5.05,
-    "price_tcgp": 4.11
+    "price_tcgp": 4.17
   },
   {
     "id": "OGN-118",
@@ -702,42 +702,42 @@
   {
     "id": "OGN-119",
     "price_cardtrader": 17.25,
-    "price_tcgp": 20.86
+    "price_tcgp": 20.11
   },
   {
     "id": "OGN-119a",
     "price_cardtrader": 22.9,
-    "price_tcgp": 25.48
+    "price_tcgp": 26.59
   },
   {
     "id": "OGN-120",
     "price_cardtrader": 19.77,
-    "price_tcgp": 27.34
+    "price_tcgp": 27.1
   },
   {
     "id": "OGN-121",
     "price_cardtrader": 9.92,
-    "price_tcgp": 11.55
+    "price_tcgp": 10.64
   },
   {
     "id": "OGN-121a",
     "price_cardtrader": 13.79,
-    "price_tcgp": 14.68
+    "price_tcgp": 14.53
   },
   {
     "id": "OGN-122",
     "price_cardtrader": 78.64,
-    "price_tcgp": 99.33
+    "price_tcgp": 96.1
   },
   {
     "id": "OGN-123",
     "price_cardtrader": 8.15,
-    "price_tcgp": 14.32
+    "price_tcgp": 15.04
   },
   {
     "id": "OGN-124",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-125",
@@ -747,17 +747,17 @@
   {
     "id": "OGN-126",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.31
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-126a",
     "price_cardtrader": 13.21,
-    "price_tcgp": 21.08
+    "price_tcgp": 22.13
   },
   {
     "id": "OGN-126b",
     "price_cardtrader": 12.1,
-    "price_tcgp": 13.38
+    "price_tcgp": 13.48
   },
   {
     "id": "OGN-127",
@@ -767,7 +767,7 @@
   {
     "id": "OGN-128",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-129",
@@ -777,27 +777,27 @@
   {
     "id": "OGN-130",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.06
+    "price_tcgp": 0.05
   },
   {
     "id": "OGN-131",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.09
+    "price_tcgp": 0.1
   },
   {
     "id": "OGN-132",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-133",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.09
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-134",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.08
   },
   {
     "id": "OGN-135",
@@ -807,32 +807,32 @@
   {
     "id": "OGN-136",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-137",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.07
+    "price_tcgp": 0.06
   },
   {
     "id": "OGN-138",
     "price_cardtrader": 0.32,
-    "price_tcgp": 0.82
+    "price_tcgp": 0.96
   },
   {
     "id": "OGN-139",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.21
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-140",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.27
+    "price_tcgp": 0.29
   },
   {
     "id": "OGN-141",
     "price_cardtrader": 0.26,
-    "price_tcgp": 0.45
+    "price_tcgp": 0.46
   },
   {
     "id": "OGN-142",
@@ -842,17 +842,17 @@
   {
     "id": "OGN-143",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.14
   },
   {
     "id": "OGN-144",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.14
   },
   {
     "id": "OGN-145",
     "price_cardtrader": 0.45,
-    "price_tcgp": 0.91
+    "price_tcgp": 0.87
   },
   {
     "id": "OGN-146",
@@ -862,12 +862,12 @@
   {
     "id": "OGN-147",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.09
   },
   {
     "id": "OGN-148",
     "price_cardtrader": 0.48,
-    "price_tcgp": 0.64
+    "price_tcgp": 0.67
   },
   {
     "id": "OGN-149",
@@ -877,17 +877,17 @@
   {
     "id": "OGN-150",
     "price_cardtrader": 0.46,
-    "price_tcgp": 0.35
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-151",
     "price_cardtrader": 0.55,
-    "price_tcgp": 0.38
+    "price_tcgp": 0.41
   },
   {
     "id": "OGN-151a",
     "price_cardtrader": 6.93,
-    "price_tcgp": 8.25
+    "price_tcgp": 7.88
   },
   {
     "id": "OGN-152",
@@ -897,87 +897,87 @@
   {
     "id": "OGN-153",
     "price_cardtrader": 0.29,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-154",
     "price_cardtrader": 1.95,
-    "price_tcgp": 3.45
+    "price_tcgp": 3.6
   },
   {
     "id": "OGN-155",
     "price_cardtrader": 10.15,
-    "price_tcgp": 11.79
+    "price_tcgp": 10.3
   },
   {
     "id": "OGN-156",
     "price_cardtrader": 4.11,
-    "price_tcgp": 5.74
+    "price_tcgp": 4.84
   },
   {
     "id": "OGN-157",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.38
+    "price_tcgp": 0.4
   },
   {
     "id": "OGN-158",
     "price_cardtrader": 0.8,
-    "price_tcgp": 0.69
+    "price_tcgp": 0.66
   },
   {
     "id": "OGN-158a",
     "price_cardtrader": 6.93,
-    "price_tcgp": 7.44
+    "price_tcgp": 7.66
   },
   {
     "id": "OGN-159",
     "price_cardtrader": 1.1,
-    "price_tcgp": 1.85
+    "price_tcgp": 1.81
   },
   {
     "id": "OGN-160",
     "price_cardtrader": 43.64,
-    "price_tcgp": 71.42
+    "price_tcgp": 70.84
   },
   {
     "id": "OGN-161",
     "price_cardtrader": 74.64,
-    "price_tcgp": 92.91
+    "price_tcgp": 93.47
   },
   {
     "id": "OGN-162",
     "price_cardtrader": 13.6,
-    "price_tcgp": 13.37
+    "price_tcgp": 12.99
   },
   {
     "id": "OGN-162a",
     "price_cardtrader": 22.2,
-    "price_tcgp": 24.5
+    "price_tcgp": 24.68
   },
   {
     "id": "OGN-163",
     "price_cardtrader": 20.25,
-    "price_tcgp": 24.52
+    "price_tcgp": 21.41
   },
   {
     "id": "OGN-164",
     "price_cardtrader": 24.4,
-    "price_tcgp": 30.16
+    "price_tcgp": 29.56
   },
   {
     "id": "OGN-164a",
     "price_cardtrader": 33.0,
-    "price_tcgp": 35.65
+    "price_tcgp": 31.64
   },
   {
     "id": "OGN-165",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.07
+    "price_tcgp": 0.05
   },
   {
     "id": "OGN-166",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.37
+    "price_tcgp": 0.35
   },
   {
     "id": "OGN-166a",
@@ -987,22 +987,22 @@
   {
     "id": "OGN-166b",
     "price_cardtrader": 9.4,
-    "price_tcgp": 21.04
+    "price_tcgp": 22.1
   },
   {
     "id": "OGN-167",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-168",
     "price_cardtrader": 0.16,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-169",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-170",
@@ -1012,12 +1012,12 @@
   {
     "id": "OGN-171",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-172",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.24
   },
   {
     "id": "OGN-173",
@@ -1037,7 +1037,7 @@
   {
     "id": "OGN-176",
     "price_cardtrader": 0.17,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.18
   },
   {
     "id": "OGN-177",
@@ -1047,22 +1047,22 @@
   {
     "id": "OGN-178",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.04
+    "price_tcgp": 0.03
   },
   {
     "id": "OGN-179",
     "price_cardtrader": 0.3,
-    "price_tcgp": 0.52
+    "price_tcgp": 0.47
   },
   {
     "id": "OGN-180",
     "price_cardtrader": 0.25,
-    "price_tcgp": 0.2
+    "price_tcgp": 0.23
   },
   {
     "id": "OGN-181",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.19
+    "price_tcgp": 0.17
   },
   {
     "id": "OGN-182",
@@ -1072,22 +1072,22 @@
   {
     "id": "OGN-183",
     "price_cardtrader": 6.04,
-    "price_tcgp": 8.04
+    "price_tcgp": 7.5
   },
   {
     "id": "OGN-184",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-185",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-186",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.24
   },
   {
     "id": "OGN-187",
@@ -1102,12 +1102,12 @@
   {
     "id": "OGN-189",
     "price_cardtrader": 2.67,
-    "price_tcgp": 2.57
+    "price_tcgp": 2.59
   },
   {
     "id": "OGN-190",
     "price_cardtrader": 0.6,
-    "price_tcgp": 0.53
+    "price_tcgp": 0.59
   },
   {
     "id": "OGN-191",
@@ -1117,102 +1117,102 @@
   {
     "id": "OGN-192",
     "price_cardtrader": 4.18,
-    "price_tcgp": 3.42
+    "price_tcgp": 3.44
   },
   {
     "id": "OGN-193",
     "price_cardtrader": 0.6,
-    "price_tcgp": 0.76
+    "price_tcgp": 0.77
   },
   {
     "id": "OGN-193a",
     "price_cardtrader": 6.04,
-    "price_tcgp": 6.98
+    "price_tcgp": 7.48
   },
   {
     "id": "OGN-194",
     "price_cardtrader": 5.11,
-    "price_tcgp": 8.72
+    "price_tcgp": 8.5
   },
   {
     "id": "OGN-195",
     "price_cardtrader": 0.85,
-    "price_tcgp": 3.13
+    "price_tcgp": 3.34
   },
   {
     "id": "OGN-196",
     "price_cardtrader": 0.6,
-    "price_tcgp": 0.49
+    "price_tcgp": 0.51
   },
   {
     "id": "OGN-197",
     "price_cardtrader": 1.19,
-    "price_tcgp": 1.4
+    "price_tcgp": 1.31
   },
   {
     "id": "OGN-197a",
     "price_cardtrader": 7.65,
-    "price_tcgp": 10.16
+    "price_tcgp": 10.7
   },
   {
     "id": "OGN-198",
     "price_cardtrader": 0.55,
-    "price_tcgp": 0.38
+    "price_tcgp": 0.46
   },
   {
     "id": "OGN-199",
     "price_cardtrader": 0.73,
-    "price_tcgp": 0.55
+    "price_tcgp": 0.57
   },
   {
     "id": "OGN-200",
     "price_cardtrader": 0.4,
-    "price_tcgp": 0.36
+    "price_tcgp": 0.34
   },
   {
     "id": "OGN-201",
     "price_cardtrader": 34.52,
-    "price_tcgp": 45.71
+    "price_tcgp": 45.44
   },
   {
     "id": "OGN-202",
     "price_cardtrader": 4.88,
-    "price_tcgp": 5.27
+    "price_tcgp": 5.09
   },
   {
     "id": "OGN-202a",
     "price_cardtrader": 6.64,
-    "price_tcgp": 7.26
+    "price_tcgp": 7.49
   },
   {
     "id": "OGN-203",
     "price_cardtrader": 7.3,
-    "price_tcgp": 8.88
+    "price_tcgp": 8.8
   },
   {
     "id": "OGN-204",
     "price_cardtrader": 23.91,
-    "price_tcgp": 23.56
+    "price_tcgp": 24.5
   },
   {
     "id": "OGN-205",
     "price_cardtrader": 6.06,
-    "price_tcgp": 6.03
+    "price_tcgp": 5.53
   },
   {
     "id": "OGN-205a",
     "price_cardtrader": 10.15,
-    "price_tcgp": 10.44
+    "price_tcgp": 10.38
   },
   {
     "id": "OGN-206",
     "price_cardtrader": 0.12,
-    "price_tcgp": 0.08
+    "price_tcgp": 0.09
   },
   {
     "id": "OGN-207",
     "price_cardtrader": 0.13,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.23
   },
   {
     "id": "OGN-208",
@@ -1222,7 +1222,7 @@
   {
     "id": "OGN-209",
     "price_cardtrader": 0.15,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.1
   },
   {
     "id": "OGN-210",
@@ -1232,7 +1232,7 @@
   {
     "id": "OGN-211",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.21
+    "price_tcgp": 0.18
   },
   {
     "id": "OGN-212",
@@ -1247,17 +1247,17 @@
   {
     "id": "OGN-214",
     "price_cardtrader": 0.19,
-    "price_tcgp": 0.35
+    "price_tcgp": 0.36
   },
   {
     "id": "OGN-214a",
     "price_cardtrader": 12.21,
-    "price_tcgp": 23.67
+    "price_tcgp": 25.26
   },
   {
     "id": "OGN-214b",
     "price_cardtrader": 8.94,
-    "price_tcgp": 12.55
+    "price_tcgp": 12.64
   },
   {
     "id": "OGN-215",
@@ -1272,12 +1272,12 @@
   {
     "id": "OGN-217",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-218",
     "price_cardtrader": 0.24,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.18
   },
   {
     "id": "OGN-219",
@@ -1287,27 +1287,27 @@
   {
     "id": "OGN-220",
     "price_cardtrader": 0.16,
-    "price_tcgp": 0.19
+    "price_tcgp": 0.17
   },
   {
     "id": "OGN-221",
     "price_cardtrader": 0.45,
-    "price_tcgp": 0.54
+    "price_tcgp": 0.48
   },
   {
     "id": "OGN-222",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-223",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-224",
     "price_cardtrader": 0.7,
-    "price_tcgp": 1.19
+    "price_tcgp": 1.22
   },
   {
     "id": "OGN-225",
@@ -1317,7 +1317,7 @@
   {
     "id": "OGN-226",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.42
+    "price_tcgp": 0.37
   },
   {
     "id": "OGN-227",
@@ -1327,127 +1327,127 @@
   {
     "id": "OGN-228",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.14
+    "price_tcgp": 0.12
   },
   {
     "id": "OGN-229",
     "price_cardtrader": 0.3,
-    "price_tcgp": 0.36
+    "price_tcgp": 0.4
   },
   {
     "id": "OGN-230",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.1
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-231",
     "price_cardtrader": 0.76,
-    "price_tcgp": 0.55
+    "price_tcgp": 0.62
   },
   {
     "id": "OGN-232",
     "price_cardtrader": 3.1,
-    "price_tcgp": 6.34
+    "price_tcgp": 6.57
   },
   {
     "id": "OGN-233",
     "price_cardtrader": 2.09,
-    "price_tcgp": 1.47
+    "price_tcgp": 1.72
   },
   {
     "id": "OGN-234",
     "price_cardtrader": 1.44,
-    "price_tcgp": 1.17
+    "price_tcgp": 1.18
   },
   {
     "id": "OGN-235",
     "price_cardtrader": 0.6,
-    "price_tcgp": 0.74
+    "price_tcgp": 0.63
   },
   {
     "id": "OGN-236",
     "price_cardtrader": 0.6,
-    "price_tcgp": 2.7
+    "price_tcgp": 2.72
   },
   {
     "id": "OGN-237",
     "price_cardtrader": 0.29,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.23
   },
   {
     "id": "OGN-238",
     "price_cardtrader": 4.13,
-    "price_tcgp": 3.97
+    "price_tcgp": 3.91
   },
   {
     "id": "OGN-238a",
     "price_cardtrader": 12.43,
-    "price_tcgp": 14.45
+    "price_tcgp": 13.86
   },
   {
     "id": "OGN-239",
     "price_cardtrader": 3.75,
-    "price_tcgp": 3.76
+    "price_tcgp": 3.61
   },
   {
     "id": "OGN-240",
     "price_cardtrader": 2.1,
-    "price_tcgp": 3.71
+    "price_tcgp": 2.83
   },
   {
     "id": "OGN-240a",
     "price_cardtrader": 6.93,
-    "price_tcgp": 11.2
+    "price_tcgp": 11.0
   },
   {
     "id": "OGN-241",
     "price_cardtrader": 3.59,
-    "price_tcgp": 3.43
+    "price_tcgp": 3.55
   },
   {
     "id": "OGN-242",
     "price_cardtrader": 23.4,
-    "price_tcgp": 41.53
+    "price_tcgp": 40.08
   },
   {
     "id": "OGN-243",
     "price_cardtrader": 6.26,
-    "price_tcgp": 8.61
+    "price_tcgp": 7.92
   },
   {
     "id": "OGN-243a",
     "price_cardtrader": 9.14,
-    "price_tcgp": 16.18
+    "price_tcgp": 15.74
   },
   {
     "id": "OGN-244",
     "price_cardtrader": 20.27,
-    "price_tcgp": 25.27
+    "price_tcgp": 25.01
   },
   {
     "id": "OGN-245",
     "price_cardtrader": 22.4,
-    "price_tcgp": 53.38
+    "price_tcgp": 52.16
   },
   {
     "id": "OGN-246",
     "price_cardtrader": 11.56,
-    "price_tcgp": 11.34
+    "price_tcgp": 11.52
   },
   {
     "id": "OGN-246a",
     "price_cardtrader": 15.11,
-    "price_tcgp": 16.0
+    "price_tcgp": 15.67
   },
   {
     "id": "OGN-247",
     "price_cardtrader": 0.4,
-    "price_tcgp": 0.49
+    "price_tcgp": 0.38
   },
   {
     "id": "OGN-248",
     "price_cardtrader": 50.59,
-    "price_tcgp": 65.1
+    "price_tcgp": 62.52
   },
   {
     "id": "OGN-249",
@@ -1457,42 +1457,42 @@
   {
     "id": "OGN-250",
     "price_cardtrader": 8.08,
-    "price_tcgp": 10.66
+    "price_tcgp": 9.83
   },
   {
     "id": "OGN-251",
     "price_cardtrader": 0.17,
-    "price_tcgp": 0.24
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-252",
     "price_cardtrader": 19.26,
-    "price_tcgp": 24.75
+    "price_tcgp": 24.44
   },
   {
     "id": "OGN-253",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-254",
     "price_cardtrader": 5.09,
-    "price_tcgp": 5.18
+    "price_tcgp": 5.05
   },
   {
     "id": "OGN-255",
     "price_cardtrader": 0.68,
-    "price_tcgp": 0.75
+    "price_tcgp": 0.69
   },
   {
     "id": "OGN-256",
     "price_cardtrader": 18.24,
-    "price_tcgp": 21.82
+    "price_tcgp": 22.37
   },
   {
     "id": "OGN-257",
     "price_cardtrader": 0.25,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.1
   },
   {
     "id": "OGN-258",
@@ -1502,12 +1502,12 @@
   {
     "id": "OGN-259",
     "price_cardtrader": 0.29,
-    "price_tcgp": 0.25
+    "price_tcgp": 0.34
   },
   {
     "id": "OGN-260",
     "price_cardtrader": 7.14,
-    "price_tcgp": 10.49
+    "price_tcgp": 10.51
   },
   {
     "id": "OGN-261",
@@ -1517,27 +1517,27 @@
   {
     "id": "OGN-262",
     "price_cardtrader": 20.22,
-    "price_tcgp": 32.85
+    "price_tcgp": 30.92
   },
   {
     "id": "OGN-263",
     "price_cardtrader": 0.4,
-    "price_tcgp": 0.3
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-264",
     "price_cardtrader": 15.21,
-    "price_tcgp": 21.72
+    "price_tcgp": 22.37
   },
   {
     "id": "OGN-265",
     "price_cardtrader": 0.25,
-    "price_tcgp": 0.24
+    "price_tcgp": 0.22
   },
   {
     "id": "OGN-266",
     "price_cardtrader": 15.21,
-    "price_tcgp": 15.43
+    "price_tcgp": 15.16
   },
   {
     "id": "OGN-267",
@@ -1547,22 +1547,22 @@
   {
     "id": "OGN-268",
     "price_cardtrader": 15.21,
-    "price_tcgp": 27.88
+    "price_tcgp": 28.11
   },
   {
     "id": "OGN-269",
     "price_cardtrader": 0.29,
-    "price_tcgp": 0.37
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-270",
     "price_cardtrader": 59.64,
-    "price_tcgp": 83.65
+    "price_tcgp": 84.77
   },
   {
     "id": "OGN-271",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-272",
@@ -1577,7 +1577,7 @@
   {
     "id": "OGN-274",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.15
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-275",
@@ -1587,7 +1587,7 @@
   {
     "id": "OGN-276",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-277",
@@ -1597,17 +1597,17 @@
   {
     "id": "OGN-278",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.14
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-279",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.14
+    "price_tcgp": 0.15
   },
   {
     "id": "OGN-280",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-281",
@@ -1617,57 +1617,57 @@
   {
     "id": "OGN-282",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.14
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-283",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.08
+    "price_tcgp": 0.09
   },
   {
     "id": "OGN-284",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.27
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-285",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.17
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-286",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.12
+    "price_tcgp": 0.11
   },
   {
     "id": "OGN-287",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.14
   },
   {
     "id": "OGN-288",
     "price_cardtrader": 0.16,
-    "price_tcgp": 0.19
+    "price_tcgp": 0.23
   },
   {
     "id": "OGN-289",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.17
   },
   {
     "id": "OGN-290",
     "price_cardtrader": 0.27,
-    "price_tcgp": 0.28
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-291",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.22
+    "price_tcgp": 0.24
   },
   {
     "id": "OGN-292",
     "price_cardtrader": 0.28,
-    "price_tcgp": 0.51
+    "price_tcgp": 0.5
   },
   {
     "id": "OGN-293",
@@ -1677,7 +1677,7 @@
   {
     "id": "OGN-294",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.16
   },
   {
     "id": "OGN-295",
@@ -1687,17 +1687,17 @@
   {
     "id": "OGN-296",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.16
+    "price_tcgp": 0.13
   },
   {
     "id": "OGN-297",
     "price_cardtrader": 0.14,
-    "price_tcgp": 0.2
+    "price_tcgp": 0.19
   },
   {
     "id": "OGN-298",
     "price_cardtrader": 0.11,
-    "price_tcgp": 0.18
+    "price_tcgp": 0.19
   },
   {
     "id": "OGN-XXX",
@@ -1707,12 +1707,12 @@
   {
     "id": "OGN-299",
     "price_cardtrader": 125.64,
-    "price_tcgp": 0.49
+    "price_tcgp": 0.38
   },
   {
     "id": "OGN-299s",
     "price_cardtrader": 1100.64,
-    "price_tcgp": 65.1
+    "price_tcgp": 62.52
   },
   {
     "id": "OGN-300",
@@ -1722,42 +1722,42 @@
   {
     "id": "OGN-300s",
     "price_cardtrader": 600.63,
-    "price_tcgp": 10.66
+    "price_tcgp": 9.83
   },
   {
     "id": "OGN-301",
     "price_cardtrader": 32.61,
-    "price_tcgp": 0.24
+    "price_tcgp": 0.2
   },
   {
     "id": "OGN-301s",
     "price_cardtrader": 650.64,
-    "price_tcgp": 24.75
+    "price_tcgp": 24.44
   },
   {
     "id": "OGN-302",
     "price_cardtrader": 49.13,
-    "price_tcgp": 0.23
+    "price_tcgp": 0.25
   },
   {
     "id": "OGN-302s",
     "price_cardtrader": 370.54,
-    "price_tcgp": 5.18
+    "price_tcgp": 5.05
   },
   {
     "id": "OGN-303",
     "price_cardtrader": 189.64,
-    "price_tcgp": 0.75
+    "price_tcgp": 0.69
   },
   {
     "id": "OGN-303s",
     "price_cardtrader": 1300.64,
-    "price_tcgp": 21.82
+    "price_tcgp": 22.37
   },
   {
     "id": "OGN-304",
     "price_cardtrader": 75.62,
-    "price_tcgp": 0.13
+    "price_tcgp": 0.1
   },
   {
     "id": "OGN-304s",
@@ -1767,12 +1767,12 @@
   {
     "id": "OGN-305",
     "price_cardtrader": 64.64,
-    "price_tcgp": 0.25
+    "price_tcgp": 0.34
   },
   {
     "id": "OGN-305s",
     "price_cardtrader": null,
-    "price_tcgp": 10.49
+    "price_tcgp": 10.51
   },
   {
     "id": "OGN-306",
@@ -1782,27 +1782,27 @@
   {
     "id": "OGN-306s",
     "price_cardtrader": 420.64,
-    "price_tcgp": 32.85
+    "price_tcgp": 30.92
   },
   {
     "id": "OGN-307",
     "price_cardtrader": 60.64,
-    "price_tcgp": 0.3
+    "price_tcgp": 0.31
   },
   {
     "id": "OGN-307s",
     "price_cardtrader": 495.64,
-    "price_tcgp": 21.72
+    "price_tcgp": 22.37
   },
   {
     "id": "OGN-308",
     "price_cardtrader": 65.64,
-    "price_tcgp": 0.24
+    "price_tcgp": 0.22
   },
   {
     "id": "OGN-308s",
     "price_cardtrader": null,
-    "price_tcgp": 15.43
+    "price_tcgp": 15.16
   },
   {
     "id": "OGN-309",
@@ -1812,22 +1812,22 @@
   {
     "id": "OGN-309s",
     "price_cardtrader": 750.0,
-    "price_tcgp": 27.88
+    "price_tcgp": 28.11
   },
   {
     "id": "OGN-310",
     "price_cardtrader": 75.59,
-    "price_tcgp": 0.37
+    "price_tcgp": 0.27
   },
   {
     "id": "OGN-310s",
     "price_cardtrader": 75.59,
-    "price_tcgp": 83.65
+    "price_tcgp": 84.77
   },
   {
     "id": "OGS-001",
     "price_cardtrader": 2.83,
-    "price_tcgp": 2.15
+    "price_tcgp": 2.2
   },
   {
     "id": "OGS-002",
@@ -1837,17 +1837,17 @@
   {
     "id": "OGS-003",
     "price_cardtrader": 0.92,
-    "price_tcgp": 0.75
+    "price_tcgp": 0.76
   },
   {
     "id": "OGS-004",
     "price_cardtrader": 1.66,
-    "price_tcgp": 2.69
+    "price_tcgp": 2.61
   },
   {
     "id": "OGS-005",
     "price_cardtrader": 0.23,
-    "price_tcgp": 0.42
+    "price_tcgp": 0.41
   },
   {
     "id": "OGS-006",
@@ -1857,47 +1857,47 @@
   {
     "id": "OGS-007",
     "price_cardtrader": 1.52,
-    "price_tcgp": 1.5
+    "price_tcgp": 1.6
   },
   {
     "id": "OGS-008",
     "price_cardtrader": 0.23,
-    "price_tcgp": 0.77
+    "price_tcgp": 0.63
   },
   {
     "id": "OGS-009",
     "price_cardtrader": 8.8,
-    "price_tcgp": 6.88
+    "price_tcgp": 7.03
   },
   {
     "id": "OGS-010",
     "price_cardtrader": 7.96,
-    "price_tcgp": 5.96
+    "price_tcgp": 6.33
   },
   {
     "id": "OGS-011",
     "price_cardtrader": 20.25,
-    "price_tcgp": 34.38
+    "price_tcgp": 34.75
   },
   {
     "id": "OGS-012",
     "price_cardtrader": 0.59,
-    "price_tcgp": 2.12
+    "price_tcgp": 2.03
   },
   {
     "id": "OGS-013",
     "price_cardtrader": 1.69,
-    "price_tcgp": 2.34
+    "price_tcgp": 2.49
   },
   {
     "id": "OGS-014",
     "price_cardtrader": 4.05,
-    "price_tcgp": 7.4
+    "price_tcgp": 7.34
   },
   {
     "id": "OGS-015",
     "price_cardtrader": 2.57,
-    "price_tcgp": 3.77
+    "price_tcgp": 3.59
   },
   {
     "id": "OGS-016",
@@ -1907,42 +1907,42 @@
   {
     "id": "OGS-017",
     "price_cardtrader": 19.36,
-    "price_tcgp": 20.67
+    "price_tcgp": 19.75
   },
   {
     "id": "OGS-018",
     "price_cardtrader": 1.99,
-    "price_tcgp": 1.75
+    "price_tcgp": 1.72
   },
   {
     "id": "OGS-019",
     "price_cardtrader": 20.16,
-    "price_tcgp": 22.57
+    "price_tcgp": 22.3
   },
   {
     "id": "OGS-020",
     "price_cardtrader": 1.55,
-    "price_tcgp": 1.09
+    "price_tcgp": 1.18
   },
   {
     "id": "OGS-021",
     "price_cardtrader": 4.05,
-    "price_tcgp": 7.62
+    "price_tcgp": 7.66
   },
   {
     "id": "OGS-022",
     "price_cardtrader": 3.46,
-    "price_tcgp": 3.7
+    "price_tcgp": 3.56
   },
   {
     "id": "OGS-023",
     "price_cardtrader": 1.98,
-    "price_tcgp": 1.83
+    "price_tcgp": 1.86
   },
   {
     "id": "OGS-024",
     "price_cardtrader": 1.12,
-    "price_tcgp": 0.92
+    "price_tcgp": 0.95
   },
   {
     "id": "SFD-T03",
@@ -2647,12 +2647,12 @@
   {
     "id": "SFD-223",
     "price_cardtrader": null,
-    "price_tcgp": 2.41
+    "price_tcgp": 2.22
   },
   {
     "id": "SFD-223s",
     "price_cardtrader": null,
-    "price_tcgp": 2.41
+    "price_tcgp": 2.22
   },
   {
     "id": "SFD-225",
@@ -2672,47 +2672,47 @@
   {
     "id": "SFD-227",
     "price_cardtrader": null,
-    "price_tcgp": 20.86
+    "price_tcgp": 20.11
   },
   {
     "id": "SFD-227s",
     "price_cardtrader": null,
-    "price_tcgp": 20.86
+    "price_tcgp": 20.11
   },
   {
     "id": "SFD-231",
     "price_cardtrader": null,
-    "price_tcgp": 24.52
+    "price_tcgp": 21.41
   },
   {
     "id": "SFD-232",
     "price_cardtrader": null,
-    "price_tcgp": 30.16
+    "price_tcgp": 29.56
   },
   {
     "id": "SFD-232s",
     "price_cardtrader": null,
-    "price_tcgp": 30.16
+    "price_tcgp": 29.56
   },
   {
     "id": "SFD-233",
     "price_cardtrader": null,
-    "price_tcgp": 30.16
+    "price_tcgp": 29.56
   },
   {
     "id": "SFD-233s",
     "price_cardtrader": null,
-    "price_tcgp": 30.16
+    "price_tcgp": 29.56
   },
   {
     "id": "SFD-234",
     "price_cardtrader": null,
-    "price_tcgp": 23.56
+    "price_tcgp": 24.5
   },
   {
     "id": "SFD-236s",
     "price_cardtrader": null,
-    "price_tcgp": 8.61
+    "price_tcgp": 7.92
   },
   {
     "id": "SFD-240",
