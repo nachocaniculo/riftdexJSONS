@@ -7408,7 +7408,7 @@
     },
     {
         "id": "SFD-053",
-        "name": "Janna, ?",
+        "name": "Janna, Saving Grace",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
@@ -7883,6 +7883,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-089a",
+        "name": "Rumble, ?",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-089a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-090",
         "name": "?",
         "type": "Gear",
@@ -8065,6 +8082,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-110.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-110a",
+        "name": "Fiora, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-110a.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
