@@ -7135,6 +7135,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-032",
+        "name": "?",
+        "type": "Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-032.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-033",
         "name": "Doran's Shield",
         "type": "Gear",
@@ -7164,6 +7181,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-034.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-035",
+        "name": "?",
+        "type": "Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-035.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-036",
+        "name": "?",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-036.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7203,6 +7254,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-041",
+        "name": "?",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-041.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-042",
         "name": "Brutalizer",
         "type": "Gear",
@@ -7215,6 +7283,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-042.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-044",
+        "name": "?",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "4",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-044.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7317,6 +7402,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-051.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-053",
+        "name": "Janna, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Rare",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-053.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7645,6 +7747,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-081",
+        "name": "Honest Croupier?",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-081.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-082",
         "name": "Ezreal, Dashing",
         "type": "Champion Unit",
@@ -7674,6 +7793,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-082a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-083",
+        "name": "?",
+        "type": "Gear",
+        "energy": "3",
+        "power": "1",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-083.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7725,6 +7861,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-087.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-089",
+        "name": "Rumble, ?",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "4",
+        "rarity": "Epic",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-089.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-090",
+        "name": "?",
+        "type": "Gear",
+        "energy": "3",
+        "power": "0",
+        "might": "2",
+        "rarity": "Epic",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-090.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7832,6 +8002,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-105",
+        "name": "Ruin Runner?",
+        "type": "Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-105.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-107",
         "name": "Strike Down",
         "type": "Spell",
@@ -7861,6 +8048,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-108.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-110",
+        "name": "Fiora, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-110.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8218,6 +8422,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-138.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-139",
+        "name": "Edge of Night",
+        "type": "Gear",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-139.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
