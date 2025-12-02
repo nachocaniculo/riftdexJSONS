@@ -132,6 +132,23 @@
         ],
         "set": "Origin",
         "image": "OGN-001.webp",
+        "blueprint_id": "353793",
+        "tcgp_id": 662914,
+        "effect": "ACCELERATE (You may pay [1] [fury] as an additional cost to have me enter ready.)"
+    },
+    {
+        "id": "OGN-001p",
+        "name": "Blazing Scorcher",
+        "type": "Unit",
+        "energy": 5,
+        "power": 0,
+        "might": 5,
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Origin",
+        "image": "OGN-001-p.webp",
         "blueprint_id": "345173",
         "tcgp_id": 652771,
         "effect": "ACCELERATE (You may pay [1] [fury] as an additional cost to have me enter ready.)"
@@ -384,6 +401,23 @@
         "effect": "DEFLECT (Opponents must pay [rune] to choose me with an ability or spell)"
     },
     {
+        "id": "OGN-013p",
+        "name": "Pouty Poro",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Origin",
+        "image": "OGN-013-p.webp",
+        "blueprint_id": "353787",
+        "tcgp_id": 662908,
+        "effect": "DEFLECT (Opponents must pay [rune] to choose me with an ability or spell)"
+    },
+    {
         "id": "OGN-014",
         "name": "Sky Splitter",
         "type": "Spell",
@@ -568,6 +602,23 @@
         "image": "OGN-024.webp",
         "blueprint_id": "345197",
         "tcgp_id": 652795,
+        "effect": "ACTION (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1."
+    },
+    {
+        "id": "OGN-024p",
+        "name": "Void Seeker",
+        "type": "Spell",
+        "energy": "3",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Origin",
+        "image": "OGN-024-p.webp",
+        "blueprint_id": "353801",
+        "tcgp_id": 662922,
         "effect": "ACTION (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1."
     },
     {
@@ -1185,6 +1236,23 @@
         "effect": "SHIELD (+1 [might] while I'm a defender.)"
     },
     {
+        "id": "OGN-052p",
+        "name": "Stalwart Poro",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Origin",
+        "image": "OGN-052-p.webp",
+        "blueprint_id": "353786",
+        "tcgp_id": 662907,
+        "effect": "SHIELD (+1 [might] while I'm a defender.)"
+    },
+    {
         "id": "OGN-053",
         "name": "Stand United",
         "type": "Spell",
@@ -1219,7 +1287,7 @@
         "effect": "SHIELD (+1 [might] while I'm a defender.)\nTANK (I must be assigned combat damage first.)"
     },
     {
-        "id": "OGN-055",
+        "id": "OGN-055p",
         "name": "Wielder of Water",
         "type": "Unit",
         "energy": "3",
@@ -1230,9 +1298,9 @@
             "Calm"
         ],
         "set": "Origin",
-        "image": "OGN-055.webp",
-        "blueprint_id": "345233",
-        "tcgp_id": 652831,
+        "image": "OGN-055-p.webp",
+        "blueprint_id": "353798",
+        "tcgp_id": 662919,
         "effect": "While I'm attacking or defending alone, I have +2 [might]."
     },
     {
@@ -1284,6 +1352,23 @@
         "image": "OGN-058.webp",
         "blueprint_id": "345236",
         "tcgp_id": 652834,
+        "effect": "REACTION (Play anytime, even before spells and abilities resolve.)\nGive a unit +2 [might] this turn. Draw 1."
+    },
+    {
+        "id": "OGN-058p",
+        "name": "Discipline",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Origin",
+        "image": "OGN-058-p.webp",
+        "blueprint_id": "353800",
+        "tcgp_id": 662921,
         "effect": "REACTION (Play anytime, even before spells and abilities resolve.)\nGive a unit +2 [might] this turn. Draw 1."
     },
     {
@@ -1443,6 +1528,26 @@
         ],
         "blueprint_id": "345245",
         "tcgp_id": 652843,
+        "effect": "When I hold, you score 1 point."
+    },
+    {
+        "id": "OGN-066p",
+        "name": "Ahri, Alluring",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Origin",
+        "image": "OGN-066-p.webp",
+        "alternative": [
+            "OGN-066"
+        ],
+        "blueprint_id": "345169",
+        "tcgp_id": 659765,
         "effect": "When I hold, you score 1 point."
     },
     {
@@ -1699,6 +1804,26 @@
         "effect": "SHIELD (+1 [might] while I'm a defender.)\n[tap]: Buff me. (I get +1 might buff.) \nI can have any number of buffs."
     },
     {
+        "id": "OGN-078p",
+        "name": "Lee Sin, Ascetic",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Origin",
+        "image": "OGN-078-p.webp",
+        "alternative": [
+            "OGN-078"
+        ],
+        "blueprint_id": "353805",
+        "tcgp_id": 662884,
+        "effect": "SHIELD (+1 [might] while I'm a defender.)\n[tap]: Buff me. (I get +1 might buff.) \nI can have any number of buffs."
+    },
+    {
         "id": "OGN-079",
         "name": "Leona, Zealot",
         "type": "Champion Unit",
@@ -1804,6 +1929,23 @@
         "image": "OGN-083.webp",
         "blueprint_id": "345265",
         "tcgp_id": 652863,
+        "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nREACTION (Play any time, even before spells and abilities resolve.)\nDraw 2."
+    },
+    {
+        "id": "OGN-083p",
+        "name": "Consult the Past",
+        "type": "Spell",
+        "energy": "4",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-083-p.webp",
+        "blueprint_id": "353790",
+        "tcgp_id": 662911,
         "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nREACTION (Play any time, even before spells and abilities resolve.)\nDraw 2."
     },
     {
@@ -2003,6 +2145,23 @@
         "effect": "When you play me, deal 6 to an enemy unit at a battlefield."
     },
     {
+        "id": "OGN-092p",
+        "name": "Riptide Rex",
+        "type": "Unit",
+        "energy": "6",
+        "power": "2",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-092-p.webp",
+        "blueprint_id": "353795",
+        "tcgp_id": 662916,
+        "effect": "When you play me, deal 6 to an enemy unit at a battlefield."
+    },
+    {
         "id": "OGN-093",
         "name": "Smoke Screen",
         "type": "Spell",
@@ -2187,6 +2346,23 @@
         "image": "OGN-103.webp",
         "blueprint_id": "345286",
         "tcgp_id": 652884,
+        "effect": "When you play a spell, give me +1 [might] this turn."
+    },
+    {
+        "id": "OGN-103p",
+        "name": "Ravenbloom Student",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-103-p.webp",
+        "blueprint_id": "353802",
+        "tcgp_id": 662923,
         "effect": "When you play a spell, give me +1 [might] this turn."
     },
     {
@@ -2753,6 +2929,23 @@
         "effect": "ACTION (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
     },
     {
+        "id": "OGN-128p",
+        "name": "Challenge",
+        "type": "Spell",
+        "energy": "2",
+        "power": "1",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Origin",
+        "image": "OGN-128-p.webp",
+        "blueprint_id": "353789",
+        "tcgp_id": 662910,
+        "effect": "ACTION (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+    },
+    {
         "id": "OGN-129",
         "name": "Confront",
         "type": "Spell",
@@ -2872,6 +3065,23 @@
         "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)"
     },
     {
+        "id": "OGN-135p",
+        "name": "Pakaa Cub",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Origin",
+        "image": "OGN-135-p.webp",
+        "blueprint_id": "353792",
+        "tcgp_id": 662913,
+        "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)"
+    },
+    {
         "id": "OGN-136",
         "name": "Pit Rookie",
         "type": "Unit",
@@ -2903,6 +3113,23 @@
         "image": "OGN-137.webp",
         "blueprint_id": "345325",
         "tcgp_id": 652921,
+        "effect": "Tank ( I must be assigned combat damage first. ) When you play me, channel 1 rune exhausted."
+    },
+    {
+        "id": "OGN-137p",
+        "name": "Stormclaw Ursine",
+        "type": "Unit",
+        "energy": "7",
+        "power": "0",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Origin",
+        "image": "OGN-137-p.webp",
+        "blueprint_id": "353794",
+        "tcgp_id": 662915,
         "effect": "Tank ( I must be assigned combat damage first. ) When you play me, channel 1 rune exhausted."
     },
     {
@@ -3622,6 +3849,23 @@
         "effect": "VISION (When you play me, look at the top card of your Main Deck. You may recycle it.)"
     },
     {
+        "id": "OGN-171p",
+        "name": "Mystic Poro",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-171-p.webp",
+        "blueprint_id": "353799",
+        "tcgp_id": 662920,
+        "effect": "VISION (When you play me, look at the top card of your Main Deck. You may recycle it.)"
+    },
+    {
         "id": "OGN-172",
         "name": "Rebuke",
         "type": "Spell",
@@ -3724,6 +3968,23 @@
         "effect": "When a friendly unit moves from my location, I may be moved with it."
     },
     {
+        "id": "OGN-177p",
+        "name": "Stealthy Pursuer",
+        "type": "Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-177-p.webp",
+        "blueprint_id": "353797",
+        "tcgp_id": 662918,
+        "effect": "When a friendly unit moves from my location, I may be moved with it."
+    },
+    {
         "id": "OGN-178",
         "name": "Undercover Agent",
         "type": "Unit",
@@ -3823,6 +4084,23 @@
         "image": "OGN-183.webp",
         "blueprint_id": "345375",
         "tcgp_id": 652972,
+        "effect": "ACTION (play on your turn or in showdowns.) \nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+    },
+    {
+        "id": "OGN-183p",
+        "name": "Stacked Deck",
+        "type": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-183-p.webp",
+        "blueprint_id": "353785",
+        "tcgp_id": 662906,
         "effect": "ACTION (play on your turn or in showdowns.) \nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
     },
     {
@@ -4090,6 +4368,26 @@
         "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nWhen you play me, give me +3 [might] this turn."
     },
     {
+        "id": "OGN-197p",
+        "name": "Teemo, Scout",
+        "type": "Champion Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "1",
+        "rarity": "Rare",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-197-p.webp",
+        "alternative": [
+            "OGN-197a"
+        ],
+        "blueprint_id": "353312",
+        "tcgp_id": 659766,
+        "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nWhen you play me, give me +3 [might] this turn."
+    },
+    {
         "id": "OGN-197a",
         "name": "Teemo, Scout",
         "type": "Champion Unit",
@@ -4107,6 +4405,26 @@
         ],
         "blueprint_id": "345391",
         "tcgp_id": 652988,
+        "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nWhen you play me, give me +3 [might] this turn."
+    },
+    {
+        "id": "OGN-197b",
+        "name": "Teemo, Scout",
+        "type": "Champion Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "1",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-197b.webp",
+        "alternative": [
+            "OGN-197"
+        ],
+        "blueprint_id": "353674",
+        "tcgp_id": 662898,
         "effect": "HIDDEN (Hide now for [rune] to react with later for [0].)\nWhen you play me, give me +3 [might] this turn."
     },
     {
@@ -4195,6 +4513,26 @@
         ],
         "blueprint_id": "345396",
         "tcgp_id": 652993,
+        "effect": "When you discard one or more cards, ready me and give me +1 [might] this turn."
+    },
+    {
+        "id": "OGN-202p",
+        "name": "Jinx, Rebel",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Epic",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-202-p.webp",
+        "alternative": [
+            "OGN-202a"
+        ],
+        "blueprint_id": "353803",
+        "tcgp_id": 662882,
         "effect": "When you discard one or more cards, ready me and give me +1 [might] this turn."
     },
     {
@@ -4377,6 +4715,23 @@
         "effect": "ASSAULT (+1 might while I'm an attacker.)"
     },
     {
+        "id": "OGN-210p",
+        "name": "Daring Poro",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-210-p.webp",
+        "blueprint_id": "353796",
+        "tcgp_id": 662917,
+        "effect": "ASSAULT (+1 might while I'm an attacker.)"
+    },
+    {
         "id": "OGN-211",
         "name": "Faithful Manufactor",
         "type": "Unit",
@@ -4553,6 +4908,23 @@
         "image": "OGN-218.webp",
         "blueprint_id": "345415",
         "tcgp_id": 653012,
+        "effect": "LEGION — When you play me, play two 1 [might] Recruit unit tokens here. (Gain this effect if you've played another card this turn.)"
+    },
+    {
+        "id": "OGN-218p",
+        "name": "Vanguard Captain",
+        "type": "Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-218-p.webp",
+        "blueprint_id": "353791",
+        "tcgp_id": 662912,
         "effect": "LEGION — When you play me, play two 1 [might] Recruit unit tokens here. (Gain this effect if you've played another card this turn.)"
     },
     {
@@ -4740,6 +5112,23 @@
         "image": "OGN-229.webp",
         "blueprint_id": "345426",
         "tcgp_id": 653023,
+        "effect": "Kill a unit."
+    },
+    {
+        "id": "OGN-229p",
+        "name": "Vengeance",
+        "type": "Spell",
+        "energy": "4",
+        "power": "2",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-229-p.webp",
+        "blueprint_id": "353788",
+        "tcgp_id": 662909,
         "effect": "Kill a unit."
     },
     {
@@ -5105,6 +5494,26 @@
         "effect": "When another non-Recruit unit you control dies, play a 1 [might] Recruit unit token into your base."
     },
     {
+        "id": "OGN-246p",
+        "name": "Viktor, Leader",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Epic",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-246-p.webp",
+        "alternative": [
+            "OGN-246a"
+        ],
+        "blueprint_id": "353804",
+        "tcgp_id": 662881,
+        "effect": "When another non-Recruit unit you control dies, play a 1 [might] Recruit unit token into your base."
+    },
+    {
         "id": "OGN-246a",
         "name": "Viktor, Leader",
         "type": "Champion Unit",
@@ -5140,6 +5549,24 @@
         "image": "OGN-247.webp",
         "blueprint_id": "345448",
         "tcgp_id": 653045,
+        "effect": "[tap] REACTION - ADD [rune]. Use only to play spells. (Abilities that add resources can't be reacted to.)"
+    },
+    {
+        "id": "OGN-247p",
+        "name": "Kai'Sa, Daughter of the Void",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury",
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-247-p.webp",
+        "blueprint_id": "353820",
+        "tcgp_id": 662896,
         "effect": "[tap] REACTION - ADD [rune]. Use only to play spells. (Abilities that add resources can't be reacted to.)"
     },
     {
@@ -5179,6 +5606,24 @@
         "effect": "When you play a MIGHTY unit, you may exhaust me to channel 1 rune exhausted. (A unit is Mighty while it has 5+ [might].)"
     },
     {
+        "id": "OGN-249p",
+        "name": "Volibear, Relentless Storm",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Epic",
+        "rune_type": [
+            "Body",
+            "Fury"
+        ],
+        "set": "Origin",
+        "image": "OGN-249-p.webp",
+        "blueprint_id": "353821",
+        "tcgp_id": 662897,
+        "effect": "When you play a MIGHTY unit, you may exhaust me to channel 1 rune exhausted. (A unit is Mighty while it has 5+ [might].)"
+    },
+    {
         "id": "OGN-250",
         "name": "Stormbringer",
         "type": "Signature Spell",
@@ -5212,6 +5657,24 @@
         "image": "OGN-251.webp",
         "blueprint_id": "330881",
         "tcgp_id": 653049,
+        "effect": "At the start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand."
+    },
+    {
+        "id": "OGN-251p",
+        "name": "Jinx, Loose Cannon",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury",
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-251-p.webp",
+        "blueprint_id": "353814",
+        "tcgp_id": 662894,
         "effect": "At the start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand."
     },
     {
@@ -5251,6 +5714,24 @@
         "effect": "[tap] REACTION, LEGION — ADD [1] (Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)"
     },
     {
+        "id": "OGN-253p",
+        "name": "Darius, Hand of Noxus",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury",
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-253-p.webp",
+        "blueprint_id": "353819",
+        "tcgp_id": 662895,
+        "effect": "[tap] REACTION, LEGION — ADD [1] (Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)"
+    },
+    {
         "id": "OGN-254",
         "name": "Noxian Guillotine",
         "type": "Signature Spell",
@@ -5284,6 +5765,24 @@
         "image": "OGN-255.webp",
         "blueprint_id": "345454",
         "tcgp_id": 653053,
+        "effect": "When an enemy unit attacks a battlefield you control, give it -1 [might] this turn, to a minimum of 1 [might]"
+    },
+    {
+        "id": "OGN-255p",
+        "name": "Ahri, Nine-Tailed Fox",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Calm",
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-255-p.webp",
+        "blueprint_id": "353812",
+        "tcgp_id": 662891,
         "effect": "When an enemy unit attacks a battlefield you control, give it -1 [might] this turn, to a minimum of 1 [might]"
     },
     {
@@ -5323,6 +5822,24 @@
         "effect": "[1] [tap]: Buff a friendly unit. (If it doesn't have a buff, it gets a +1 [might] buff.)"
     },
     {
+        "id": "OGN-257p",
+        "name": "Lee Sin, Blind Monk",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body",
+            "Calm"
+        ],
+        "set": "Origin",
+        "image": "OGN-257-p.webp",
+        "blueprint_id": "353813",
+        "tcgp_id": 662892,
+        "effect": "[1] [tap]: Buff a friendly unit. (If it doesn't have a buff, it gets a +1 [might] buff.)"
+    },
+    {
         "id": "OGN-258",
         "name": "Dragon's Rage",
         "type": "Signature Spell",
@@ -5356,6 +5873,24 @@
         "image": "OGN-259.webp",
         "blueprint_id": "330883",
         "tcgp_id": 653057,
+        "effect": "[2] , [tap] : Move a friendly unit to or from its base."
+    },
+    {
+        "id": "OGN-259p",
+        "name": "Yasuo, Unforgiven",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Calm",
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-259-p.webp",
+        "blueprint_id": "353811",
+        "tcgp_id": 662890,
         "effect": "[2] , [tap] : Move a friendly unit to or from its base."
     },
     {
@@ -5395,6 +5930,24 @@
         "effect": "When you stun one or more enemy units, buff a friendly unit. (If it doesn't have a buff, it gets a +1 [might] buff.)"
     },
     {
+        "id": "OGN-261p",
+        "name": "Leona, Radiant Dawn",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Epic",
+        "rune_type": [
+            "Calm",
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-261-p.webp",
+        "blueprint_id": "353810",
+        "tcgp_id": 662889,
+        "effect": "When you stun one or more enemy units, buff a friendly unit. (If it doesn't have a buff, it gets a +1 [might] buff.)"
+    },
+    {
         "id": "OGN-262",
         "name": "Zenith Blade",
         "type": "Signature Spell",
@@ -5428,6 +5981,24 @@
         "image": "OGN-263.webp",
         "blueprint_id": "345461",
         "tcgp_id": 653061,
+        "effect": "You may pay [1] to hide a card with HIDDEN instead of [rune].\n[1], [tap] Put a Teemo unit you own into your hand from your Champion Zone on the board."
+    },
+    {
+        "id": "OGN-263p",
+        "name": "Teemo, Swift Scout",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind",
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-263-p.webp",
+        "blueprint_id": "353807",
+        "tcgp_id": 662886,
         "effect": "You may pay [1] to hide a card with HIDDEN instead of [rune].\n[1], [tap] Put a Teemo unit you own into your hand from your Champion Zone on the board."
     },
     {
@@ -5467,6 +6038,24 @@
         "effect": "[1] , [tap] : Play a 1 [might] Recuit unit token."
     },
     {
+        "id": "OGN-265p",
+        "name": "Viktor, Herald of the Arcane",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Order",
+            "Mind"
+        ],
+        "set": "Origin",
+        "image": "OGN-265-p.webp",
+        "blueprint_id": "353809",
+        "tcgp_id": 662888,
+        "effect": "[1] , [tap] : Play a 1 [might] Recuit unit token."
+    },
+    {
         "id": "OGN-266",
         "name": "Siphon Power",
         "type": "Signature Spell",
@@ -5503,6 +6092,24 @@
         "effect": "[tap]: Give a unit GANKING this tum. (It can move from battlefield to battlefield.)"
     },
     {
+        "id": "OGN-267p",
+        "name": "Miss Fortune, Bounty Hunter",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body",
+            "Chaos"
+        ],
+        "set": "Origin",
+        "image": "OGN-267-p.webp",
+        "blueprint_id": "353808",
+        "tcgp_id": 662887,
+        "effect": "[tap]: Give a unit GANKING this tum. (It can move from battlefield to battlefield.)"
+    },
+    {
         "id": "OGN-268",
         "name": "Bullet Time",
         "type": "Signature Spell",
@@ -5536,6 +6143,24 @@
         "image": "OGN-269.webp",
         "blueprint_id": "345466",
         "tcgp_id": 653067,
+        "effect": "If a buffed unit you control would die, you may pay [rune], exhaust me, and spend its buff to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)\nWhen you conquer, ready me."
+    },
+    {
+        "id": "OGN-269p",
+        "name": "Sett, The Boss",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body",
+            "Order"
+        ],
+        "set": "Origin",
+        "image": "OGN-269-p.webp",
+        "blueprint_id": "353806",
+        "tcgp_id": 662885,
         "effect": "If a buffed unit you control would die, you may pay [rune], exhaust me, and spend its buff to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)\nWhen you conquer, ready me."
     },
     {
@@ -5960,6 +6585,20 @@
         "image": "OGN-XXX.webp",
         "blueprint_id": "345520",
         "tcgp_id": 653117,
+        "effect": "A unit may have no more than one buff at a time."
+    },
+    {
+        "id": "OGN-XXXp",
+        "name": "Buff",
+        "type": "Token Card",
+        "energy": "0",
+        "power": "0",
+        "might": "1",
+        "rarity": "Common",
+        "set": "Origin",
+        "image": "OGN-XXX-p.webp",
+        "blueprint_id": "355461",
+        "tcgp_id": 663004,
         "effect": "A unit may have no more than one buff at a time."
     },
     {
