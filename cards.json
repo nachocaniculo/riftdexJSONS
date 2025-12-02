@@ -7101,6 +7101,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-028",
+        "name": "Lucian, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "2",
+        "rarity": "Epic",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-028.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-028a",
+        "name": "Lucian, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "2",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-028a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-029",
         "name": "Rek'Sai, Breacher",
         "type": "Champion Unit",
@@ -7713,6 +7747,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-076",
+        "name": "Production Surge",
+        "type": "Spell",
+        "energy": "4",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-076.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-077",
+        "name": "Rocket Barrage",
+        "type": "Spell",
+        "energy": "4",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-077.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-079",
         "name": "Bard, Mercurial",
         "type": "Champion Unit",
@@ -7963,6 +8031,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-095.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-097",
+        "name": "Punch First",
+        "type": "Spell",
+        "energy": "1",
+        "power": "2",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-097.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
