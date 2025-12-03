@@ -7741,7 +7741,7 @@
     },
     {
         "id": "SFD-028",
-        "name": "Lucian, ?",
+        "name": "Lucian, Gunslinger",
         "type": "Champion Unit",
         "energy": "3",
         "power": "0",
@@ -7758,7 +7758,7 @@
     },
     {
         "id": "SFD-028a",
-        "name": "Lucian, ?",
+        "name": "Lucian, Gunslinger",
         "type": "Champion Unit",
         "energy": "3",
         "power": "0",
@@ -7809,7 +7809,7 @@
     },
     {
         "id": "SFD-032",
-        "name": "?",
+        "name": "Disarming Rake",
         "type": "Unit",
         "energy": "3",
         "power": "1",
@@ -7860,7 +7860,7 @@
     },
     {
         "id": "SFD-035",
-        "name": "?",
+        "name": "Guardian of the Passage",
         "type": "Unit",
         "energy": "6",
         "power": "0",
@@ -7877,7 +7877,7 @@
     },
     {
         "id": "SFD-036",
-        "name": "?",
+        "name": "Lonely Poro",
         "type": "Unit",
         "energy": "2",
         "power": "0",
@@ -7928,7 +7928,7 @@
     },
     {
         "id": "SFD-041",
-        "name": "?",
+        "name": "Apprentice Smith",
         "type": "Unit",
         "energy": "2",
         "power": "0",
@@ -7962,7 +7962,7 @@
     },
     {
         "id": "SFD-044",
-        "name": "?",
+        "name": "Legion Quartermaster",
         "type": "Unit",
         "energy": "3",
         "power": "0",
@@ -8081,7 +8081,7 @@
     },
     {
         "id": "SFD-053",
-        "name": "Janna, Saving Grace",
+        "name": "Janna, Savior",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
@@ -8455,7 +8455,7 @@
     },
     {
         "id": "SFD-081",
-        "name": "Honest Croupier?",
+        "name": "Card Sharp",
         "type": "Unit",
         "energy": "3",
         "power": "0",
@@ -8506,7 +8506,7 @@
     },
     {
         "id": "SFD-083",
-        "name": "?",
+        "name": "Hextech Anomaly",
         "type": "Gear",
         "energy": "3",
         "power": "1",
@@ -8574,7 +8574,7 @@
     },
     {
         "id": "SFD-089",
-        "name": "Rumble, ?",
+        "name": "Rumble, Scrapper",
         "type": "Champion Unit",
         "energy": "5",
         "power": "1",
@@ -8591,7 +8591,7 @@
     },
     {
         "id": "SFD-089a",
-        "name": "Rumble, ?",
+        "name": "Rumble, Scrapper",
         "type": "Champion Unit",
         "energy": "5",
         "power": "1",
@@ -8608,7 +8608,7 @@
     },
     {
         "id": "SFD-090",
-        "name": "?",
+        "name": "The Zero Drive",
         "type": "Gear",
         "energy": "3",
         "power": "0",
@@ -8744,7 +8744,7 @@
     },
     {
         "id": "SFD-105",
-        "name": "Ruin Runner?",
+        "name": "Ruin Runner",
         "type": "Unit",
         "energy": "6",
         "power": "0",
@@ -8795,7 +8795,7 @@
     },
     {
         "id": "SFD-110",
-        "name": "Fiora, ?",
+        "name": "Fiora, Peerless",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
@@ -8812,7 +8812,7 @@
     },
     {
         "id": "SFD-110a",
-        "name": "Fiora, ?",
+        "name": "Fiora, Peerless",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
