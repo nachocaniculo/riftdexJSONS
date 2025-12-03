@@ -7553,6 +7553,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-003",
+        "name": "?",
+        "type": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-003.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-004",
+        "name": "?",
+        "type": "Spell",
+        "energy": "2",
+        "power": "01",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-004.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-007",
         "name": "Gem Jammer",
         "type": "Unit",
@@ -7582,6 +7616,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-010.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-012",
+        "name": "?",
+        "type": "Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-012.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-017",
+        "name": "?",
+        "type": "Spell",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-017.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7888,6 +7956,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-036.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-037",
+        "name": "?",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-037.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8301,6 +8386,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-064",
+        "name": "Cloth Armor",
+        "type": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-064.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-066",
+        "name": "?",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-066.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-067",
         "name": "Frostcoat Cub",
         "type": "Unit",
@@ -8415,6 +8534,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-077.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-078",
+        "name": "?",
+        "type": "Gear",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-078.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8568,6 +8704,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-087.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-088",
+        "name": "Renata Glasc, ?",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "4",
+        "rarity": "Epic",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-088.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-088a",
+        "name": "Renata Glasc, ?",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-088a.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8789,6 +8959,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-108.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-109",
+        "name": "Akshan, ?",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-109.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9270,6 +9457,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-144",
+        "name": "?",
+        "type": "Gear",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-144.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-145",
         "name": "Switcheroo",
         "type": "Spell",
@@ -9350,6 +9554,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-148a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-149",
+        "name": "Ezreal, ?",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Epic",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-149.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -10573,6 +10794,24 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-244.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-245",
+        "name": "?",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm",
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-245.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
