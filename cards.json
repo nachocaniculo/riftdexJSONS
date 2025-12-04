@@ -7553,8 +7553,25 @@
         "effect": ""
     },
     {
+        "id": "SFD-002",
+        "name": "Armed Assailant",
+        "type": "Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-002.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-003",
-        "name": "?",
+        "name": "Blood Rush",
         "type": "Spell",
         "energy": "1",
         "power": "0",
@@ -7571,10 +7588,10 @@
     },
     {
         "id": "SFD-004",
-        "name": "?",
+        "name": "Bushwhack",
         "type": "Spell",
         "energy": "2",
-        "power": "01",
+        "power": "1",
         "might": "0",
         "rarity": "Common",
         "rune_type": [
@@ -7582,6 +7599,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-004.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-005",
+        "name": "Detonate",
+        "type": "Spell",
+        "energy": "1",
+        "power": "1",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-005.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-006",
+        "name": "Eager Drakehound",
+        "type": "Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-006.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7604,6 +7655,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-008",
+        "name": "Sentinel Adept",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-008.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-009",
+        "name": "Serrated Dirk",
+        "type": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-009.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-010",
         "name": "Void Drone",
         "type": "Unit",
@@ -7621,8 +7706,25 @@
         "effect": ""
     },
     {
+        "id": "SFD-011",
+        "name": "Angle Shot",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-011.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-012",
-        "name": "?",
+        "name": "Battering Ram",
         "type": "Unit",
         "energy": "5",
         "power": "0",
@@ -7638,8 +7740,76 @@
         "effect": ""
     },
     {
+        "id": "SFD-013",
+        "name": "Blast Corps Cadet",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-013.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-014",
+        "name": "Minotaur Reckoner",
+        "type": "Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-014.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-015",
+        "name": "Perched Grimwyrn",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-015.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-016",
+        "name": "Recurve Bow",
+        "type": "Gear",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-016.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-017",
-        "name": "?",
+        "name": "Sudden Storm",
         "type": "Spell",
         "energy": "3",
         "power": "0",
@@ -7667,6 +7837,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-018.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-019",
+        "name": "Assembly Rig",
+        "type": "Gear",
+        "energy": "4",
+        "power": "0",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-019.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7791,6 +7978,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-026",
+        "name": "Rumble, Hotheaded",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-026.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-026a",
+        "name": "Rumble, Hotheaded",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-026a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-027",
         "name": "Dunebreaker",
         "type": "Unit",
@@ -7871,6 +8092,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-029a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-030",
+        "name": "Skyfall of Areion",
+        "type": "Gear",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Epic",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-030.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-031",
+        "name": "Desert's Call",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-031.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -7962,7 +8217,7 @@
     },
     {
         "id": "SFD-037",
-        "name": "?",
+        "name": "Navori Scout",
         "type": "Unit",
         "energy": "4",
         "power": "0",
@@ -7973,6 +8228,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-037.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-038",
+        "name": "Ribbon Dancer",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-038.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8046,6 +8318,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-043",
+        "name": "Emperor's Divide",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-043.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-044",
         "name": "Legion Quartermaster",
         "type": "Unit",
@@ -8075,6 +8364,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-045.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-046",
+        "name": "Poro Snax",
+        "type": "Gear",
+        "energy": "1",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-046.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-047",
+        "name": "Simian Ancestor",
+        "type": "Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-047.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8160,6 +8483,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-051.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-052",
+        "name": "Heart of Dark Ice",
+        "type": "Gear",
+        "energy": "3",
+        "power": "1",
+        "might": "0",
+        "rarity": "Rare",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-052.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8301,6 +8641,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-058a",
+        "name": "Ornn, Blacksmith",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "5",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-058a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-059",
         "name": "Svellsongur",
         "type": "Gear",
@@ -8403,8 +8760,25 @@
         "effect": ""
     },
     {
+        "id": "SFD-065",
+        "name": "Forecaster",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-065.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-066",
-        "name": "?",
+        "name": "Frigid Touch",
         "type": "Spell",
         "energy": "2",
         "power": "0",
@@ -8437,6 +8811,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-068",
+        "name": "Gearhead",
+        "type": "Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-068.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-069",
         "name": "Plundering Poro",
         "type": "Unit",
@@ -8449,6 +8840,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-069.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-070",
+        "name": "Wages of Pain",
+        "type": "Spell",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-070.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8471,6 +8879,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-072",
+        "name": "Dropboarder",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-072.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-073",
         "name": "Experimental Hexplate",
         "type": "Unit",
@@ -8483,6 +8908,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-073.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-074",
+        "name": "Pickpocket",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-074.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8540,7 +8982,7 @@
     },
     {
         "id": "SFD-078",
-        "name": "?",
+        "name": "Temporal Portal",
         "type": "Gear",
         "energy": "3",
         "power": "0",
@@ -8675,6 +9117,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-085",
+        "name": "Ornn, Forge God",
+        "type": "Champion Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-085.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-085a",
+        "name": "Ornn, Forge God",
+        "type": "Champion Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-085a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-086",
         "name": "World Atlas",
         "type": "Gear",
@@ -8710,7 +9186,7 @@
     },
     {
         "id": "SFD-088",
-        "name": "Renata Glasc, ?",
+        "name": "Renata Glasc, Mastermind",
         "type": "Champion Unit",
         "energy": "5",
         "power": "0",
@@ -8727,7 +9203,7 @@
     },
     {
         "id": "SFD-088a",
-        "name": "Renata Glasc, ?",
+        "name": "Renata Glasc, Mastermind",
         "type": "Champion Unit",
         "energy": "5",
         "power": "0",
@@ -8811,6 +9287,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-092",
+        "name": "Combat Chef",
+        "type": "Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "5",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-092.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-093",
         "name": "Dauntless Vanguard",
         "type": "Unit",
@@ -8823,6 +9316,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-093.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-094",
+        "name": "Direwing",
+        "type": "Unit",
+        "energy": "7",
+        "power": "0",
+        "might": "7",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-094.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8845,6 +9355,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-096",
+        "name": "Laurent Bladekeeper",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-096.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-097",
         "name": "Punch First",
         "type": "Spell",
@@ -8857,6 +9384,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-097.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-098",
+        "name": "Sea Monkey",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-098.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8896,6 +9440,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-101",
+        "name": "Fae Dragon",
+        "type": "Unit",
+        "energy": "7",
+        "power": "1",
+        "might": "7",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-101.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-102",
+        "name": "Hexdrinker",
+        "type": "Gear",
+        "energy": "2",
+        "power": "0",
+        "might": "1",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-102.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-103",
         "name": "Jaull-Fish",
         "type": "Unit",
@@ -8913,6 +9491,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-104",
+        "name": "Petricite Monument",
+        "type": "Gear",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-104.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-105",
         "name": "Ruin Runner",
         "type": "Unit",
@@ -8925,6 +9520,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-105.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-106",
+        "name": "Show of Strength",
+        "type": "Spell",
+        "energy": "2",
+        "power": "1",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Body"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-106.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -8965,7 +9577,7 @@
     },
     {
         "id": "SFD-109",
-        "name": "Akshan, ?",
+        "name": "Akshan, Mischievous",
         "type": "Champion Unit",
         "energy": "4",
         "power": "0",
@@ -9236,6 +9848,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-121",
+        "name": "Black Market Broker",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-121.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-122",
         "name": "Called Shot",
         "type": "Spell",
@@ -9248,6 +9877,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-122.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-123",
+        "name": "Corrput Enforcer",
+        "type": "Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "4",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-123.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9270,6 +9916,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-125",
+        "name": "Fae Porter",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-125.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-126",
         "name": "Loyal Pup",
         "type": "Unit",
@@ -9282,6 +9945,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-126.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-127",
+        "name": "Master Bingwen",
+        "type": "Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-127.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9304,6 +9984,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-129",
+        "name": "Temptation",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-129.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-130",
         "name": "Treasure Hunter",
         "type": "Unit",
@@ -9316,6 +10013,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-130.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-131",
+        "name": "Ancient Warmonger",
+        "type": "Unit",
+        "energy": "5",
+        "power": "0",
+        "might": "4",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-131.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-132",
+        "name": "Beast Below",
+        "type": "Unit",
+        "energy": "7",
+        "power": "2",
+        "might": "8",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-132.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9338,6 +10069,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-134",
+        "name": "Cull",
+        "type": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-134.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-135",
+        "name": "Factory Recall",
+        "type": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-135.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-136",
         "name": "Hard Bargain",
         "type": "Spell",
@@ -9350,6 +10115,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-136.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-137",
+        "name": "Harpoon Squad",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "4",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-137.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9457,8 +10239,42 @@
         "effect": ""
     },
     {
+        "id": "SFD-143",
+        "name": "Sivir, Mercenary",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Rare",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-143.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-143a",
+        "name": "Sivir, Mercenary",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-143a.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-144",
-        "name": "?",
+        "name": "Spirit Wheel",
         "type": "Gear",
         "energy": "2",
         "power": "0",
@@ -9560,7 +10376,7 @@
     },
     {
         "id": "SFD-149",
-        "name": "Ezreal, ?",
+        "name": "Ezreal, Prodigy",
         "type": "Champion Unit",
         "energy": "3",
         "power": "1",
@@ -9571,6 +10387,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-149.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-149a",
+        "name": "Ezreal, Prodigy",
+        "type": "Champion Unit",
+        "energy": "3",
+        "power": "1",
+        "might": "3",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-149a.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9610,6 +10443,57 @@
         "effect": ""
     },
     {
+        "id": "SFD-152",
+        "name": "Eminent Benefactor",
+        "type": "Unit",
+        "energy": "6",
+        "power": "0",
+        "might": "5",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-152.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-153",
+        "name": "Eye of the Herald",
+        "type": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-153.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-154",
+        "name": "Guards!",
+        "type": "Spell",
+        "energy": "3",
+        "power": "0",
+        "might": "0",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-154.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-155",
         "name": "Honest Broker",
         "type": "Unit",
@@ -9622,6 +10506,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-155.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-156",
+        "name": "Laurent Duelist",
+        "type": "Unit",
+        "energy": "4",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-156.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9644,6 +10545,57 @@
         "effect": ""
     },
     {
+        "id": "SFD-158",
+        "name": "Sandshifter",
+        "type": "Unit",
+        "energy": "5",
+        "power": "2",
+        "might": "6",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-158.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-159",
+        "name": "Trusty Ramhound",
+        "type": "Unit",
+        "energy": "2",
+        "power": "0",
+        "might": "2",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-159.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-160",
+        "name": "Zaun Punk",
+        "type": "Unit",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "rarity": "Common",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-160.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-161",
         "name": "B.F. Sword",
         "type": "Gear",
@@ -9656,6 +10608,40 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-161.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-162",
+        "name": "Blood Money",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-162.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-163",
+        "name": "Deathgrip",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-163.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -9690,6 +10676,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-165.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-166",
+        "name": "Rally the Troops",
+        "type": "Spell",
+        "energy": "2",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-166.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -10163,6 +11166,60 @@
         "effect": ""
     },
     {
+        "id": "SFD-190",
+        "name": "Forgefire Cape",
+        "type": "Signature Gear",
+        "energy": "4",
+        "power": "2",
+        "might": "3",
+        "rarity": "Epic",
+        "rune_type": [
+            "Calm",
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-190.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-191",
+        "name": "Rabadon's Deathcrown",
+        "type": "Signature Gear",
+        "energy": "4",
+        "power": "2",
+        "might": "3",
+        "rarity": "Epic",
+        "rune_type": [
+            "Calm",
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-191.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-192",
+        "name": "Shurelya's Requiem",
+        "type": "Signature Gear",
+        "energy": "4",
+        "power": "2",
+        "might": "2",
+        "rarity": "Epic",
+        "rune_type": [
+            "Calm",
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-192.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-193",
         "name": "Grandmaster at Arms",
         "type": "Legend",
@@ -10254,7 +11311,7 @@
     },
     {
         "id": "SFD-198",
-        "name": "Sand Soldiers Manifest",
+        "name": "Arise!",
         "type": "Signature Spell",
         "energy": "6",
         "power": "1",
@@ -10362,7 +11419,7 @@
     },
     {
         "id": "SFD-204",
-        "name": "Hunt",
+        "name": "On the Hunt",
         "type": "Signature Spell",
         "energy": "1",
         "power": "2",
@@ -10398,7 +11455,7 @@
     },
     {
         "id": "SFD-206",
-        "name": "Bladework of the Laurent",
+        "name": "Ripose",
         "type": "Signature Spell",
         "energy": "2",
         "power": "2",
@@ -10410,6 +11467,90 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-206.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-207",
+        "name": "Emperor's Dais",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-207.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-208",
+        "name": "Forge of the Fluft",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-208.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-209",
+        "name": "Forgotten Monument",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-209.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-210",
+        "name": "Hall of Legends",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-210.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-211",
+        "name": "Marai Spire",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-211.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-212",
+        "name": "Minifield",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-212.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -10457,6 +11598,62 @@
         "effect": ""
     },
     {
+        "id": "SFD-216",
+        "name": "Rockfall Path",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-216.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-217",
+        "name": "Seat of Power",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-217.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-218",
+        "name": "Sunken Temple",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-218.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-219",
+        "name": "The Papertree",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-219.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-220",
         "name": "Treasure Hoard",
         "type": "Battlefield",
@@ -10466,6 +11663,37 @@
         "rarity": "Uncommon",
         "set": "Spiritforged",
         "image": "SFD-220.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-221",
+        "name": "Veiled Temple",
+        "type": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Uncommon",
+        "set": "Spiritforged",
+        "image": "SFD-221.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-222",
+        "name": "Seal of Rage",
+        "type": "Gear",
+        "energy": "0",
+        "power": "1",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Fury"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-222.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -10484,7 +11712,7 @@
         "set": "Spiritforged",
         "image": "SFD-223.webp",
         "blueprint_id": "",
-        "tcgp_id": 652808,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10501,7 +11729,41 @@
         "set": "Spiritforged",
         "image": "SFD-223s.webp",
         "blueprint_id": "",
-        "tcgp_id": 652808,
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-224",
+        "name": "Aphelios, Exalted",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-224.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-224s",
+        "name": "Aphelios, Exalted",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-224s.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10552,7 +11814,7 @@
         "set": "Spiritforged",
         "image": "SFD-226.webp",
         "blueprint_id": "",
-        "tcgp_id": 652861,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10569,7 +11831,7 @@
         "set": "Spiritforged",
         "image": "SFD-227.webp",
         "blueprint_id": "",
-        "tcgp_id": 652901,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10586,7 +11848,24 @@
         "set": "Spiritforged",
         "image": "SFD-227s.webp",
         "blueprint_id": "",
-        "tcgp_id": 652901,
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-229",
+        "name": "Seal of Insight",
+        "type": "Gear",
+        "energy": "0",
+        "power": "1",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-229.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10603,7 +11882,7 @@
         "set": "Spiritforged",
         "image": "SFD-231.webp",
         "blueprint_id": "",
-        "tcgp_id": 652950,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10620,7 +11899,7 @@
         "set": "Spiritforged",
         "image": "SFD-232.webp",
         "blueprint_id": "",
-        "tcgp_id": 652951,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10637,7 +11916,7 @@
         "set": "Spiritforged",
         "image": "SFD-232s.webp",
         "blueprint_id": "",
-        "tcgp_id": 652951,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10654,7 +11933,7 @@
         "set": "Spiritforged",
         "image": "SFD-233.webp",
         "blueprint_id": "",
-        "tcgp_id": 652951,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10671,7 +11950,7 @@
         "set": "Spiritforged",
         "image": "SFD-233s.webp",
         "blueprint_id": "",
-        "tcgp_id": 652951,
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10688,7 +11967,24 @@
         "set": "Spiritforged",
         "image": "SFD-234.webp",
         "blueprint_id": "",
-        "tcgp_id": 652996,
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-236",
+        "name": "Darius, Executioner",
+        "type": "Champion Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "6",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-236.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10705,7 +12001,58 @@
         "set": "Spiritforged",
         "image": "SFD-236s.webp",
         "blueprint_id": "",
-        "tcgp_id": 653039,
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-238",
+        "name": "Seal of Unity",
+        "type": "Gear",
+        "energy": "0",
+        "power": "1",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-238.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-239",
+        "name": "Soraka, Wanderer",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-239.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-239s",
+        "name": "Soraka, Wanderer",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-239s.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
         "effect": ""
     },
     {
@@ -10800,7 +12147,7 @@
     },
     {
         "id": "SFD-245",
-        "name": "?",
+        "name": "Grandmaster at Arms",
         "type": "Legend",
         "energy": "0",
         "power": "0",
@@ -10830,6 +12177,78 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-246.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-247",
+        "name": "Emperor of the Sands",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Calm",
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-247.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-248",
+        "name": "Prodigial Explorer",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind",
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-248.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-249",
+        "name": "Chem-Baroness",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind",
+            "Order"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-249.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-250",
+        "name": "Battle Mistress",
+        "type": "Legend",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Body",
+            "Chaos"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-250.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
