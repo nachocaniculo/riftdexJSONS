@@ -11852,6 +11852,40 @@
         "effect": ""
     },
     {
+        "id": "SFD-228",
+        "name": "Bard, Mercurial",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-228.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-228s",
+        "name": "Bard, Mercurial",
+        "type": "Champion Unit",
+        "energy": "4",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-228s.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-229",
         "name": "Seal of Insight",
         "type": "Gear",
@@ -11864,6 +11898,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-229.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-230",
+        "name": "Teemo, Strategist",
+        "type": "Champion Unit",
+        "energy": "2",
+        "power": "1",
+        "might": "2",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-230.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
@@ -11971,6 +12022,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-235",
+        "name": "Yone, Blademaster",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-235.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-236",
         "name": "Darius, Executioner",
         "type": "Champion Unit",
@@ -12000,6 +12068,23 @@
         ],
         "set": "Spiritforged",
         "image": "SFD-236s.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-237",
+        "name": "Karma, Channeler",
+        "type": "Champion Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "6",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-237.webp",
         "blueprint_id": "",
         "tcgp_id": null,
         "effect": ""
