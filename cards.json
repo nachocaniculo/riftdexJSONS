@@ -11920,6 +11920,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-230s",
+        "name": "Teemo, Strategist",
+        "type": "Champion Unit",
+        "energy": "2",
+        "power": "1",
+        "might": "2",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-230.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-231",
         "name": "Seal of Strength",
         "type": "Gear",
@@ -12039,6 +12056,23 @@
         "effect": ""
     },
     {
+        "id": "SFD-235s",
+        "name": "Yone, Blademaster",
+        "type": "Champion Unit",
+        "energy": "5",
+        "power": "1",
+        "might": "4",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-235s.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
         "id": "SFD-236",
         "name": "Darius, Executioner",
         "type": "Champion Unit",
@@ -12074,6 +12108,23 @@
     },
     {
         "id": "SFD-237",
+        "name": "Karma, Channeler",
+        "type": "Champion Unit",
+        "energy": "6",
+        "power": "1",
+        "might": "6",
+        "rarity": "Showcase",
+        "rune_type": [
+            "Mind"
+        ],
+        "set": "Spiritforged",
+        "image": "SFD-237.webp",
+        "blueprint_id": "",
+        "tcgp_id": null,
+        "effect": ""
+    },
+    {
+        "id": "SFD-237s",
         "name": "Karma, Channeler",
         "type": "Champion Unit",
         "energy": "6",
